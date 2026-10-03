@@ -6,6 +6,7 @@
 //   video:   bun scripts/render.ts video [--from 0] [--to 222.36] [--fps 60] [--crf 16] [--x264 aq-mode=3] [--samples 1] [--shutter 0.5] [--out ../out/p-of-us.mp4] [--noaudio]
 //            --samples N averages N sub-frames per frame over shutter×(1/fps): motion blur + temporal AA;
 //            --samples auto picks the count per frame (4, 12, 36, 108 or 324, see Engine.render)
+//   --thumb a|b (stills): the YouTube thumbnail instead of the song (scenes/thumb.ts)
 //   --scale N (all modes): render at N× the 1920x1080 layout (--scale 2 = true 3840x2160); stills are then saved
 //            full-res from the pixel buffer, videos are encoded at the physical size.
 //   --angle metal|swiftshader|gl: the browser's GL backend (default metal on macOS, swiftshader elsewhere); CHROME_PATH picks the browser.
@@ -59,7 +60,8 @@ async function openPage(url: string) {
   page.on('console', (m) => { if (m.type() === 'error' || m.type() === 'warning') logs.push(`[${m.type()}] ${m.text()}`); });
   page.on('pageerror', (e) => logs.push(`[pageerror] ${e.message}`));
   const only = opt('only');
-  await page.goto(`${url}/?export=1${only ? `&only=${only}` : ''}${SCALE !== 1 ? `&scale=${SCALE}` : ''}`);
+  const thumb = opt('thumb');
+  await page.goto(`${url}/?export=1${only ? `&only=${only}` : ''}${SCALE !== 1 ? `&scale=${SCALE}` : ''}${thumb ? `&thumb=${thumb}` : ''}`);
   await page.waitForFunction(() => (window as any).__pus?.ready || (window as any).__pus?.error, null, { timeout: 120000 });
   const err = await page.evaluate(() => (window as any).__pus.error);
   if (err) throw new Error(`app failed to boot:\n${err}\n${logs.join('\n')}`);

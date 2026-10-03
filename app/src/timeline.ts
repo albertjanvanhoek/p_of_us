@@ -49,6 +49,10 @@ export function makeTimeline(ly: Lyrics, au: AudioData): TimelineEntry[] {
   const E = (id: string, file: string, start: number, end: number, extra: Partial<TimelineEntry> = {}): TimelineEntry =>
     ({ id, load: scene(file), start, end, ...extra });
 
+  // ?thumb=a|b: the YouTube thumbnail instead of the song (render.ts stills --thumb a)
+  const thumb = typeof location !== 'undefined' ? new URLSearchParams(location.search).get('thumb') : null;
+  if (thumb) return [E('thumb', 'thumb', 0, au.duration, { params: { variant: thumb } })];
+
   return [
     E('hold', 'hold', b.hold, b.screens),
     E('screens', 'screens', b.screens, b.fit),

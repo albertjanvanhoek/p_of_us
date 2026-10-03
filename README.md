@@ -40,6 +40,10 @@ Stills and clips: `bun scripts/render.ts stills --t 5.7,63.9`, `bun scripts/rend
 
 Without a local setup: GitHub → Actions → **render preview** → Run workflow, pick a section, and download the MP4 from the run's artifacts (a section takes about 10–15 minutes at 30 fps, no motion blur).
 
+### Thumbnail
+
+`docs/thumbnail.jpg` (1280×720, for YouTube) and `docs/thumbnail-moire.jpg` (the same over the chorus 3 moiré) are printed by the same press as the video (`src/scenes/thumb.ts`). Regenerate: `bun scripts/render.ts stills --t 1 --thumb a --scale 2 --out ../out/thumb/a`, then `ffmpeg -i ../out/thumb/a/f_0001.00.png -vf scale=1280:720:flags=lanczos -q:v 2 ../docs/thumbnail.jpg` (`--thumb b` for the moiré version).
+
 ### Render the video (no GPU needed)
 
 GitHub → Actions → **render final** → Run workflow (from `main`). It splits the song into frame ranges rendered on parallel runners (software GL, about 2.3 s per frame with light motion blur), joins them without re-encoding and adds the song: one MP4 in the run's artifacts. Defaults: 1080p, 30 fps, 4 sub-frames per frame, 12 parts, CRF 18, about 25–35 minutes in total. On a Mac with a GPU the same can be rendered locally: `bun scripts/render.ts video --samples auto --shutter 0.2 --out ../out/p-of-us.mp4`.
