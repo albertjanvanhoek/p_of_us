@@ -1,0 +1,25 @@
+name: build
+
+# Typecheck and build the renderer on every push and pull request.
+on:
+  push:
+    paths: ['app/**', '.github/workflows/build.yml']
+  pull_request:
+    paths: ['app/**', '.github/workflows/build.yml']
+
+jobs:
+  renderer:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: app
+    steps:
+      - uses: actions/checkout@v5
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
+      - name: Typecheck
+        run: |
+          bunx tsc --noEmit -p tsconfig.json
+          bunx tsc --noEmit -p tsconfig.scripts.json
+      - name: Build
+        run: bunx vite build
