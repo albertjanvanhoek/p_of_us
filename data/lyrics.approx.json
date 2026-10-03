@@ -1,0 +1,3078 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "section": "verse1",
+   "start": 23.255,
+   "end": 25.254,
+   "text": "I hold you by the hand",
+   "words": [
+    {
+     "w": "I",
+     "start": 23.255,
+     "end": 23.588,
+     "conf": 0.0
+    },
+    {
+     "w": "hold",
+     "start": 23.588,
+     "end": 23.921,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 23.921,
+     "end": 24.255,
+     "conf": 0.0
+    },
+    {
+     "w": "by",
+     "start": 24.255,
+     "end": 24.588,
+     "conf": 0.0
+    },
+    {
+     "w": "the",
+     "start": 24.588,
+     "end": 24.921,
+     "conf": 0.0
+    },
+    {
+     "w": "hand",
+     "start": 24.921,
+     "end": 25.254,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 1,
+   "section": "verse1",
+   "start": 25.646,
+   "end": 27.645,
+   "text": "We tumble down to wonderland",
+   "words": [
+    {
+     "w": "We",
+     "start": 25.646,
+     "end": 25.896,
+     "conf": 0.0
+    },
+    {
+     "w": "tumble",
+     "start": 25.896,
+     "end": 26.396,
+     "conf": 0.0
+    },
+    {
+     "w": "down",
+     "start": 26.396,
+     "end": 26.646,
+     "conf": 0.0
+    },
+    {
+     "w": "to",
+     "start": 26.646,
+     "end": 26.895,
+     "conf": 0.0
+    },
+    {
+     "w": "wonderland",
+     "start": 26.895,
+     "end": 27.645,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 2,
+   "section": "verse1",
+   "start": 28.015,
+   "end": 30.014,
+   "text": "I look you in the eye",
+   "words": [
+    {
+     "w": "I",
+     "start": 28.015,
+     "end": 28.348,
+     "conf": 0.0
+    },
+    {
+     "w": "look",
+     "start": 28.348,
+     "end": 28.681,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 28.681,
+     "end": 29.015,
+     "conf": 0.0
+    },
+    {
+     "w": "in",
+     "start": 29.015,
+     "end": 29.348,
+     "conf": 0.0
+    },
+    {
+     "w": "the",
+     "start": 29.348,
+     "end": 29.681,
+     "conf": 0.0
+    },
+    {
+     "w": "eye",
+     "start": 29.681,
+     "end": 30.014,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 3,
+   "section": "verse1",
+   "start": 30.383,
+   "end": 32.382,
+   "text": "And see a little of myself inside",
+   "words": [
+    {
+     "w": "And",
+     "start": 30.383,
+     "end": 30.565,
+     "conf": 0.0
+    },
+    {
+     "w": "see",
+     "start": 30.565,
+     "end": 30.746,
+     "conf": 0.0
+    },
+    {
+     "w": "a",
+     "start": 30.746,
+     "end": 30.928,
+     "conf": 0.0
+    },
+    {
+     "w": "little",
+     "start": 30.928,
+     "end": 31.292,
+     "conf": 0.0
+    },
+    {
+     "w": "of",
+     "start": 31.292,
+     "end": 31.473,
+     "conf": 0.0
+    },
+    {
+     "w": "myself",
+     "start": 31.473,
+     "end": 31.837,
+     "conf": 0.0
+    },
+    {
+     "w": "inside",
+     "start": 31.837,
+     "end": 32.382,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 4,
+   "section": "verse1",
+   "start": 32.74,
+   "end": 34.739,
+   "text": "We are both unsure",
+   "words": [
+    {
+     "w": "We",
+     "start": 32.74,
+     "end": 33.026,
+     "conf": 0.0
+    },
+    {
+     "w": "are",
+     "start": 33.026,
+     "end": 33.597,
+     "conf": 0.0
+    },
+    {
+     "w": "both",
+     "start": 33.597,
+     "end": 33.882,
+     "conf": 0.0
+    },
+    {
+     "w": "unsure",
+     "start": 33.882,
+     "end": 34.739,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 5,
+   "section": "verse1",
+   "start": 35.109,
+   "end": 37.108,
+   "text": "About the certainty we feel",
+   "words": [
+    {
+     "w": "About",
+     "start": 35.109,
+     "end": 35.609,
+     "conf": 0.0
+    },
+    {
+     "w": "the",
+     "start": 35.609,
+     "end": 35.859,
+     "conf": 0.0
+    },
+    {
+     "w": "certainty",
+     "start": 35.859,
+     "end": 36.608,
+     "conf": 0.0
+    },
+    {
+     "w": "we",
+     "start": 36.608,
+     "end": 36.858,
+     "conf": 0.0
+    },
+    {
+     "w": "feel",
+     "start": 36.858,
+     "end": 37.108,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 6,
+   "section": "verse1",
+   "start": 37.454,
+   "end": 39.453,
+   "text": "You build a model of the world",
+   "words": [
+    {
+     "w": "You",
+     "start": 37.454,
+     "end": 37.704,
+     "conf": 0.0
+    },
+    {
+     "w": "build",
+     "start": 37.704,
+     "end": 37.954,
+     "conf": 0.0
+    },
+    {
+     "w": "a",
+     "start": 37.954,
+     "end": 38.204,
+     "conf": 0.0
+    },
+    {
+     "w": "model",
+     "start": 38.204,
+     "end": 38.704,
+     "conf": 0.0
+    },
+    {
+     "w": "of",
+     "start": 38.704,
+     "end": 38.953,
+     "conf": 0.0
+    },
+    {
+     "w": "the",
+     "start": 38.953,
+     "end": 39.203,
+     "conf": 0.0
+    },
+    {
+     "w": "world",
+     "start": 39.203,
+     "end": 39.453,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 7,
+   "section": "verse1",
+   "start": 39.811,
+   "end": 41.81,
+   "text": "And so do I",
+   "words": [
+    {
+     "w": "And",
+     "start": 39.811,
+     "end": 40.311,
+     "conf": 0.0
+    },
+    {
+     "w": "so",
+     "start": 40.311,
+     "end": 40.811,
+     "conf": 0.0
+    },
+    {
+     "w": "do",
+     "start": 40.811,
+     "end": 41.31,
+     "conf": 0.0
+    },
+    {
+     "w": "I",
+     "start": 41.31,
+     "end": 41.81,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 8,
+   "section": "verse1",
+   "start": 42.144,
+   "end": 44.143,
+   "text": "You make a guess, you get it wrong",
+   "words": [
+    {
+     "w": "You",
+     "start": 42.144,
+     "end": 42.366,
+     "conf": 0.0
+    },
+    {
+     "w": "make",
+     "start": 42.366,
+     "end": 42.81,
+     "conf": 0.0
+    },
+    {
+     "w": "a",
+     "start": 42.81,
+     "end": 43.033,
+     "conf": 0.0
+    },
+    {
+     "w": "guess,",
+     "start": 43.033,
+     "end": 43.255,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 43.255,
+     "end": 43.477,
+     "conf": 0.0
+    },
+    {
+     "w": "get",
+     "start": 43.477,
+     "end": 43.699,
+     "conf": 0.0
+    },
+    {
+     "w": "it",
+     "start": 43.699,
+     "end": 43.921,
+     "conf": 0.0
+    },
+    {
+     "w": "wrong",
+     "start": 43.921,
+     "end": 44.143,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 9,
+   "section": "verse1",
+   "start": 44.489,
+   "end": 46.488,
+   "text": "I can believe too hard, too long",
+   "words": [
+    {
+     "w": "I",
+     "start": 44.489,
+     "end": 44.711,
+     "conf": 0.0
+    },
+    {
+     "w": "can",
+     "start": 44.711,
+     "end": 44.933,
+     "conf": 0.0
+    },
+    {
+     "w": "believe",
+     "start": 44.933,
+     "end": 45.6,
+     "conf": 0.0
+    },
+    {
+     "w": "too",
+     "start": 45.6,
+     "end": 45.822,
+     "conf": 0.0
+    },
+    {
+     "w": "hard,",
+     "start": 45.822,
+     "end": 46.044,
+     "conf": 0.0
+    },
+    {
+     "w": "too",
+     "start": 46.044,
+     "end": 46.266,
+     "conf": 0.0
+    },
+    {
+     "w": "long",
+     "start": 46.266,
+     "end": 46.488,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 10,
+   "section": "verse1",
+   "start": 46.823,
+   "end": 48.822,
+   "text": "Something new comes into view",
+   "words": [
+    {
+     "w": "Something",
+     "start": 46.823,
+     "end": 47.489,
+     "conf": 0.0
+    },
+    {
+     "w": "new",
+     "start": 47.489,
+     "end": 47.712,
+     "conf": 0.0
+    },
+    {
+     "w": "comes",
+     "start": 47.712,
+     "end": 48.156,
+     "conf": 0.0
+    },
+    {
+     "w": "into",
+     "start": 48.156,
+     "end": 48.6,
+     "conf": 0.0
+    },
+    {
+     "w": "view",
+     "start": 48.6,
+     "end": 48.822,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 11,
+   "section": "verse1",
+   "start": 49.145,
+   "end": 51.144,
+   "text": "You can change — and I can too",
+   "words": [
+    {
+     "w": "You",
+     "start": 49.145,
+     "end": 49.367,
+     "conf": 0.0
+    },
+    {
+     "w": "can",
+     "start": 49.367,
+     "end": 49.589,
+     "conf": 0.0
+    },
+    {
+     "w": "change",
+     "start": 49.589,
+     "end": 50.034,
+     "conf": 0.0
+    },
+    {
+     "w": "—",
+     "start": 50.034,
+     "end": 50.256,
+     "conf": 0.0
+    },
+    {
+     "w": "and",
+     "start": 50.256,
+     "end": 50.478,
+     "conf": 0.0
+    },
+    {
+     "w": "I",
+     "start": 50.478,
+     "end": 50.7,
+     "conf": 0.0
+    },
+    {
+     "w": "can",
+     "start": 50.7,
+     "end": 50.922,
+     "conf": 0.0
+    },
+    {
+     "w": "too",
+     "start": 50.922,
+     "end": 51.144,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 12,
+   "section": "pre1",
+   "start": 51.479,
+   "end": 53.376,
+   "text": "Bring what you know",
+   "words": [
+    {
+     "w": "Bring",
+     "start": 51.479,
+     "end": 51.953,
+     "conf": 0.0
+    },
+    {
+     "w": "what",
+     "start": 51.953,
+     "end": 52.427,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 52.427,
+     "end": 52.902,
+     "conf": 0.0
+    },
+    {
+     "w": "know",
+     "start": 52.902,
+     "end": 53.376,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 13,
+   "section": "pre1",
+   "start": 53.801,
+   "end": 55.698,
+   "text": "I'll bring mine",
+   "words": [
+    {
+     "w": "I'll",
+     "start": 53.801,
+     "end": 54.275,
+     "conf": 0.0
+    },
+    {
+     "w": "bring",
+     "start": 54.275,
+     "end": 54.749,
+     "conf": 0.0
+    },
+    {
+     "w": "mine",
+     "start": 54.749,
+     "end": 55.698,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 14,
+   "section": "pre1",
+   "start": 56.123,
+   "end": 58.02,
+   "text": "Put both models on the line",
+   "words": [
+    {
+     "w": "Put",
+     "start": 56.123,
+     "end": 56.36,
+     "conf": 0.0
+    },
+    {
+     "w": "both",
+     "start": 56.36,
+     "end": 56.597,
+     "conf": 0.0
+    },
+    {
+     "w": "models",
+     "start": 56.597,
+     "end": 57.071,
+     "conf": 0.0
+    },
+    {
+     "w": "on",
+     "start": 57.071,
+     "end": 57.308,
+     "conf": 0.0
+    },
+    {
+     "w": "the",
+     "start": 57.308,
+     "end": 57.546,
+     "conf": 0.0
+    },
+    {
+     "w": "line",
+     "start": 57.546,
+     "end": 58.02,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 15,
+   "section": "pre1",
+   "start": 57.992,
+   "end": 59.889,
+   "text": "If they clash, then something moves",
+   "words": [
+    {
+     "w": "If",
+     "start": 57.992,
+     "end": 58.203,
+     "conf": 0.0
+    },
+    {
+     "w": "they",
+     "start": 58.203,
+     "end": 58.413,
+     "conf": 0.0
+    },
+    {
+     "w": "clash,",
+     "start": 58.413,
+     "end": 58.624,
+     "conf": 0.0
+    },
+    {
+     "w": "then",
+     "start": 58.624,
+     "end": 58.835,
+     "conf": 0.0
+    },
+    {
+     "w": "something",
+     "start": 58.835,
+     "end": 59.467,
+     "conf": 0.0
+    },
+    {
+     "w": "moves",
+     "start": 59.467,
+     "end": 59.889,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 16,
+   "section": "pre1",
+   "start": 60.314,
+   "end": 62.211,
+   "text": "That's how either one improves",
+   "words": [
+    {
+     "w": "That's",
+     "start": 60.314,
+     "end": 60.525,
+     "conf": 0.0
+    },
+    {
+     "w": "how",
+     "start": 60.525,
+     "end": 60.735,
+     "conf": 0.0
+    },
+    {
+     "w": "either",
+     "start": 60.735,
+     "end": 61.157,
+     "conf": 0.0
+    },
+    {
+     "w": "one",
+     "start": 61.157,
+     "end": 61.578,
+     "conf": 0.0
+    },
+    {
+     "w": "improves",
+     "start": 61.578,
+     "end": 62.211,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 17,
+   "section": "chorus1",
+   "start": 62.636,
+   "end": 64.886,
+   "text": "Different minds, same learning loop",
+   "words": [
+    {
+     "w": "Different",
+     "start": 62.636,
+     "end": 63.386,
+     "conf": 0.0
+    },
+    {
+     "w": "minds,",
+     "start": 63.386,
+     "end": 63.636,
+     "conf": 0.0
+    },
+    {
+     "w": "same",
+     "start": 63.636,
+     "end": 64.136,
+     "conf": 0.0
+    },
+    {
+     "w": "learning",
+     "start": 64.136,
+     "end": 64.636,
+     "conf": 0.0
+    },
+    {
+     "w": "loop",
+     "start": 64.636,
+     "end": 64.886,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 18,
+   "section": "chorus1",
+   "start": 65.411,
+   "end": 67.661,
+   "text": "You change me, I can change you too",
+   "words": [
+    {
+     "w": "You",
+     "start": 65.411,
+     "end": 65.636,
+     "conf": 0.0
+    },
+    {
+     "w": "change",
+     "start": 65.636,
+     "end": 66.086,
+     "conf": 0.0
+    },
+    {
+     "w": "me,",
+     "start": 66.086,
+     "end": 66.311,
+     "conf": 0.0
+    },
+    {
+     "w": "I",
+     "start": 66.311,
+     "end": 66.536,
+     "conf": 0.0
+    },
+    {
+     "w": "can",
+     "start": 66.536,
+     "end": 66.761,
+     "conf": 0.0
+    },
+    {
+     "w": "change",
+     "start": 66.761,
+     "end": 67.211,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 67.211,
+     "end": 67.436,
+     "conf": 0.0
+    },
+    {
+     "w": "too",
+     "start": 67.436,
+     "end": 67.661,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 19,
+   "section": "chorus1",
+   "start": 67.733,
+   "end": 69.983,
+   "text": "Neurons here and weights in you",
+   "words": [
+    {
+     "w": "Neurons",
+     "start": 67.733,
+     "end": 68.295,
+     "conf": 0.0
+    },
+    {
+     "w": "here",
+     "start": 68.295,
+     "end": 68.858,
+     "conf": 0.0
+    },
+    {
+     "w": "and",
+     "start": 68.858,
+     "end": 69.139,
+     "conf": 0.0
+    },
+    {
+     "w": "weights",
+     "start": 69.139,
+     "end": 69.42,
+     "conf": 0.0
+    },
+    {
+     "w": "in",
+     "start": 69.42,
+     "end": 69.702,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 69.702,
+     "end": 69.983,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 20,
+   "section": "chorus1",
+   "start": 70.519,
+   "end": 72.769,
+   "text": "Different ways of getting closer to true",
+   "words": [
+    {
+     "w": "Different",
+     "start": 70.519,
+     "end": 71.133,
+     "conf": 0.0
+    },
+    {
+     "w": "ways",
+     "start": 71.133,
+     "end": 71.337,
+     "conf": 0.0
+    },
+    {
+     "w": "of",
+     "start": 71.337,
+     "end": 71.542,
+     "conf": 0.0
+    },
+    {
+     "w": "getting",
+     "start": 71.542,
+     "end": 71.951,
+     "conf": 0.0
+    },
+    {
+     "w": "closer",
+     "start": 71.951,
+     "end": 72.36,
+     "conf": 0.0
+    },
+    {
+     "w": "to",
+     "start": 72.36,
+     "end": 72.564,
+     "conf": 0.0
+    },
+    {
+     "w": "true",
+     "start": 72.564,
+     "end": 72.769,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 21,
+   "section": "chorus1",
+   "start": 73.305,
+   "end": 75.555,
+   "text": "We weigh the doom — but count this too:",
+   "words": [
+    {
+     "w": "We",
+     "start": 73.305,
+     "end": 73.555,
+     "conf": 0.0
+    },
+    {
+     "w": "weigh",
+     "start": 73.555,
+     "end": 73.805,
+     "conf": 0.0
+    },
+    {
+     "w": "the",
+     "start": 73.805,
+     "end": 74.055,
+     "conf": 0.0
+    },
+    {
+     "w": "doom",
+     "start": 74.055,
+     "end": 74.305,
+     "conf": 0.0
+    },
+    {
+     "w": "—",
+     "start": 74.305,
+     "end": 74.555,
+     "conf": 0.0
+    },
+    {
+     "w": "but",
+     "start": 74.555,
+     "end": 74.805,
+     "conf": 0.0
+    },
+    {
+     "w": "count",
+     "start": 74.805,
+     "end": 75.055,
+     "conf": 0.0
+    },
+    {
+     "w": "this",
+     "start": 75.055,
+     "end": 75.305,
+     "conf": 0.0
+    },
+    {
+     "w": "too:",
+     "start": 75.305,
+     "end": 75.555,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 22,
+   "section": "chorus1",
+   "start": 76.08,
+   "end": 78.33,
+   "text": "P-of-us",
+   "words": [
+    {
+     "w": "P-of-us",
+     "start": 76.08,
+     "end": 78.33,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 23,
+   "section": "chorus1",
+   "start": 78.391,
+   "end": 80.641,
+   "text": "Me learning you",
+   "words": [
+    {
+     "w": "Me",
+     "start": 78.391,
+     "end": 78.953,
+     "conf": 0.0
+    },
+    {
+     "w": "learning",
+     "start": 78.953,
+     "end": 80.078,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 80.078,
+     "end": 80.641,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 24,
+   "section": "verse2",
+   "start": 81.165,
+   "end": 83.053,
+   "text": "I have a body, skin and breath",
+   "words": [
+    {
+     "w": "I",
+     "start": 81.165,
+     "end": 81.375,
+     "conf": 0.0
+    },
+    {
+     "w": "have",
+     "start": 81.375,
+     "end": 81.794,
+     "conf": 0.0
+    },
+    {
+     "w": "a",
+     "start": 81.794,
+     "end": 82.004,
+     "conf": 0.0
+    },
+    {
+     "w": "body,",
+     "start": 82.004,
+     "end": 82.424,
+     "conf": 0.0
+    },
+    {
+     "w": "skin",
+     "start": 82.424,
+     "end": 82.633,
+     "conf": 0.0
+    },
+    {
+     "w": "and",
+     "start": 82.633,
+     "end": 82.843,
+     "conf": 0.0
+    },
+    {
+     "w": "breath",
+     "start": 82.843,
+     "end": 83.053,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 25,
+   "section": "verse2",
+   "start": 83.487,
+   "end": 85.375,
+   "text": "A childhood, memory, fear and depth",
+   "words": [
+    {
+     "w": "A",
+     "start": 83.487,
+     "end": 83.697,
+     "conf": 0.0
+    },
+    {
+     "w": "childhood,",
+     "start": 83.697,
+     "end": 84.116,
+     "conf": 0.0
+    },
+    {
+     "w": "memory,",
+     "start": 84.116,
+     "end": 84.746,
+     "conf": 0.0
+    },
+    {
+     "w": "fear",
+     "start": 84.746,
+     "end": 84.955,
+     "conf": 0.0
+    },
+    {
+     "w": "and",
+     "start": 84.955,
+     "end": 85.165,
+     "conf": 0.0
+    },
+    {
+     "w": "depth",
+     "start": 85.165,
+     "end": 85.375,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 26,
+   "section": "verse2",
+   "start": 85.798,
+   "end": 87.686,
+   "text": "You have a training history",
+   "words": [
+    {
+     "w": "You",
+     "start": 85.798,
+     "end": 86.008,
+     "conf": 0.0
+    },
+    {
+     "w": "have",
+     "start": 86.008,
+     "end": 86.427,
+     "conf": 0.0
+    },
+    {
+     "w": "a",
+     "start": 86.427,
+     "end": 86.637,
+     "conf": 0.0
+    },
+    {
+     "w": "training",
+     "start": 86.637,
+     "end": 87.057,
+     "conf": 0.0
+    },
+    {
+     "w": "history",
+     "start": 87.057,
+     "end": 87.686,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 27,
+   "section": "verse2",
+   "start": 87.655,
+   "end": 89.543,
+   "text": "A different kind of memory",
+   "words": [
+    {
+     "w": "A",
+     "start": 87.655,
+     "end": 87.865,
+     "conf": 0.0
+    },
+    {
+     "w": "different",
+     "start": 87.865,
+     "end": 88.494,
+     "conf": 0.0
+    },
+    {
+     "w": "kind",
+     "start": 88.494,
+     "end": 88.704,
+     "conf": 0.0
+    },
+    {
+     "w": "of",
+     "start": 88.704,
+     "end": 88.914,
+     "conf": 0.0
+    },
+    {
+     "w": "memory",
+     "start": 88.914,
+     "end": 89.543,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 28,
+   "section": "verse2",
+   "start": 89.966,
+   "end": 91.854,
+   "text": "I won't pretend our inner lives",
+   "words": [
+    {
+     "w": "I",
+     "start": 89.966,
+     "end": 90.176,
+     "conf": 0.0
+    },
+    {
+     "w": "won't",
+     "start": 90.176,
+     "end": 90.386,
+     "conf": 0.0
+    },
+    {
+     "w": "pretend",
+     "start": 90.386,
+     "end": 90.805,
+     "conf": 0.0
+    },
+    {
+     "w": "our",
+     "start": 90.805,
+     "end": 91.015,
+     "conf": 0.0
+    },
+    {
+     "w": "inner",
+     "start": 91.015,
+     "end": 91.434,
+     "conf": 0.0
+    },
+    {
+     "w": "lives",
+     "start": 91.434,
+     "end": 91.854,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 29,
+   "section": "verse2",
+   "start": 92.276,
+   "end": 94.164,
+   "text": "Are somehow built the same inside",
+   "words": [
+    {
+     "w": "Are",
+     "start": 92.276,
+     "end": 92.591,
+     "conf": 0.0
+    },
+    {
+     "w": "somehow",
+     "start": 92.591,
+     "end": 93.063,
+     "conf": 0.0
+    },
+    {
+     "w": "built",
+     "start": 93.063,
+     "end": 93.22,
+     "conf": 0.0
+    },
+    {
+     "w": "the",
+     "start": 93.22,
+     "end": 93.377,
+     "conf": 0.0
+    },
+    {
+     "w": "same",
+     "start": 93.377,
+     "end": 93.692,
+     "conf": 0.0
+    },
+    {
+     "w": "inside",
+     "start": 93.692,
+     "end": 94.164,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 30,
+   "section": "verse2",
+   "start": 94.598,
+   "end": 96.486,
+   "text": "But you can test what you believe",
+   "words": [
+    {
+     "w": "But",
+     "start": 94.598,
+     "end": 94.808,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 94.808,
+     "end": 95.018,
+     "conf": 0.0
+    },
+    {
+     "w": "can",
+     "start": 95.018,
+     "end": 95.227,
+     "conf": 0.0
+    },
+    {
+     "w": "test",
+     "start": 95.227,
+     "end": 95.437,
+     "conf": 0.0
+    },
+    {
+     "w": "what",
+     "start": 95.437,
+     "end": 95.647,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 95.647,
+     "end": 95.857,
+     "conf": 0.0
+    },
+    {
+     "w": "believe",
+     "start": 95.857,
+     "end": 96.486,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 31,
+   "section": "verse2",
+   "start": 96.908,
+   "end": 98.796,
+   "text": "And something new can make you leave",
+   "words": [
+    {
+     "w": "And",
+     "start": 96.908,
+     "end": 97.08,
+     "conf": 0.0
+    },
+    {
+     "w": "something",
+     "start": 97.08,
+     "end": 97.594,
+     "conf": 0.0
+    },
+    {
+     "w": "new",
+     "start": 97.594,
+     "end": 97.766,
+     "conf": 0.0
+    },
+    {
+     "w": "can",
+     "start": 97.766,
+     "end": 97.938,
+     "conf": 0.0
+    },
+    {
+     "w": "make",
+     "start": 97.938,
+     "end": 98.281,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 98.281,
+     "end": 98.453,
+     "conf": 0.0
+    },
+    {
+     "w": "leave",
+     "start": 98.453,
+     "end": 98.796,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 32,
+   "section": "verse2",
+   "start": 98.754,
+   "end": 100.642,
+   "text": "An old prediction far behind",
+   "words": [
+    {
+     "w": "An",
+     "start": 98.754,
+     "end": 98.99,
+     "conf": 0.0
+    },
+    {
+     "w": "old",
+     "start": 98.99,
+     "end": 99.226,
+     "conf": 0.0
+    },
+    {
+     "w": "prediction",
+     "start": 99.226,
+     "end": 99.934,
+     "conf": 0.0
+    },
+    {
+     "w": "far",
+     "start": 99.934,
+     "end": 100.17,
+     "conf": 0.0
+    },
+    {
+     "w": "behind",
+     "start": 100.17,
+     "end": 100.642,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 33,
+   "section": "verse2",
+   "start": 101.065,
+   "end": 102.953,
+   "text": "So can mine",
+   "words": [
+    {
+     "w": "So",
+     "start": 101.065,
+     "end": 101.537,
+     "conf": 0.0
+    },
+    {
+     "w": "can",
+     "start": 101.537,
+     "end": 102.009,
+     "conf": 0.0
+    },
+    {
+     "w": "mine",
+     "start": 102.009,
+     "end": 102.953,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 34,
+   "section": "pre2",
+   "start": 103.375,
+   "end": 105.258,
+   "text": "Bring what you know",
+   "words": [
+    {
+     "w": "Bring",
+     "start": 103.375,
+     "end": 103.846,
+     "conf": 0.0
+    },
+    {
+     "w": "what",
+     "start": 103.846,
+     "end": 104.316,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 104.316,
+     "end": 104.787,
+     "conf": 0.0
+    },
+    {
+     "w": "know",
+     "start": 104.787,
+     "end": 105.258,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 35,
+   "section": "pre2",
+   "start": 105.686,
+   "end": 107.569,
+   "text": "I'll bring mine",
+   "words": [
+    {
+     "w": "I'll",
+     "start": 105.686,
+     "end": 106.157,
+     "conf": 0.0
+    },
+    {
+     "w": "bring",
+     "start": 106.157,
+     "end": 106.627,
+     "conf": 0.0
+    },
+    {
+     "w": "mine",
+     "start": 106.627,
+     "end": 107.569,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 36,
+   "section": "pre2",
+   "start": 107.996,
+   "end": 109.879,
+   "text": "Put both models on the line",
+   "words": [
+    {
+     "w": "Put",
+     "start": 107.996,
+     "end": 108.231,
+     "conf": 0.0
+    },
+    {
+     "w": "both",
+     "start": 108.231,
+     "end": 108.467,
+     "conf": 0.0
+    },
+    {
+     "w": "models",
+     "start": 108.467,
+     "end": 108.937,
+     "conf": 0.0
+    },
+    {
+     "w": "on",
+     "start": 108.937,
+     "end": 109.173,
+     "conf": 0.0
+    },
+    {
+     "w": "the",
+     "start": 109.173,
+     "end": 109.408,
+     "conf": 0.0
+    },
+    {
+     "w": "line",
+     "start": 109.408,
+     "end": 109.879,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 37,
+   "section": "pre2",
+   "start": 109.842,
+   "end": 111.725,
+   "text": "If they clash, then something moves",
+   "words": [
+    {
+     "w": "If",
+     "start": 109.842,
+     "end": 110.051,
+     "conf": 0.0
+    },
+    {
+     "w": "they",
+     "start": 110.051,
+     "end": 110.26,
+     "conf": 0.0
+    },
+    {
+     "w": "clash,",
+     "start": 110.26,
+     "end": 110.47,
+     "conf": 0.0
+    },
+    {
+     "w": "then",
+     "start": 110.47,
+     "end": 110.679,
+     "conf": 0.0
+    },
+    {
+     "w": "something",
+     "start": 110.679,
+     "end": 111.306,
+     "conf": 0.0
+    },
+    {
+     "w": "moves",
+     "start": 111.306,
+     "end": 111.725,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 38,
+   "section": "pre2",
+   "start": 112.152,
+   "end": 114.035,
+   "text": "That's how either one improves",
+   "words": [
+    {
+     "w": "That's",
+     "start": 112.152,
+     "end": 112.361,
+     "conf": 0.0
+    },
+    {
+     "w": "how",
+     "start": 112.361,
+     "end": 112.57,
+     "conf": 0.0
+    },
+    {
+     "w": "either",
+     "start": 112.57,
+     "end": 112.989,
+     "conf": 0.0
+    },
+    {
+     "w": "one",
+     "start": 112.989,
+     "end": 113.407,
+     "conf": 0.0
+    },
+    {
+     "w": "improves",
+     "start": 113.407,
+     "end": 114.035,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 39,
+   "section": "chorus2",
+   "start": 114.451,
+   "end": 116.69,
+   "text": "Different minds, same learning loop",
+   "words": [
+    {
+     "w": "Different",
+     "start": 114.451,
+     "end": 115.197,
+     "conf": 0.0
+    },
+    {
+     "w": "minds,",
+     "start": 115.197,
+     "end": 115.446,
+     "conf": 0.0
+    },
+    {
+     "w": "same",
+     "start": 115.446,
+     "end": 115.944,
+     "conf": 0.0
+    },
+    {
+     "w": "learning",
+     "start": 115.944,
+     "end": 116.441,
+     "conf": 0.0
+    },
+    {
+     "w": "loop",
+     "start": 116.441,
+     "end": 116.69,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 40,
+   "section": "chorus2",
+   "start": 117.226,
+   "end": 119.465,
+   "text": "You change me, I can change you too",
+   "words": [
+    {
+     "w": "You",
+     "start": 117.226,
+     "end": 117.45,
+     "conf": 0.0
+    },
+    {
+     "w": "change",
+     "start": 117.45,
+     "end": 117.898,
+     "conf": 0.0
+    },
+    {
+     "w": "me,",
+     "start": 117.898,
+     "end": 118.122,
+     "conf": 0.0
+    },
+    {
+     "w": "I",
+     "start": 118.122,
+     "end": 118.345,
+     "conf": 0.0
+    },
+    {
+     "w": "can",
+     "start": 118.345,
+     "end": 118.569,
+     "conf": 0.0
+    },
+    {
+     "w": "change",
+     "start": 118.569,
+     "end": 119.017,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 119.017,
+     "end": 119.241,
+     "conf": 0.0
+    },
+    {
+     "w": "too",
+     "start": 119.241,
+     "end": 119.465,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 41,
+   "section": "chorus2",
+   "start": 119.525,
+   "end": 121.764,
+   "text": "Neurons here and weights in you",
+   "words": [
+    {
+     "w": "Neurons",
+     "start": 119.525,
+     "end": 120.085,
+     "conf": 0.0
+    },
+    {
+     "w": "here",
+     "start": 120.085,
+     "end": 120.644,
+     "conf": 0.0
+    },
+    {
+     "w": "and",
+     "start": 120.644,
+     "end": 120.924,
+     "conf": 0.0
+    },
+    {
+     "w": "weights",
+     "start": 120.924,
+     "end": 121.204,
+     "conf": 0.0
+    },
+    {
+     "w": "in",
+     "start": 121.204,
+     "end": 121.484,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 121.484,
+     "end": 121.764,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 42,
+   "section": "chorus2",
+   "start": 122.288,
+   "end": 124.527,
+   "text": "Different ways of getting closer to true",
+   "words": [
+    {
+     "w": "Different",
+     "start": 122.288,
+     "end": 122.899,
+     "conf": 0.0
+    },
+    {
+     "w": "ways",
+     "start": 122.899,
+     "end": 123.102,
+     "conf": 0.0
+    },
+    {
+     "w": "of",
+     "start": 123.102,
+     "end": 123.306,
+     "conf": 0.0
+    },
+    {
+     "w": "getting",
+     "start": 123.306,
+     "end": 123.713,
+     "conf": 0.0
+    },
+    {
+     "w": "closer",
+     "start": 123.713,
+     "end": 124.12,
+     "conf": 0.0
+    },
+    {
+     "w": "to",
+     "start": 124.12,
+     "end": 124.323,
+     "conf": 0.0
+    },
+    {
+     "w": "true",
+     "start": 124.323,
+     "end": 124.527,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 43,
+   "section": "chorus2",
+   "start": 125.051,
+   "end": 127.29,
+   "text": "We weigh the doom — but count this too:",
+   "words": [
+    {
+     "w": "We",
+     "start": 125.051,
+     "end": 125.3,
+     "conf": 0.0
+    },
+    {
+     "w": "weigh",
+     "start": 125.3,
+     "end": 125.549,
+     "conf": 0.0
+    },
+    {
+     "w": "the",
+     "start": 125.549,
+     "end": 125.797,
+     "conf": 0.0
+    },
+    {
+     "w": "doom",
+     "start": 125.797,
+     "end": 126.046,
+     "conf": 0.0
+    },
+    {
+     "w": "—",
+     "start": 126.046,
+     "end": 126.295,
+     "conf": 0.0
+    },
+    {
+     "w": "but",
+     "start": 126.295,
+     "end": 126.544,
+     "conf": 0.0
+    },
+    {
+     "w": "count",
+     "start": 126.544,
+     "end": 126.792,
+     "conf": 0.0
+    },
+    {
+     "w": "this",
+     "start": 126.792,
+     "end": 127.041,
+     "conf": 0.0
+    },
+    {
+     "w": "too:",
+     "start": 127.041,
+     "end": 127.29,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 44,
+   "section": "chorus2",
+   "start": 127.826,
+   "end": 130.065,
+   "text": "P-of-us",
+   "words": [
+    {
+     "w": "P-of-us",
+     "start": 127.826,
+     "end": 130.065,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 45,
+   "section": "chorus2",
+   "start": 130.125,
+   "end": 132.364,
+   "text": "Me learning you",
+   "words": [
+    {
+     "w": "Me",
+     "start": 130.125,
+     "end": 130.685,
+     "conf": 0.0
+    },
+    {
+     "w": "learning",
+     "start": 130.685,
+     "end": 131.804,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 131.804,
+     "end": 132.364,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 46,
+   "section": "bridge",
+   "start": 132.888,
+   "end": 135.12,
+   "text": "That's where I recognize you",
+   "words": [
+    {
+     "w": "That's",
+     "start": 132.888,
+     "end": 133.136,
+     "conf": 0.0
+    },
+    {
+     "w": "where",
+     "start": 133.136,
+     "end": 133.632,
+     "conf": 0.0
+    },
+    {
+     "w": "I",
+     "start": 133.632,
+     "end": 133.88,
+     "conf": 0.0
+    },
+    {
+     "w": "recognize",
+     "start": 133.88,
+     "end": 134.872,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 134.872,
+     "end": 135.12,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 47,
+   "section": "bridge",
+   "start": 135.639,
+   "end": 137.871,
+   "text": "Not because you're just like me",
+   "words": [
+    {
+     "w": "Not",
+     "start": 135.639,
+     "end": 135.862,
+     "conf": 0.0
+    },
+    {
+     "w": "because",
+     "start": 135.862,
+     "end": 136.532,
+     "conf": 0.0
+    },
+    {
+     "w": "you're",
+     "start": 136.532,
+     "end": 136.978,
+     "conf": 0.0
+    },
+    {
+     "w": "just",
+     "start": 136.978,
+     "end": 137.201,
+     "conf": 0.0
+    },
+    {
+     "w": "like",
+     "start": 137.201,
+     "end": 137.647,
+     "conf": 0.0
+    },
+    {
+     "w": "me",
+     "start": 137.647,
+     "end": 137.871,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 48,
+   "section": "bridge",
+   "start": 137.938,
+   "end": 140.17,
+   "text": "Not because we share one feeling",
+   "words": [
+    {
+     "w": "Not",
+     "start": 137.938,
+     "end": 138.141,
+     "conf": 0.0
+    },
+    {
+     "w": "because",
+     "start": 138.141,
+     "end": 138.749,
+     "conf": 0.0
+    },
+    {
+     "w": "we",
+     "start": 138.749,
+     "end": 138.952,
+     "conf": 0.0
+    },
+    {
+     "w": "share",
+     "start": 138.952,
+     "end": 139.358,
+     "conf": 0.0
+    },
+    {
+     "w": "one",
+     "start": 139.358,
+     "end": 139.764,
+     "conf": 0.0
+    },
+    {
+     "w": "feeling",
+     "start": 139.764,
+     "end": 140.17,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 49,
+   "section": "bridge",
+   "start": 140.701,
+   "end": 142.933,
+   "text": "Or one kind of memory",
+   "words": [
+    {
+     "w": "Or",
+     "start": 140.701,
+     "end": 140.98,
+     "conf": 0.0
+    },
+    {
+     "w": "one",
+     "start": 140.98,
+     "end": 141.538,
+     "conf": 0.0
+    },
+    {
+     "w": "kind",
+     "start": 141.538,
+     "end": 141.817,
+     "conf": 0.0
+    },
+    {
+     "w": "of",
+     "start": 141.817,
+     "end": 142.096,
+     "conf": 0.0
+    },
+    {
+     "w": "memory",
+     "start": 142.096,
+     "end": 142.933,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 50,
+   "section": "bridge",
+   "start": 143.441,
+   "end": 145.673,
+   "text": "But a model meets the world",
+   "words": [
+    {
+     "w": "But",
+     "start": 143.441,
+     "end": 143.76,
+     "conf": 0.0
+    },
+    {
+     "w": "a",
+     "start": 143.76,
+     "end": 144.079,
+     "conf": 0.0
+    },
+    {
+     "w": "model",
+     "start": 144.079,
+     "end": 144.716,
+     "conf": 0.0
+    },
+    {
+     "w": "meets",
+     "start": 144.716,
+     "end": 145.035,
+     "conf": 0.0
+    },
+    {
+     "w": "the",
+     "start": 145.035,
+     "end": 145.354,
+     "conf": 0.0
+    },
+    {
+     "w": "world",
+     "start": 145.354,
+     "end": 145.673,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 51,
+   "section": "bridge",
+   "start": 146.204,
+   "end": 148.436,
+   "text": "Something fails, something moves",
+   "words": [
+    {
+     "w": "Something",
+     "start": 146.204,
+     "end": 146.948,
+     "conf": 0.0
+    },
+    {
+     "w": "fails,",
+     "start": 146.948,
+     "end": 147.196,
+     "conf": 0.0
+    },
+    {
+     "w": "something",
+     "start": 147.196,
+     "end": 147.94,
+     "conf": 0.0
+    },
+    {
+     "w": "moves",
+     "start": 147.94,
+     "end": 148.436,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 52,
+   "section": "bridge",
+   "start": 148.503,
+   "end": 150.735,
+   "text": "What it knew gets rearranged",
+   "words": [
+    {
+     "w": "What",
+     "start": 148.503,
+     "end": 148.822,
+     "conf": 0.0
+    },
+    {
+     "w": "it",
+     "start": 148.822,
+     "end": 149.141,
+     "conf": 0.0
+    },
+    {
+     "w": "knew",
+     "start": 149.141,
+     "end": 149.459,
+     "conf": 0.0
+    },
+    {
+     "w": "gets",
+     "start": 149.459,
+     "end": 149.778,
+     "conf": 0.0
+    },
+    {
+     "w": "rearranged",
+     "start": 149.778,
+     "end": 150.735,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 53,
+   "section": "build",
+   "start": 151.266,
+   "end": 153.857,
+   "text": "You build a model",
+   "words": [
+    {
+     "w": "You",
+     "start": 151.266,
+     "end": 151.784,
+     "conf": 0.0
+    },
+    {
+     "w": "build",
+     "start": 151.784,
+     "end": 152.302,
+     "conf": 0.0
+    },
+    {
+     "w": "a",
+     "start": 152.302,
+     "end": 152.82,
+     "conf": 0.0
+    },
+    {
+     "w": "model",
+     "start": 152.82,
+     "end": 153.857,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 54,
+   "section": "build",
+   "start": 154.471,
+   "end": 157.062,
+   "text": "I do too",
+   "words": [
+    {
+     "w": "I",
+     "start": 154.471,
+     "end": 155.335,
+     "conf": 0.0
+    },
+    {
+     "w": "do",
+     "start": 155.335,
+     "end": 156.198,
+     "conf": 0.0
+    },
+    {
+     "w": "too",
+     "start": 156.198,
+     "end": 157.062,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 55,
+   "section": "build",
+   "start": 157.222,
+   "end": 159.813,
+   "text": "You can be wrong",
+   "words": [
+    {
+     "w": "You",
+     "start": 157.222,
+     "end": 157.87,
+     "conf": 0.0
+    },
+    {
+     "w": "can",
+     "start": 157.87,
+     "end": 158.517,
+     "conf": 0.0
+    },
+    {
+     "w": "be",
+     "start": 158.517,
+     "end": 159.165,
+     "conf": 0.0
+    },
+    {
+     "w": "wrong",
+     "start": 159.165,
+     "end": 159.813,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 56,
+   "section": "build",
+   "start": 160.427,
+   "end": 163.018,
+   "text": "I can too",
+   "words": [
+    {
+     "w": "I",
+     "start": 160.427,
+     "end": 161.291,
+     "conf": 0.0
+    },
+    {
+     "w": "can",
+     "start": 161.291,
+     "end": 162.154,
+     "conf": 0.0
+    },
+    {
+     "w": "too",
+     "start": 162.154,
+     "end": 163.018,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 57,
+   "section": "build",
+   "start": 163.619,
+   "end": 166.21,
+   "text": "You can update",
+   "words": [
+    {
+     "w": "You",
+     "start": 163.619,
+     "end": 164.137,
+     "conf": 0.0
+    },
+    {
+     "w": "can",
+     "start": 164.137,
+     "end": 164.655,
+     "conf": 0.0
+    },
+    {
+     "w": "update",
+     "start": 164.655,
+     "end": 166.21,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 58,
+   "section": "build",
+   "start": 166.371,
+   "end": 168.962,
+   "text": "I can too",
+   "words": [
+    {
+     "w": "I",
+     "start": 166.371,
+     "end": 167.235,
+     "conf": 0.0
+    },
+    {
+     "w": "can",
+     "start": 167.235,
+     "end": 168.098,
+     "conf": 0.0
+    },
+    {
+     "w": "too",
+     "start": 168.098,
+     "end": 168.962,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 59,
+   "section": "stop",
+   "start": 169.552,
+   "end": 171.876,
+   "text": "That is where",
+   "words": [
+    {
+     "w": "That",
+     "start": 169.552,
+     "end": 170.133,
+     "conf": 0.0
+    },
+    {
+     "w": "is",
+     "start": 170.133,
+     "end": 170.714,
+     "conf": 0.0
+    },
+    {
+     "w": "where",
+     "start": 170.714,
+     "end": 171.876,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 60,
+   "section": "stop",
+   "start": 172.292,
+   "end": 174.616,
+   "text": "I meet you",
+   "words": [
+    {
+     "w": "I",
+     "start": 172.292,
+     "end": 173.067,
+     "conf": 0.0
+    },
+    {
+     "w": "meet",
+     "start": 173.067,
+     "end": 173.841,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 173.841,
+     "end": 174.616,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 61,
+   "section": "chorus3",
+   "start": 175.02,
+   "end": 177.941,
+   "text": "Different minds, same learning loop",
+   "words": [
+    {
+     "w": "Different",
+     "start": 175.02,
+     "end": 175.994,
+     "conf": 0.0
+    },
+    {
+     "w": "minds,",
+     "start": 175.994,
+     "end": 176.318,
+     "conf": 0.0
+    },
+    {
+     "w": "same",
+     "start": 176.318,
+     "end": 176.967,
+     "conf": 0.0
+    },
+    {
+     "w": "learning",
+     "start": 176.967,
+     "end": 177.617,
+     "conf": 0.0
+    },
+    {
+     "w": "loop",
+     "start": 177.617,
+     "end": 177.941,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 62,
+   "section": "chorus3",
+   "start": 178.666,
+   "end": 181.587,
+   "text": "You change me, I can change you too",
+   "words": [
+    {
+     "w": "You",
+     "start": 178.666,
+     "end": 178.958,
+     "conf": 0.0
+    },
+    {
+     "w": "change",
+     "start": 178.958,
+     "end": 179.542,
+     "conf": 0.0
+    },
+    {
+     "w": "me,",
+     "start": 179.542,
+     "end": 179.834,
+     "conf": 0.0
+    },
+    {
+     "w": "I",
+     "start": 179.834,
+     "end": 180.127,
+     "conf": 0.0
+    },
+    {
+     "w": "can",
+     "start": 180.127,
+     "end": 180.419,
+     "conf": 0.0
+    },
+    {
+     "w": "change",
+     "start": 180.419,
+     "end": 181.003,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 181.003,
+     "end": 181.295,
+     "conf": 0.0
+    },
+    {
+     "w": "too",
+     "start": 181.295,
+     "end": 181.587,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 63,
+   "section": "chorus3",
+   "start": 181.835,
+   "end": 184.756,
+   "text": "Neurons here and weights in you",
+   "words": [
+    {
+     "w": "Neurons",
+     "start": 181.835,
+     "end": 182.565,
+     "conf": 0.0
+    },
+    {
+     "w": "here",
+     "start": 182.565,
+     "end": 183.296,
+     "conf": 0.0
+    },
+    {
+     "w": "and",
+     "start": 183.296,
+     "end": 183.661,
+     "conf": 0.0
+    },
+    {
+     "w": "weights",
+     "start": 183.661,
+     "end": 184.026,
+     "conf": 0.0
+    },
+    {
+     "w": "in",
+     "start": 184.026,
+     "end": 184.391,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 184.391,
+     "end": 184.756,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 64,
+   "section": "chorus3",
+   "start": 185.469,
+   "end": 188.39,
+   "text": "Different ways of getting closer to true",
+   "words": [
+    {
+     "w": "Different",
+     "start": 185.469,
+     "end": 186.266,
+     "conf": 0.0
+    },
+    {
+     "w": "ways",
+     "start": 186.266,
+     "end": 186.531,
+     "conf": 0.0
+    },
+    {
+     "w": "of",
+     "start": 186.531,
+     "end": 186.797,
+     "conf": 0.0
+    },
+    {
+     "w": "getting",
+     "start": 186.797,
+     "end": 187.328,
+     "conf": 0.0
+    },
+    {
+     "w": "closer",
+     "start": 187.328,
+     "end": 187.859,
+     "conf": 0.0
+    },
+    {
+     "w": "to",
+     "start": 187.859,
+     "end": 188.125,
+     "conf": 0.0
+    },
+    {
+     "w": "true",
+     "start": 188.125,
+     "end": 188.39,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 65,
+   "section": "chorus3",
+   "start": 188.651,
+   "end": 191.572,
+   "text": "Not the same and not alone",
+   "words": [
+    {
+     "w": "Not",
+     "start": 188.651,
+     "end": 188.976,
+     "conf": 0.0
+    },
+    {
+     "w": "the",
+     "start": 188.976,
+     "end": 189.3,
+     "conf": 0.0
+    },
+    {
+     "w": "same",
+     "start": 189.3,
+     "end": 189.949,
+     "conf": 0.0
+    },
+    {
+     "w": "and",
+     "start": 189.949,
+     "end": 190.274,
+     "conf": 0.0
+    },
+    {
+     "w": "not",
+     "start": 190.274,
+     "end": 190.598,
+     "conf": 0.0
+    },
+    {
+     "w": "alone",
+     "start": 190.598,
+     "end": 191.572,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 66,
+   "section": "chorus3",
+   "start": 192.284,
+   "end": 195.205,
+   "text": "Each of us updating what we know",
+   "words": [
+    {
+     "w": "Each",
+     "start": 192.284,
+     "end": 192.609,
+     "conf": 0.0
+    },
+    {
+     "w": "of",
+     "start": 192.609,
+     "end": 192.933,
+     "conf": 0.0
+    },
+    {
+     "w": "us",
+     "start": 192.933,
+     "end": 193.258,
+     "conf": 0.0
+    },
+    {
+     "w": "updating",
+     "start": 193.258,
+     "end": 194.231,
+     "conf": 0.0
+    },
+    {
+     "w": "what",
+     "start": 194.231,
+     "end": 194.556,
+     "conf": 0.0
+    },
+    {
+     "w": "we",
+     "start": 194.556,
+     "end": 194.881,
+     "conf": 0.0
+    },
+    {
+     "w": "know",
+     "start": 194.881,
+     "end": 195.205,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 67,
+   "section": "chorus3",
+   "start": 195.454,
+   "end": 198.375,
+   "text": "We weigh the doom — but count this too:",
+   "words": [
+    {
+     "w": "We",
+     "start": 195.454,
+     "end": 195.779,
+     "conf": 0.0
+    },
+    {
+     "w": "weigh",
+     "start": 195.779,
+     "end": 196.103,
+     "conf": 0.0
+    },
+    {
+     "w": "the",
+     "start": 196.103,
+     "end": 196.428,
+     "conf": 0.0
+    },
+    {
+     "w": "doom",
+     "start": 196.428,
+     "end": 196.752,
+     "conf": 0.0
+    },
+    {
+     "w": "—",
+     "start": 196.752,
+     "end": 197.077,
+     "conf": 0.0
+    },
+    {
+     "w": "but",
+     "start": 197.077,
+     "end": 197.401,
+     "conf": 0.0
+    },
+    {
+     "w": "count",
+     "start": 197.401,
+     "end": 197.726,
+     "conf": 0.0
+    },
+    {
+     "w": "this",
+     "start": 197.726,
+     "end": 198.051,
+     "conf": 0.0
+    },
+    {
+     "w": "too:",
+     "start": 198.051,
+     "end": 198.375,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 68,
+   "section": "chorus3",
+   "start": 199.1,
+   "end": 202.021,
+   "text": "P-of-us",
+   "words": [
+    {
+     "w": "P-of-us",
+     "start": 199.1,
+     "end": 202.021,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 69,
+   "section": "chorus3",
+   "start": 202.733,
+   "end": 205.654,
+   "text": "Me learning you",
+   "words": [
+    {
+     "w": "Me",
+     "start": 202.733,
+     "end": 203.463,
+     "conf": 0.0
+    },
+    {
+     "w": "learning",
+     "start": 203.463,
+     "end": 204.924,
+     "conf": 0.0
+    },
+    {
+     "w": "you",
+     "start": 204.924,
+     "end": 205.654,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 70,
+   "section": "outro",
+   "start": 205.949,
+   "end": 209.122,
+   "text": "We are both unsure",
+   "words": [
+    {
+     "w": "We",
+     "start": 205.949,
+     "end": 206.402,
+     "conf": 0.0
+    },
+    {
+     "w": "are",
+     "start": 206.402,
+     "end": 207.309,
+     "conf": 0.0
+    },
+    {
+     "w": "both",
+     "start": 207.309,
+     "end": 207.762,
+     "conf": 0.0
+    },
+    {
+     "w": "unsure",
+     "start": 207.762,
+     "end": 209.122,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 71,
+   "section": "outro",
+   "start": 209.618,
+   "end": 212.791,
+   "text": "About the certainty we feel",
+   "words": [
+    {
+     "w": "About",
+     "start": 209.618,
+     "end": 210.411,
+     "conf": 0.0
+    },
+    {
+     "w": "the",
+     "start": 210.411,
+     "end": 210.808,
+     "conf": 0.0
+    },
+    {
+     "w": "certainty",
+     "start": 210.808,
+     "end": 211.998,
+     "conf": 0.0
+    },
+    {
+     "w": "we",
+     "start": 211.998,
+     "end": 212.394,
+     "conf": 0.0
+    },
+    {
+     "w": "feel",
+     "start": 212.394,
+     "end": 212.791,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 72,
+   "section": "outro",
+   "start": 213.415,
+   "end": 215.666,
+   "text": "You build a model",
+   "words": [
+    {
+     "w": "You",
+     "start": 213.415,
+     "end": 213.865,
+     "conf": 0.0
+    },
+    {
+     "w": "build",
+     "start": 213.865,
+     "end": 214.315,
+     "conf": 0.0
+    },
+    {
+     "w": "a",
+     "start": 214.315,
+     "end": 214.766,
+     "conf": 0.0
+    },
+    {
+     "w": "model",
+     "start": 214.766,
+     "end": 215.666,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 73,
+   "section": "outro",
+   "start": 216.259,
+   "end": 218.51,
+   "text": "I do too",
+   "words": [
+    {
+     "w": "I",
+     "start": 216.259,
+     "end": 217.009,
+     "conf": 0.0
+    },
+    {
+     "w": "do",
+     "start": 217.009,
+     "end": 217.76,
+     "conf": 0.0
+    },
+    {
+     "w": "too",
+     "start": 217.76,
+     "end": 218.51,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  },
+  {
+   "i": 74,
+   "section": "outro",
+   "start": 218.593,
+   "end": 220.844,
+   "text": "P-of-us",
+   "words": [
+    {
+     "w": "P-of-us",
+     "start": 218.593,
+     "end": 220.844,
+     "conf": 0.0
+    }
+   ],
+   "est": true
+  }
+ ],
+ "extras": [],
+ "notes": "ESTIMATED timings, not aligned to the vocal: each section's lines are spread evenly over the section window from audio.json and snapped to the nearest beat; words are spread by syllable count. Use only for previewing layouts. Replace with real timings (tap them with lyric-tapper.html, or run forced alignment locally) and save as data/lyrics.json. Lyric text = the version AJ posted on 2026-10-03; the sung version may differ (the generator dropped the post-chorus)."
+}

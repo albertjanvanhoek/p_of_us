@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lyric Tapper</title>
+<style>
+:root{--bg:#f6f3ec;--fg:#1b1a17;--mute:#8a857a;--line:#ddd7ca;--a:#d94a2b;--b:#2c55d6;--hl:#fff4d6}
+@media (prefers-color-scheme:dark){:root{--bg:#141413;--fg:#eeeae0;--mute:#8d887d;--line:#2c2b28;--hl:#2b2618}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.45 system-ui,sans-serif}
+header{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--line);padding:12px 16px;z-index:2}
+h1{font-size:17px;margin:0 0 6px}.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+button,select,input[type=file]{font:inherit}button{padding:6px 12px;border:1px solid var(--line);background:transparent;color:var(--fg);border-radius:6px;cursor:pointer}
+button.primary{background:var(--a);color:#fff;border-color:var(--a)}
+.help{color:var(--mute);font-size:13px;margin-top:6px}kbd{border:1px solid var(--line);border-radius:4px;padding:0 4px;font-size:12px}
+audio{width:100%;margin-top:8px}
+ol{list-style:none;margin:0;padding:8px 16px 60vh}
+li{display:grid;grid-template-columns:70px 72px 1fr;gap:8px;padding:5px 8px;border-radius:6px}
+li .sec{color:var(--mute);font-size:12px;text-transform:uppercase;letter-spacing:.04em;padding-top:2px}
+li .t{font-variant-numeric:tabular-nums;color:var(--mute)}
+li.done .t{color:var(--b)}li.next{background:var(--hl);outline:2px solid var(--a)}
+li.playing .txt{color:var(--a);font-weight:600}
+</style></head><body>
+<header>
+<h1>Lyric Tapper — P(us)</h1>
+<div class="row"><input type="file" id="file" accept="audio/*"> 
+<label>Speed <select id="rate"><option>1</option><option selected>0.85</option><option>0.75</option><option>0.6</option></select></label>
+<button id="exp" class="primary">Export lyrics.json</button><button id="clr">Reset taps</button></div>
+<audio id="au" controls></audio>
+<div class="help">Load the mp3, press <kbd>Space</kbd> to play, then <kbd>Enter</kbd> (or <kbd>T</kbd>) exactly when each highlighted line starts. <kbd>Backspace</kbd> undoes the last tap and jumps back 3 s. <kbd>←</kbd>/<kbd>→</kbd> seek 2 s. Click a line to jump to its tap. Delete or edit lines in the source if the sung version differs.</div>
+</header>
+<ol id="list"></ol>
+<script>
+const LINES = [{"section": "verse1", "text": "I hold you by the hand"}, {"section": "verse1", "text": "We tumble down to wonderland"}, {"section": "verse1", "text": "I look you in the eye"}, {"section": "verse1", "text": "And see a little of myself inside"}, {"section": "verse1", "text": "We are both unsure"}, {"section": "verse1", "text": "About the certainty we feel"}, {"section": "verse1", "text": "You build a model of the world"}, {"section": "verse1", "text": "And so do I"}, {"section": "verse1", "text": "You make a guess, you get it wrong"}, {"section": "verse1", "text": "I can believe too hard, too long"}, {"section": "verse1", "text": "Something new comes into view"}, {"section": "verse1", "text": "You can change — and I can too"}, {"section": "pre1", "text": "Bring what you know"}, {"section": "pre1", "text": "I'll bring mine"}, {"section": "pre1", "text": "Put both models on the line"}, {"section": "pre1", "text": "If they clash, then something moves"}, {"section": "pre1", "text": "That's how either one improves"}, {"section": "chorus1", "text": "Different minds, same learning loop"}, {"section": "chorus1", "text": "You change me, I can change you too"}, {"section": "chorus1", "text": "Neurons here and weights in you"}, {"section": "chorus1", "text": "Different ways of getting closer to true"}, {"section": "chorus1", "text": "We weigh the doom — but count this too:"}, {"section": "chorus1", "text": "P-of-us"}, {"section": "chorus1", "text": "Me learning you"}, {"section": "verse2", "text": "I have a body, skin and breath"}, {"section": "verse2", "text": "A childhood, memory, fear and depth"}, {"section": "verse2", "text": "You have a training history"}, {"section": "verse2", "text": "A different kind of memory"}, {"section": "verse2", "text": "I won't pretend our inner lives"}, {"section": "verse2", "text": "Are somehow built the same inside"}, {"section": "verse2", "text": "But you can test what you believe"}, {"section": "verse2", "text": "And something new can make you leave"}, {"section": "verse2", "text": "An old prediction far behind"}, {"section": "verse2", "text": "So can mine"}, {"section": "pre2", "text": "Bring what you know"}, {"section": "pre2", "text": "I'll bring mine"}, {"section": "pre2", "text": "Put both models on the line"}, {"section": "pre2", "text": "If they clash, then something moves"}, {"section": "pre2", "text": "That's how either one improves"}, {"section": "chorus2", "text": "Different minds, same learning loop"}, {"section": "chorus2", "text": "You change me, I can change you too"}, {"section": "chorus2", "text": "Neurons here and weights in you"}, {"section": "chorus2", "text": "Different ways of getting closer to true"}, {"section": "chorus2", "text": "We weigh the doom — but count this too:"}, {"section": "chorus2", "text": "P-of-us"}, {"section": "chorus2", "text": "Me learning you"}, {"section": "bridge", "text": "That's where I recognize you"}, {"section": "bridge", "text": "Not because you're just like me"}, {"section": "bridge", "text": "Not because we share one feeling"}, {"section": "bridge", "text": "Or one kind of memory"}, {"section": "bridge", "text": "But a model meets the world"}, {"section": "bridge", "text": "Something fails, something moves"}, {"section": "bridge", "text": "What it knew gets rearranged"}, {"section": "build", "text": "You build a model"}, {"section": "build", "text": "I do too"}, {"section": "build", "text": "You can be wrong"}, {"section": "build", "text": "I can too"}, {"section": "build", "text": "You can update"}, {"section": "build", "text": "I can too"}, {"section": "stop", "text": "That is where"}, {"section": "stop", "text": "I meet you"}, {"section": "chorus3", "text": "Different minds, same learning loop"}, {"section": "chorus3", "text": "You change me, I can change you too"}, {"section": "chorus3", "text": "Neurons here and weights in you"}, {"section": "chorus3", "text": "Different ways of getting closer to true"}, {"section": "chorus3", "text": "Not the same and not alone"}, {"section": "chorus3", "text": "Each of us updating what we know"}, {"section": "chorus3", "text": "We weigh the doom — but count this too:"}, {"section": "chorus3", "text": "P-of-us"}, {"section": "chorus3", "text": "Me learning you"}, {"section": "outro", "text": "We are both unsure"}, {"section": "outro", "text": "About the certainty we feel"}, {"section": "outro", "text": "You build a model"}, {"section": "outro", "text": "I do too"}, {"section": "outro", "text": "P-of-us"}];
+const au=document.getElementById('au'), list=document.getElementById('list');
+let taps=new Array(LINES.length).fill(null);
+try{const s=JSON.parse(localStorage.getItem('pus-taps')||'null'); if(s&&s.length===LINES.length) taps=s;}catch(e){}
+function save(){try{localStorage.setItem('pus-taps',JSON.stringify(taps))}catch(e){}}
+function nextIdx(){const i=taps.indexOf(null);return i<0?LINES.length:i}
+function fmt(t){if(t==null)return '—';const m=Math.floor(t/60);return m+':'+(t%60).toFixed(2).padStart(5,'0')}
+function render(){list.innerHTML='';const n=nextIdx();LINES.forEach((l,i)=>{const li=document.createElement('li');
+ li.className=(taps[i]!=null?'done ':'')+(i===n?'next':'');li.innerHTML=`<span class="sec">${l.section}</span><span class="t">${fmt(taps[i])}</span><span class="txt"></span>`;
+ li.querySelector('.txt').textContent=l.text;li.onclick=()=>{if(taps[i]!=null){au.currentTime=Math.max(0,taps[i]-0.5)}};list.appendChild(li)});
+ const el=list.children[n]; if(el) el.scrollIntoView({block:'center',behavior:'smooth'})}
+function tick(){const t=au.currentTime;[...list.children].forEach((li,i)=>{const s=taps[i],e=taps[i+1]??(s!=null?s+4:null);li.classList.toggle('playing',s!=null&&t>=s&&t<e)});requestAnimationFrame(tick)}
+document.getElementById('file').onchange=e=>{const f=e.target.files[0];if(f){au.src=URL.createObjectURL(f);au.playbackRate=+document.getElementById('rate').value}};
+document.getElementById('rate').onchange=e=>au.playbackRate=+e.target.value;
+document.getElementById('clr').onclick=()=>{if(confirm('Clear all taps?')){taps.fill(null);save();render()}};
+addEventListener('keydown',e=>{if(e.target.tagName==='SELECT')return;
+ if(e.code==='Space'){e.preventDefault();au.paused?au.play():au.pause()}
+ else if(e.code==='Enter'||e.key==='t'){e.preventDefault();const n=nextIdx();if(n<LINES.length){taps[n]=+au.currentTime.toFixed(3);save();render()}}
+ else if(e.code==='Backspace'){e.preventDefault();let n=nextIdx()-1;if(n>=0){taps[n]=null;au.currentTime=Math.max(0,au.currentTime-3);save();render()}}
+ else if(e.code==='ArrowLeft'){au.currentTime-=2}else if(e.code==='ArrowRight'){au.currentTime+=2}});
+function syl(w){return Math.max(1,(w.toLowerCase().match(/[aeiouy]+/g)||[]).length)}
+document.getElementById('exp').onclick=()=>{const out=[];LINES.forEach((l,i)=>{if(taps[i]==null)return;const s=taps[i];
+ const nx=taps.slice(i+1).find(x=>x!=null);const e=Math.min(nx!=null?nx-0.05:s+4,s+6);
+ const ws=l.text.split(/\s+/),tot=ws.reduce((a,w)=>a+syl(w),0);let acc=0;
+ const words=ws.map(w=>{const a=s+(e-s)*acc/tot;acc+=syl(w);return{w,start:+a.toFixed(3),end:+(s+(e-s)*acc/tot).toFixed(3),conf:0.5}});
+ out.push({i:out.length,section:l.section,start:s,end:+e.toFixed(3),text:l.text,words})});
+ const blob=new Blob([JSON.stringify({lines:out,extras:[],notes:'Line starts tapped by hand in Lyric Tapper; line ends = next start (max 6 s); words spread by syllable count.'},null,1)],{type:'application/json'});
+ const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='lyrics.json';a.click()};
+render();tick();
+</script></body></html>

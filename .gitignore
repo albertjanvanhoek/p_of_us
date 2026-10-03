@@ -147,3 +147,7 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+audio/*.mp3
+analysis/work/
+out/
+node_modules/
