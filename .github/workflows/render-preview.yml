@@ -61,7 +61,7 @@ jobs:
           echo "from=${range% *}" >> "$GITHUB_OUTPUT"; echo "to=${range#* }" >> "$GITHUB_OUTPUT"
           echo "rendering ${{ inputs.segment }}: $range"
       - name: Render
-        run: bun scripts/render.ts video --from ${{ steps.seg.outputs.from }} --to ${{ steps.seg.outputs.to }} --fps ${{ inputs.fps }} --preset veryfast --out ../out/p-of-us-${{ inputs.segment }}.mp4
+        run: bun scripts/render.ts video --from ${{ steps.seg.outputs.from }} --to ${{ steps.seg.outputs.to }} --fps ${{ inputs.fps }} --crf 23 --preset veryfast --out ../out/p-of-us-${{ inputs.segment }}.mp4
       - uses: actions/upload-artifact@v6
         with:
           name: p-of-us-${{ inputs.segment }}

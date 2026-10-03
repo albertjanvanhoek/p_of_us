@@ -1,0 +1,110 @@
+name: render final
+
+# The whole video on GitHub runners, no GPU needed: the song is split into frame ranges rendered
+# in parallel (software GL), then joined and muxed with the song. Download the MP4 from the run's
+# artifacts. Default: 1080p, 30 fps, light motion blur (4 sub-frames over half a frame), 12 parts
+# (about 25-35 minutes in total).
+
+on:
+  workflow_dispatch:
+    inputs:
+      fps:
+        description: Frames per second
+        default: '30'
+        type: choice
+        options: ['30', '60']
+      samples:
+        description: Sub-frames per frame (motion blur; 1 = none, 4 = light)
+        default: '4'
+        type: choice
+        options: ['1', '2', '4', '8']
+      parts:
+        description: Parallel parts (more = faster, each part needs a runner)
+        default: '12'
+        type: choice
+        options: ['6', '12', '16', '20']
+      crf:
+        description: x264 quality (lower = better and bigger; 18 is visually clean)
+        default: '18'
+        type: choice
+        options: ['16', '18', '20', '23']
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      parts: ${{ steps.plan.outputs.parts }}
+    steps:
+      - uses: actions/checkout@v5
+      - id: plan
+        name: Split the song into frame ranges
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          fps, n = int('${{ inputs.fps }}'), int('${{ inputs.parts }}')
+          frames = round(json.load(open('data/audio.json'))['duration'] * fps)
+          cuts = [round(frames * i / n) for i in range(n + 1)]
+          # times are exact frame boundaries (render.ts rounds from*fps and to*fps back to these frames)
+          parts = [{'i': f'{i:02d}', 'from': f'{cuts[i] / fps:.6f}', 'to': f'{cuts[i + 1] / fps:.6f}'} for i in range(n)]
+          print('parts=' + json.dumps(parts))
+          PY
+          cat "$GITHUB_OUTPUT"
+
+  render:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: true
+      matrix:
+        part: ${{ fromJSON(needs.plan.outputs.parts) }}
+    defaults:
+      run:
+        working-directory: app
+    steps:
+      - uses: actions/checkout@v5
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
+      - name: Browser and ffmpeg
+        run: |
+          CHROME_PATH="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium || command -v chromium-browser)"
+          test -n "$CHROME_PATH"
+          echo "CHROME_PATH=$CHROME_PATH" >> "$GITHUB_ENV"
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Render part ${{ matrix.part.i }} (${{ matrix.part.from }}-${{ matrix.part.to }} s)
+        run: |
+          bun scripts/render.ts video --from ${{ matrix.part.from }} --to ${{ matrix.part.to }} \
+            --fps ${{ inputs.fps }} --samples ${{ inputs.samples }} --shutter 0.5 \
+            --crf ${{ inputs.crf }} --preset medium --noaudio --out ../out/part-${{ matrix.part.i }}.mp4
+      - uses: actions/upload-artifact@v6
+        with:
+          name: part-${{ matrix.part.i }}
+          path: out/part-${{ matrix.part.i }}.mp4
+          retention-days: 2
+
+  assemble:
+    needs: render
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/download-artifact@v7
+        with:
+          pattern: part-*
+          path: parts
+          merge-multiple: true
+      - name: Join the parts and add the song
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          ls parts/*.mp4 | sort | sed "s|^|file '$PWD/|; s|$|'|" > parts.txt
+          cat parts.txt
+          name="p-of-us-${{ inputs.fps }}fps-${{ inputs.samples }}x"
+          echo "NAME=$name" >> "$GITHUB_ENV"
+          # every part is the same x264 stream starting on a keyframe: join without re-encoding
+          ffmpeg -y -loglevel error -f concat -safe 0 -i parts.txt -i audio/p-of-us.mp3 \
+            -map 0:v -map 1:a -c:v copy -c:a aac -b:a 320k -shortest -movflags +faststart "$name.mp4"
+          ffprobe -v error -show_entries format=duration:stream=codec_name,width,height,nb_frames -of compact "$name.mp4"
+      - uses: actions/upload-artifact@v6
+        with:
+          name: ${{ env.NAME }}
+          path: ${{ env.NAME }}.mp4
+          retention-days: 30

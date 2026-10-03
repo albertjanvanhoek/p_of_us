@@ -14,7 +14,7 @@ The video is planned as a print made in two inks, red for the human and blue for
 - `tools/lyric-tapper.html` — open in a browser, load the mp3, press Enter at the start of each line, export a `lyrics.json` with real line timings.
 - `analysis/` — the Python scripts that produced the data (librosa, numpy, scipy). Run `1_…` to `7_…` in order from inside `analysis/`. `align_whisper.py` makes the word-level timings (see below); `make_fonts.py` the static Fraunces instances.
 - `app/` — the renderer (see Renderer).
-- `.github/workflows/` — `align-lyrics` (word alignment on a GitHub runner, commits `data/lyrics.json`), `build` (typechecks and builds the renderer), `render-preview` (renders a section to MP4).
+- `.github/workflows/` — `align-lyrics` (word alignment on a GitHub runner, commits `data/lyrics.json`), `build` (typechecks and builds the renderer), `render-preview` (renders a section to MP4), `render-final` (the whole video on parallel runners).
 - `audio/p-of-us.mp3` — the song (committed so the alignment workflow can read it; see Rights).
 
 ## Renderer
@@ -38,7 +38,11 @@ bunx vite          # http://localhost:5173 (?t=47 starts at 0:47; space, ←/→
 
 Stills and clips: `bun scripts/render.ts stills --t 5.7,63.9`, `bun scripts/render.ts sheet --from 47 --to 81 --n 12`, `bun scripts/render.ts video --from 47 --to 81 --out ../out/chorus1.mp4`. On Linux without a GPU set `CHROME_PATH` to a Chrome/Chromium binary; it renders with SwiftShader (about 0.5 s per frame).
 
-Without a local setup: GitHub → Actions → **render preview** → Run workflow, pick a section, and download the MP4 from the run's artifacts.
+Without a local setup: GitHub → Actions → **render preview** → Run workflow, pick a section, and download the MP4 from the run's artifacts (a section takes about 10–15 minutes at 30 fps, no motion blur).
+
+### Render the video (no GPU needed)
+
+GitHub → Actions → **render final** → Run workflow (from `main`). It splits the song into frame ranges rendered on parallel runners (software GL, about 2.3 s per frame with light motion blur), joins them without re-encoding and adds the song: one MP4 in the run's artifacts. Defaults: 1080p, 30 fps, 4 sub-frames per frame, 12 parts, CRF 18, about 25–35 minutes in total. On a Mac with a GPU the same can be rendered locally: `bun scripts/render.ts video --samples auto --shutter 0.2 --out ../out/p-of-us.mp4`.
 
 ## Lyric timing
 
