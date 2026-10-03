@@ -151,3 +151,5 @@ audio/*.mp3
 analysis/work/
 out/
 node_modules/
+sep/
+__pycache__/

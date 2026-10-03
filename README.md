@@ -11,12 +11,19 @@ The video is planned as a print made in two inks, red for the human and blue for
 - `data/lyrics.approx.json` — **estimated** line and word timings (lines spread evenly over each section), in the pdoom-video lyrics format. Good enough to preview layouts, not for final sync.
 - `lyrics/lyrics_sheet.json` — the lyric text per section, as posted on 2026-10-03.
 - `tools/lyric-tapper.html` — open in a browser, load the mp3, press Enter at the start of each line, export a `lyrics.json` with real line timings.
-- `analysis/` — the Python scripts that produced the data (librosa, numpy, scipy). Run them in order from inside `analysis/`.
+- `analysis/` — the Python scripts that produced the data (librosa, numpy, scipy). Run `1_…` to `6_…` in order from inside `analysis/`. `align_whisper.py` makes the word-level timings (see below).
+- `.github/workflows/align-lyrics.yml` — runs the word alignment on a GitHub runner and commits `data/lyrics.json`.
 - `audio/` — put `p-of-us.mp3` here (not committed; see below).
+
+## Lyric timing
+
+Word timings come from the same pipeline as [Honesty-video](https://github.com/albertjanvanhoek/Honesty-video): Demucs separates the vocal, faster-whisper hears it with word timestamps, and `analysis/align_whisper.py` matches what it heard to `lyrics/lyrics_sheet.json` (a monotonic edit-distance match; unheard words are interpolated between their neighbours). The result goes to `data/lyrics.json` in the same format as `lyrics.approx.json`, plus a `matched` flag per word and Whisper's raw transcript (`transcriptSegments`) for checking which lines are actually sung.
+
+It runs in GitHub Actions (**align lyrics**), because the model downloads are blocked in the Claude Code cloud environment. A push that changes the workflow, the script, the lyric sheet or the mp3 starts it; it commits `data/lyrics.json` back to the same branch. It needs `audio/p-of-us.mp3` in the repository and skips with a notice when the file is missing.
 
 ## Next steps
 
-1. Tap the real line timings with `tools/lyric-tapper.html` and save the result as `data/lyrics.json`. For word-level precision, run Demucs + forced alignment locally (the pdoom-video `analysis/` tools do this).
+1. Get real word timings into `data/lyrics.json` with the **align lyrics** workflow (above), then check the words flagged `matched: false` by ear. `tools/lyric-tapper.html` remains the manual fallback for line starts.
 2. Confirm which lyric lines the generated vocal actually sings, and check the low-confidence section boundaries by ear.
 3. Set up the renderer: start from the pdoom-video engine (MIT; keep its licence notice and credit), swap in the two-ink compositing, palette and fonts from the treatment, and build the scenes one at a time.
 
