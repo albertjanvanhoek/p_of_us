@@ -20,7 +20,7 @@ The video is planned as a print made in two inks, red for the human and blue for
 
 Word timings come from the same pipeline as [Honesty-video](https://github.com/albertjanvanhoek/Honesty-video): Demucs separates the vocal, faster-whisper hears it with word timestamps, and `analysis/align_whisper.py` matches what it heard to `lyrics/lyrics_sheet.json` (a monotonic edit-distance match; unheard words are interpolated between their neighbours). The result goes to `data/lyrics.json` in the same format as `lyrics.approx.json`, plus a `matched` flag per word and Whisper's raw transcript (`transcriptSegments`) for checking which lines are actually sung.
 
-It runs in GitHub Actions (**align lyrics**), because the model downloads are blocked in the Claude Code cloud environment. A push that changes the workflow, the script, the lyric sheet or the mp3 starts it; it commits `data/lyrics.json` back to the same branch. It needs `audio/p-of-us.mp3` in the repository and skips with a notice when the file is missing.
+It runs in GitHub Actions (**align lyrics**), because the model downloads are blocked in the Claude Code cloud environment. A push that changes the workflow, the script, the lyric sheet or the mp3 starts it; it commits `data/lyrics.json` back to the same branch. It needs `audio/p-of-us.mp3` in the repository and skips with a notice when the file is missing. Whisper on CPU is not exactly reproducible across runners, so a re-run with unchanged lyric lines that matches fewer words keeps the committed timings (`analysis/keep_better_alignment.py`; tick **force** on a manual run to override). Whenever the timings change, the workflow also re-derives the sections in `data/audio.json`.
 
 ## Next steps
 

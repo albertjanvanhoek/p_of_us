@@ -19,6 +19,10 @@ on:
         description: Separate the vocals from the music first (recommended)
         default: true
         type: boolean
+      force:
+        description: Commit the new timings even if they match fewer words than the committed ones
+        default: false
+        type: boolean
   push:
     paths:
       - '.github/workflows/align-lyrics.yml'
@@ -38,6 +42,7 @@ env:
   # a push has no inputs: use the same defaults as a manual run
   MODEL: ${{ inputs.model || 'medium.en' }}
   SEPARATE: ${{ github.event_name == 'push' || inputs.separate }}
+  FORCE: ${{ inputs.force || false }}
   BRANCH: ${{ github.ref_name }}
 
 jobs:
@@ -96,12 +101,27 @@ jobs:
             --out data/lyrics.json \
             --model "$MODEL" $FLAG
 
+      - name: Keep the committed timings if this run is worse
+        if: steps.song.outputs.ok == 'true'
+        run: |
+          git show HEAD:data/lyrics.json > /tmp/committed-lyrics.json 2>/dev/null || : > /tmp/committed-lyrics.json
+          FLAG=""; if [ "$FORCE" = "true" ]; then FLAG="--force"; fi
+          python analysis/keep_better_alignment.py --old /tmp/committed-lyrics.json --new data/lyrics.json $FLAG | tee /tmp/guard.txt
+          if [ "$(tail -n1 /tmp/guard.txt)" = "keep" ]; then
+            echo "::notice::$(tail -n2 /tmp/guard.txt | head -n1)"
+          fi
+
+      - name: Re-derive the sections from the timings
+        if: steps.song.outputs.ok == 'true'
+        working-directory: analysis
+        run: python 7_sections_from_lyrics.py
+
       - name: Commit aligned timing
         if: steps.song.outputs.ok == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/lyrics.json
+          git add data/lyrics.json data/audio.json
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
