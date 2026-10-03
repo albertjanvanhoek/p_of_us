@@ -153,3 +153,4 @@ out/
 node_modules/
 sep/
 __pycache__/
+!audio/p-of-us.mp3

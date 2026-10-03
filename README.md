@@ -13,7 +13,7 @@ The video is planned as a print made in two inks, red for the human and blue for
 - `tools/lyric-tapper.html` — open in a browser, load the mp3, press Enter at the start of each line, export a `lyrics.json` with real line timings.
 - `analysis/` — the Python scripts that produced the data (librosa, numpy, scipy). Run `1_…` to `6_…` in order from inside `analysis/`. `align_whisper.py` makes the word-level timings (see below).
 - `.github/workflows/align-lyrics.yml` — runs the word alignment on a GitHub runner and commits `data/lyrics.json`.
-- `audio/` — put `p-of-us.mp3` here (not committed; see below).
+- `audio/p-of-us.mp3` — the song (committed so the alignment workflow can read it; see Rights).
 
 ## Lyric timing
 
@@ -29,4 +29,4 @@ It runs in GitHub Actions (**align lyrics**), because the model downloads are bl
 
 ## Rights
 
-The code in this repository is MIT-licensed (see `LICENSE`). The song, its lyrics and its recording belong to the artist and are not covered by that licence; the mp3 is deliberately not committed (`audio/*.mp3` is git-ignored).
+The code in this repository is MIT-licensed (see `LICENSE`). The song, its lyrics and its recording belong to the artist and are not covered by that licence. `audio/p-of-us.mp3` is included only so the analysis and alignment can run; other mp3 files in `audio/` stay git-ignored.
