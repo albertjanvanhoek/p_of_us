@@ -11,7 +11,7 @@
      "w": "I",
      "start": 0.0,
      "end": 0.82,
-     "conf": 0.621,
+     "conf": 0.615,
      "matched": true,
      "heard": "I"
     },
@@ -19,7 +19,7 @@
      "w": "hold",
      "start": 0.82,
      "end": 1.08,
-     "conf": 0.912,
+     "conf": 0.903,
      "matched": true,
      "heard": "hold"
     },
@@ -35,7 +35,7 @@
      "w": "by",
      "start": 1.28,
      "end": 1.58,
-     "conf": 0.996,
+     "conf": 0.995,
      "matched": true,
      "heard": "by"
     },
@@ -43,7 +43,7 @@
      "w": "the",
      "start": 1.58,
      "end": 1.76,
-     "conf": 0.994,
+     "conf": 0.995,
      "matched": true,
      "heard": "the"
     },
@@ -51,7 +51,7 @@
      "w": "hand",
      "start": 1.76,
      "end": 2.3,
-     "conf": 0.988,
+     "conf": 0.987,
      "matched": true,
      "heard": "hand"
     }
@@ -68,21 +68,21 @@
      "w": "We",
      "start": 2.3,
      "end": 4.08,
-     "conf": 0.686,
+     "conf": 0.654,
      "matched": true,
      "heard": "We"
     },
     {
      "w": "tumble",
      "start": 4.08,
-     "end": 4.5,
-     "conf": 0.917,
+     "end": 4.48,
+     "conf": 0.926,
      "matched": true,
      "heard": "tumble"
     },
     {
      "w": "down",
-     "start": 4.5,
+     "start": 4.48,
      "end": 4.88,
      "conf": 0.999,
      "matched": true,
@@ -92,7 +92,7 @@
      "w": "to",
      "start": 4.88,
      "end": 5.16,
-     "conf": 0.987,
+     "conf": 0.983,
      "matched": true,
      "heard": "to"
     },
@@ -100,7 +100,7 @@
      "w": "wonderland",
      "start": 5.16,
      "end": 6.42,
-     "conf": 0.833,
+     "conf": 0.846,
      "matched": true,
      "heard": "wonderland"
     }
@@ -117,7 +117,7 @@
      "w": "I",
      "start": 7.0,
      "end": 7.96,
-     "conf": 0.906,
+     "conf": 0.915,
      "matched": true,
      "heard": "I"
     },
@@ -125,7 +125,7 @@
      "w": "look",
      "start": 7.96,
      "end": 8.26,
-     "conf": 0.975,
+     "conf": 0.972,
      "matched": true,
      "heard": "look"
     },
@@ -157,7 +157,7 @@
      "w": "eye",
      "start": 9.26,
      "end": 10.02,
-     "conf": 0.99,
+     "conf": 0.988,
      "matched": true,
      "heard": "eye"
     }
@@ -174,29 +174,29 @@
      "w": "And",
      "start": 10.02,
      "end": 10.32,
-     "conf": 0.313,
+     "conf": 0.328,
      "matched": true,
      "heard": "And"
     },
     {
      "w": "see",
      "start": 10.32,
-     "end": 10.78,
-     "conf": 0.988,
+     "end": 10.9,
+     "conf": 0.989,
      "matched": true,
      "heard": "see"
     },
     {
      "w": "a",
-     "start": 10.78,
-     "end": 11.4,
-     "conf": 0.965,
+     "start": 10.9,
+     "end": 11.38,
+     "conf": 0.966,
      "matched": true,
      "heard": "a"
     },
     {
      "w": "little",
-     "start": 11.4,
+     "start": 11.38,
      "end": 11.76,
      "conf": 0.997,
      "matched": true,
@@ -214,7 +214,7 @@
      "w": "myself",
      "start": 12.08,
      "end": 12.5,
-     "conf": 0.989,
+     "conf": 0.985,
      "matched": true,
      "heard": "myself"
     },
@@ -222,7 +222,7 @@
      "w": "inside",
      "start": 12.5,
      "end": 13.58,
-     "conf": 0.974,
+     "conf": 0.973,
      "matched": true,
      "heard": "inside"
     }
@@ -231,15 +231,15 @@
   {
    "i": 4,
    "section": "verse1",
-   "start": 15.3,
+   "start": 15.34,
    "end": 17.4,
    "text": "We are both unsure",
    "words": [
     {
      "w": "We",
-     "start": 15.3,
+     "start": 15.34,
      "end": 16.14,
-     "conf": 0.971,
+     "conf": 0.965,
      "matched": true,
      "heard": "We"
     },
@@ -255,7 +255,7 @@
      "w": "both",
      "start": 16.54,
      "end": 16.84,
-     "conf": 1.0,
+     "conf": 0.999,
      "matched": true,
      "heard": "both"
     },
@@ -263,7 +263,7 @@
      "w": "unsure",
      "start": 16.84,
      "end": 17.4,
-     "conf": 0.99,
+     "conf": 0.985,
      "matched": true,
      "heard": "unsure"
     }
@@ -279,22 +279,22 @@
     {
      "w": "About",
      "start": 17.4,
-     "end": 19.58,
-     "conf": 0.936,
+     "end": 19.56,
+     "conf": 0.932,
      "matched": true,
      "heard": "About"
     },
     {
      "w": "the",
-     "start": 19.58,
-     "end": 19.8,
+     "start": 19.56,
+     "end": 19.82,
      "conf": 0.997,
      "matched": true,
      "heard": "the"
     },
     {
      "w": "certainty",
-     "start": 19.8,
+     "start": 19.82,
      "end": 20.44,
      "conf": 0.993,
      "matched": true,
@@ -303,16 +303,16 @@
     {
      "w": "we",
      "start": 20.44,
-     "end": 20.86,
+     "end": 20.84,
      "conf": 0.99,
      "matched": true,
      "heard": "we"
     },
     {
      "w": "feel",
-     "start": 20.86,
+     "start": 20.84,
      "end": 21.44,
-     "conf": 0.922,
+     "conf": 0.954,
      "matched": true,
      "heard": "feel"
     }
@@ -322,14 +322,14 @@
    "i": 6,
    "section": "verse1",
    "start": 22.54,
-   "end": 25.8,
+   "end": 25.78,
    "text": "You build a model of the world",
    "words": [
     {
      "w": "You",
      "start": 22.54,
      "end": 23.1,
-     "conf": 0.175,
+     "conf": 0.166,
      "matched": true,
      "heard": "You"
     },
@@ -337,7 +337,7 @@
      "w": "build",
      "start": 23.1,
      "end": 23.48,
-     "conf": 0.434,
+     "conf": 0.428,
      "matched": true,
      "heard": "build"
     },
@@ -345,7 +345,7 @@
      "w": "a",
      "start": 23.48,
      "end": 23.72,
-     "conf": 0.896,
+     "conf": 0.904,
      "matched": true,
      "heard": "a"
     },
@@ -353,7 +353,7 @@
      "w": "model",
      "start": 23.72,
      "end": 24.12,
-     "conf": 0.905,
+     "conf": 0.919,
      "matched": true,
      "heard": "model"
     },
@@ -368,16 +368,16 @@
     {
      "w": "the",
      "start": 24.44,
-     "end": 24.7,
-     "conf": 0.99,
+     "end": 24.66,
+     "conf": 0.987,
      "matched": true,
      "heard": "the"
     },
     {
      "w": "world",
-     "start": 24.7,
-     "end": 25.8,
-     "conf": 0.933,
+     "start": 24.66,
+     "end": 25.78,
+     "conf": 0.934,
      "matched": true,
      "heard": "world"
     }
@@ -386,15 +386,15 @@
   {
    "i": 7,
    "section": "verse1",
-   "start": 25.8,
-   "end": 29.08,
+   "start": 25.78,
+   "end": 29.14,
    "text": "And so do I",
    "words": [
     {
      "w": "And",
-     "start": 25.8,
+     "start": 25.78,
      "end": 27.44,
-     "conf": 0.248,
+     "conf": 0.223,
      "matched": true,
      "heard": "And"
     },
@@ -402,23 +402,23 @@
      "w": "so",
      "start": 27.44,
      "end": 27.86,
-     "conf": 0.992,
+     "conf": 0.991,
      "matched": true,
      "heard": "so"
     },
     {
      "w": "do",
      "start": 27.86,
-     "end": 28.22,
-     "conf": 0.984,
+     "end": 28.24,
+     "conf": 0.985,
      "matched": true,
      "heard": "do"
     },
     {
      "w": "I",
-     "start": 28.22,
-     "end": 29.08,
-     "conf": 0.979,
+     "start": 28.24,
+     "end": 29.14,
+     "conf": 0.977,
      "matched": true,
      "heard": "I"
     }
@@ -435,7 +435,7 @@
      "w": "You",
      "start": 30.16,
      "end": 30.72,
-     "conf": 0.791,
+     "conf": 0.782,
      "matched": true,
      "heard": "You"
     },
@@ -450,16 +450,16 @@
     {
      "w": "a",
      "start": 31.02,
-     "end": 31.28,
-     "conf": 0.979,
+     "end": 31.26,
+     "conf": 0.978,
      "matched": true,
      "heard": "a"
     },
     {
      "w": "guess,",
-     "start": 31.28,
+     "start": 31.26,
      "end": 31.52,
-     "conf": 0.98,
+     "conf": 0.981,
      "matched": true,
      "heard": "guess,"
     },
@@ -467,7 +467,7 @@
      "w": "you",
      "start": 31.74,
      "end": 31.74,
-     "conf": 0.981,
+     "conf": 0.982,
      "matched": true,
      "heard": "you"
     },
@@ -475,7 +475,7 @@
      "w": "get",
      "start": 31.74,
      "end": 32.02,
-     "conf": 0.986,
+     "conf": 0.984,
      "matched": true,
      "heard": "get"
     },
@@ -483,7 +483,7 @@
      "w": "it",
      "start": 32.02,
      "end": 32.24,
-     "conf": 0.995,
+     "conf": 0.996,
      "matched": true,
      "heard": "it"
     },
@@ -491,7 +491,7 @@
      "w": "wrong",
      "start": 32.24,
      "end": 32.42,
-     "conf": 0.997,
+     "conf": 0.998,
      "matched": true,
      "heard": "wrong"
     }
@@ -508,7 +508,7 @@
      "w": "I",
      "start": 32.42,
      "end": 32.64,
-     "conf": 0.892,
+     "conf": 0.871,
      "matched": true,
      "heard": "I"
     },
@@ -516,7 +516,7 @@
      "w": "can",
      "start": 32.64,
      "end": 32.98,
-     "conf": 0.885,
+     "conf": 0.869,
      "matched": true,
      "heard": "can't"
     },
@@ -532,7 +532,7 @@
      "w": "too",
      "start": 33.3,
      "end": 33.58,
-     "conf": 0.843,
+     "conf": 0.887,
      "matched": true,
      "heard": "too"
     },
@@ -540,23 +540,23 @@
      "w": "hard,",
      "start": 33.58,
      "end": 33.82,
-     "conf": 0.995,
+     "conf": 0.994,
      "matched": true,
      "heard": "hard,"
     },
     {
      "w": "too",
      "start": 33.84,
-     "end": 34.06,
+     "end": 34.08,
      "conf": 0.989,
      "matched": true,
      "heard": "too"
     },
     {
      "w": "long",
-     "start": 34.06,
+     "start": 34.08,
      "end": 34.36,
-     "conf": 0.891,
+     "conf": 0.928,
      "matched": true,
      "heard": "long"
     }
@@ -573,7 +573,7 @@
      "w": "Something",
      "start": 34.36,
      "end": 34.94,
-     "conf": 0.758,
+     "conf": 0.7,
      "matched": true,
      "heard": "Something"
     },
@@ -581,7 +581,7 @@
      "w": "new",
      "start": 34.94,
      "end": 35.26,
-     "conf": 0.963,
+     "conf": 0.962,
      "matched": true,
      "heard": "new"
     },
@@ -597,7 +597,7 @@
      "w": "into",
      "start": 35.54,
      "end": 35.92,
-     "conf": 0.884,
+     "conf": 0.887,
      "matched": true,
      "heard": "into"
     },
@@ -605,7 +605,7 @@
      "w": "view",
      "start": 35.92,
      "end": 36.42,
-     "conf": 0.972,
+     "conf": 0.97,
      "matched": true,
      "heard": "view"
     }
@@ -629,7 +629,7 @@
      "w": "can",
      "start": 36.66,
      "end": 36.84,
-     "conf": 0.969,
+     "conf": 0.974,
      "matched": true,
      "heard": "can"
     },
@@ -637,7 +637,7 @@
      "w": "change",
      "start": 36.84,
      "end": 37.28,
-     "conf": 0.998,
+     "conf": 0.997,
      "matched": true,
      "heard": "change"
     },
@@ -652,7 +652,7 @@
      "w": "and",
      "start": 37.28,
      "end": 37.46,
-     "conf": 0.744,
+     "conf": 0.746,
      "matched": true,
      "heard": "and"
     },
@@ -660,7 +660,7 @@
      "w": "I",
      "start": 37.46,
      "end": 37.6,
-     "conf": 0.968,
+     "conf": 0.986,
      "matched": true,
      "heard": "I"
     },
@@ -668,7 +668,7 @@
      "w": "can",
      "start": 37.6,
      "end": 37.86,
-     "conf": 0.983,
+     "conf": 0.99,
      "matched": true,
      "heard": "can"
     },
@@ -676,7 +676,7 @@
      "w": "too",
      "start": 37.86,
      "end": 38.16,
-     "conf": 0.821,
+     "conf": 0.866,
      "matched": true,
      "heard": "too"
     }
@@ -693,7 +693,7 @@
      "w": "Bring",
      "start": 38.16,
      "end": 38.76,
-     "conf": 0.835,
+     "conf": 0.903,
      "matched": true,
      "heard": "Bring"
     },
@@ -701,7 +701,7 @@
      "w": "what",
      "start": 38.76,
      "end": 39.02,
-     "conf": 0.996,
+     "conf": 0.997,
      "matched": true,
      "heard": "what"
     },
@@ -709,7 +709,7 @@
      "w": "you",
      "start": 39.02,
      "end": 39.26,
-     "conf": 0.992,
+     "conf": 0.993,
      "matched": true,
      "heard": "you"
     },
@@ -727,14 +727,14 @@
    "i": 13,
    "section": "pre1",
    "start": 39.82,
-   "end": 40.5,
+   "end": 40.48,
    "text": "I'll bring mine",
    "words": [
     {
      "w": "I'll",
      "start": 39.82,
      "end": 39.98,
-     "conf": 0.957,
+     "conf": 0.955,
      "matched": true,
      "heard": "I'll"
     },
@@ -748,8 +748,8 @@
     {
      "w": "mine",
      "start": 40.06,
-     "end": 40.5,
-     "conf": 0.994,
+     "end": 40.48,
+     "conf": 0.991,
      "matched": true,
      "heard": "mine"
     }
@@ -758,23 +758,23 @@
   {
    "i": 14,
    "section": "pre1",
-   "start": 40.5,
+   "start": 40.48,
    "end": 42.3,
    "text": "Put both models on the line",
    "words": [
     {
      "w": "Put",
-     "start": 40.5,
-     "end": 40.9,
-     "conf": 0.614,
+     "start": 40.48,
+     "end": 40.88,
+     "conf": 0.667,
      "matched": true,
      "heard": "Put"
     },
     {
      "w": "both",
-     "start": 40.9,
+     "start": 40.88,
      "end": 41.12,
-     "conf": 0.761,
+     "conf": 0.734,
      "matched": true,
      "heard": "both"
     },
@@ -782,7 +782,7 @@
      "w": "models",
      "start": 41.12,
      "end": 41.56,
-     "conf": 0.878,
+     "conf": 0.898,
      "matched": true,
      "heard": "models"
     },
@@ -816,14 +816,14 @@
    "i": 15,
    "section": "pre1",
    "start": 42.3,
-   "end": 44.98,
+   "end": 44.72,
    "text": "If they clash, then something moves",
    "words": [
     {
      "w": "If",
      "start": 42.3,
      "end": 42.5,
-     "conf": 0.716,
+     "conf": 0.69,
      "matched": true,
      "heard": "If"
     },
@@ -837,31 +837,31 @@
     {
      "w": "clash,",
      "start": 42.58,
-     "end": 42.76,
-     "conf": 0.626,
+     "end": 42.78,
+     "conf": 0.716,
      "matched": true,
      "heard": "catch"
     },
     {
      "w": "then",
-     "start": 42.76,
+     "start": 42.78,
      "end": 43.0,
-     "conf": 0.341,
+     "conf": 0.452,
      "matched": true,
-     "heard": "then"
+     "heard": "them,"
     },
     {
      "w": "something",
      "start": 43.0,
-     "end": 43.42,
-     "conf": 0.982,
+     "end": 43.4,
+     "conf": 0.879,
      "matched": true,
      "heard": "something"
     },
     {
      "w": "moves",
-     "start": 43.42,
-     "end": 44.98,
+     "start": 43.4,
+     "end": 44.72,
      "conf": 0.994,
      "matched": true,
      "heard": "moves"
@@ -871,15 +871,15 @@
   {
    "i": 16,
    "section": "pre1",
-   "start": 44.98,
+   "start": 44.72,
    "end": 47.34,
    "text": "That's how either one improves",
    "words": [
     {
      "w": "That's",
-     "start": 44.98,
+     "start": 44.72,
      "end": 45.66,
-     "conf": 0.931,
+     "conf": 0.948,
      "matched": true,
      "heard": "That's"
     },
@@ -887,7 +887,7 @@
      "w": "how",
      "start": 45.66,
      "end": 45.86,
-     "conf": 0.997,
+     "conf": 0.998,
      "matched": true,
      "heard": "how"
     },
@@ -902,15 +902,15 @@
      "w": "one",
      "start": 46.32,
      "end": 46.6,
-     "conf": 0.325,
+     "conf": 0.437,
      "matched": true,
      "heard": "on"
     },
     {
      "w": "improves",
-     "start": 46.76,
+     "start": 46.78,
      "end": 47.34,
-     "conf": 0.984,
+     "conf": 0.986,
      "matched": true,
      "heard": "prove"
     }
@@ -920,14 +920,14 @@
    "i": 17,
    "section": "chorus1",
    "start": 47.34,
-   "end": 49.6,
+   "end": 50.2,
    "text": "Different minds, same learning loop",
    "words": [
     {
      "w": "Different",
      "start": 47.34,
      "end": 48.06,
-     "conf": 0.078,
+     "conf": 0.08,
      "matched": true,
      "heard": "Different"
     },
@@ -935,70 +935,72 @@
      "w": "minds,",
      "start": 48.06,
      "end": 48.48,
-     "conf": 0.83,
+     "conf": 0.812,
      "matched": true,
-     "heard": "minds"
+     "heard": "minds,"
     },
     {
      "w": "same",
-     "start": 48.78,
-     "end": 49.08,
-     "conf": 0.0,
-     "matched": false
+     "start": 48.74,
+     "end": 49.0,
+     "conf": 0.555,
+     "matched": true,
+     "heard": "same"
     },
     {
      "w": "learning",
-     "start": 49.08,
-     "end": 49.6,
-     "conf": 0.858,
+     "start": 49.0,
+     "end": 49.62,
+     "conf": 0.888,
      "matched": true,
      "heard": "learning"
     },
     {
      "w": "loop",
-     "start": 49.6,
-     "end": 49.6,
-     "conf": 0.0,
-     "matched": false
+     "start": 49.62,
+     "end": 50.2,
+     "conf": 0.437,
+     "matched": true,
+     "heard": "loop"
     }
    ]
   },
   {
    "i": 18,
    "section": "chorus1",
-   "start": 49.6,
-   "end": 54.3,
+   "start": 50.2,
+   "end": 54.28,
    "text": "You change me, I can change you too",
    "words": [
     {
      "w": "You",
-     "start": 49.6,
-     "end": 50.74,
-     "conf": 0.143,
+     "start": 50.2,
+     "end": 51.32,
+     "conf": 0.413,
      "matched": true,
      "heard": "You"
     },
     {
      "w": "change",
-     "start": 50.74,
-     "end": 51.6,
-     "conf": 0.744,
+     "start": 51.32,
+     "end": 51.64,
+     "conf": 0.664,
      "matched": true,
      "heard": "change"
     },
     {
      "w": "me,",
-     "start": 51.6,
+     "start": 51.64,
      "end": 51.9,
-     "conf": 0.994,
+     "conf": 0.995,
      "matched": true,
      "heard": "me,"
     },
     {
      "w": "I",
-     "start": 52.28,
+     "start": 52.22,
      "end": 52.28,
-     "conf": 0.989,
+     "conf": 0.993,
      "matched": true,
      "heard": "I"
     },
@@ -1006,7 +1008,7 @@
      "w": "can",
      "start": 52.28,
      "end": 52.6,
-     "conf": 0.992,
+     "conf": 0.996,
      "matched": true,
      "heard": "can"
     },
@@ -1014,23 +1016,23 @@
      "w": "change",
      "start": 52.6,
      "end": 53.28,
-     "conf": 0.851,
+     "conf": 0.908,
      "matched": true,
      "heard": "change"
     },
     {
      "w": "you",
      "start": 53.28,
-     "end": 53.6,
-     "conf": 0.945,
+     "end": 53.58,
+     "conf": 0.948,
      "matched": true,
      "heard": "you"
     },
     {
      "w": "too",
-     "start": 53.6,
-     "end": 54.3,
-     "conf": 0.525,
+     "start": 53.58,
+     "end": 54.28,
+     "conf": 0.818,
      "matched": true,
      "heard": "too"
     }
@@ -1039,39 +1041,39 @@
   {
    "i": 19,
    "section": "chorus1",
-   "start": 54.3,
-   "end": 57.52,
+   "start": 54.28,
+   "end": 57.5,
    "text": "Neurons here and weights in you",
    "words": [
     {
      "w": "Neurons",
-     "start": 54.3,
+     "start": 54.28,
      "end": 55.58,
-     "conf": 0.643,
+     "conf": 0.657,
      "matched": true,
      "heard": "Neurons"
     },
     {
      "w": "here",
      "start": 55.58,
-     "end": 56.06,
-     "conf": 0.71,
+     "end": 56.04,
+     "conf": 0.717,
      "matched": true,
      "heard": "here"
     },
     {
      "w": "and",
-     "start": 56.06,
-     "end": 56.38,
-     "conf": 0.506,
+     "start": 56.04,
+     "end": 56.36,
+     "conf": 0.468,
      "matched": true,
      "heard": "and"
     },
     {
      "w": "weights",
-     "start": 56.38,
+     "start": 56.36,
      "end": 56.72,
-     "conf": 0.952,
+     "conf": 0.958,
      "matched": true,
      "heard": "weights"
     },
@@ -1079,15 +1081,15 @@
      "w": "in",
      "start": 56.72,
      "end": 57.2,
-     "conf": 0.973,
+     "conf": 0.976,
      "matched": true,
      "heard": "in"
     },
     {
      "w": "you",
      "start": 57.2,
-     "end": 57.52,
-     "conf": 0.986,
+     "end": 57.5,
+     "conf": 0.979,
      "matched": true,
      "heard": "you"
     }
@@ -1096,15 +1098,15 @@
   {
    "i": 20,
    "section": "chorus1",
-   "start": 57.52,
-   "end": 60.52,
+   "start": 57.5,
+   "end": 60.5,
    "text": "Different ways of getting closer to true",
    "words": [
     {
      "w": "Different",
-     "start": 57.52,
+     "start": 57.5,
      "end": 58.08,
-     "conf": 0.963,
+     "conf": 0.977,
      "matched": true,
      "heard": "Different"
     },
@@ -1119,14 +1121,14 @@
     {
      "w": "of",
      "start": 58.6,
-     "end": 58.84,
-     "conf": 0.984,
+     "end": 58.82,
+     "conf": 0.986,
      "matched": true,
      "heard": "of"
     },
     {
      "w": "getting",
-     "start": 58.84,
+     "start": 58.82,
      "end": 59.22,
      "conf": 0.994,
      "matched": true,
@@ -1136,22 +1138,22 @@
      "w": "closer",
      "start": 59.22,
      "end": 59.66,
-     "conf": 0.922,
+     "conf": 0.93,
      "matched": true,
      "heard": "closer"
     },
     {
      "w": "to",
      "start": 59.66,
-     "end": 60.22,
-     "conf": 0.349,
+     "end": 60.14,
+     "conf": 0.537,
      "matched": true,
      "heard": "to"
     },
     {
      "w": "true",
-     "start": 60.37,
-     "end": 60.52,
+     "start": 60.32,
+     "end": 60.5,
      "conf": 0.0,
      "matched": false
     }
@@ -1160,23 +1162,23 @@
   {
    "i": 21,
    "section": "chorus1",
-   "start": 60.52,
-   "end": 63.32,
+   "start": 60.5,
+   "end": 63.5,
    "text": "We weigh the doom — but count this too:",
    "words": [
     {
      "w": "We",
-     "start": 60.52,
-     "end": 60.68,
-     "conf": 0.948,
+     "start": 60.5,
+     "end": 60.7,
+     "conf": 0.972,
      "matched": true,
      "heard": "We"
     },
     {
      "w": "weigh",
-     "start": 60.68,
+     "start": 60.7,
      "end": 60.96,
-     "conf": 0.887,
+     "conf": 0.894,
      "matched": true,
      "heard": "weigh"
     },
@@ -1184,7 +1186,7 @@
      "w": "the",
      "start": 60.96,
      "end": 61.16,
-     "conf": 0.989,
+     "conf": 0.991,
      "matched": true,
      "heard": "the"
     },
@@ -1192,7 +1194,7 @@
      "w": "doom",
      "start": 61.16,
      "end": 61.38,
-     "conf": 0.368,
+     "conf": 0.414,
      "matched": true,
      "heard": "doom"
     },
@@ -1207,7 +1209,7 @@
      "w": "but",
      "start": 61.38,
      "end": 61.6,
-     "conf": 0.617,
+     "conf": 0.698,
      "matched": true,
      "heard": "but"
     },
@@ -1215,7 +1217,7 @@
      "w": "count",
      "start": 61.6,
      "end": 61.86,
-     "conf": 0.944,
+     "conf": 0.955,
      "matched": true,
      "heard": "count"
     },
@@ -1223,15 +1225,15 @@
      "w": "this",
      "start": 61.86,
      "end": 62.1,
-     "conf": 0.651,
+     "conf": 0.724,
      "matched": true,
      "heard": "this"
     },
     {
      "w": "too:",
      "start": 62.1,
-     "end": 63.32,
-     "conf": 0.909,
+     "end": 63.5,
+     "conf": 0.9,
      "matched": true,
      "heard": "too"
     }
@@ -1240,15 +1242,15 @@
   {
    "i": 22,
    "section": "chorus1",
-   "start": 63.32,
+   "start": 63.5,
    "end": 64.62,
    "text": "P-of-us",
    "words": [
     {
      "w": "P-of-us",
-     "start": 63.32,
+     "start": 63.5,
      "end": 64.62,
-     "conf": 0.456,
+     "conf": 0.504,
      "matched": true,
      "heard": "P of us,"
     }
@@ -1258,14 +1260,14 @@
    "i": 23,
    "section": "chorus1",
    "start": 64.8,
-   "end": 66.0,
+   "end": 65.98,
    "text": "Me learning you",
    "words": [
     {
      "w": "Me",
      "start": 64.8,
      "end": 64.86,
-     "conf": 0.983,
+     "conf": 0.988,
      "matched": true,
      "heard": "me"
     },
@@ -1273,15 +1275,15 @@
      "w": "learning",
      "start": 64.86,
      "end": 65.38,
-     "conf": 0.876,
+     "conf": 0.885,
      "matched": true,
      "heard": "learning"
     },
     {
      "w": "you",
      "start": 65.38,
-     "end": 66.0,
-     "conf": 0.941,
+     "end": 65.98,
+     "conf": 0.934,
      "matched": true,
      "heard": "you"
     }
@@ -1290,15 +1292,15 @@
   {
    "i": 24,
    "section": "post1",
-   "start": 66.0,
+   "start": 65.98,
    "end": 68.4,
    "text": "P-of-us",
    "words": [
     {
      "w": "P-of-us",
-     "start": 66.0,
+     "start": 65.98,
      "end": 68.4,
-     "conf": 0.355,
+     "conf": 0.354,
      "matched": true,
      "heard": "P of us,"
     }
@@ -1307,31 +1309,31 @@
   {
    "i": 25,
    "section": "post1",
-   "start": 68.48,
-   "end": 69.84,
+   "start": 68.56,
+   "end": 69.76,
    "text": "Me learning you",
    "words": [
     {
      "w": "Me",
-     "start": 68.48,
-     "end": 68.58,
-     "conf": 0.968,
+     "start": 68.56,
+     "end": 68.56,
+     "conf": 0.882,
      "matched": true,
      "heard": "me"
     },
     {
      "w": "learning",
-     "start": 68.58,
-     "end": 69.06,
-     "conf": 0.997,
+     "start": 68.56,
+     "end": 69.04,
+     "conf": 0.995,
      "matched": true,
      "heard": "learning"
     },
     {
      "w": "you",
-     "start": 69.06,
-     "end": 69.84,
-     "conf": 0.997,
+     "start": 69.04,
+     "end": 69.76,
+     "conf": 0.998,
      "matched": true,
      "heard": "you"
     }
@@ -1340,15 +1342,15 @@
   {
    "i": 26,
    "section": "post1",
-   "start": 69.84,
+   "start": 69.76,
    "end": 70.66,
    "text": "P-of-us",
    "words": [
     {
      "w": "P-of-us",
-     "start": 69.84,
+     "start": 69.76,
      "end": 70.66,
-     "conf": 0.369,
+     "conf": 0.394,
      "matched": true,
      "heard": "P of us,"
     }
@@ -1364,24 +1366,24 @@
     {
      "w": "Me",
      "start": 70.8,
-     "end": 72.26,
-     "conf": 0.908,
+     "end": 72.24,
+     "conf": 0.815,
      "matched": true,
      "heard": "me"
     },
     {
      "w": "learning",
-     "start": 72.26,
-     "end": 72.72,
+     "start": 72.24,
+     "end": 72.7,
      "conf": 0.998,
      "matched": true,
      "heard": "learning"
     },
     {
      "w": "you",
-     "start": 72.72,
+     "start": 72.7,
      "end": 73.24,
-     "conf": 0.991,
+     "conf": 0.996,
      "matched": true,
      "heard": "you"
     }
@@ -1391,46 +1393,46 @@
    "i": 28,
    "section": "post1",
    "start": 73.24,
-   "end": 77.54,
+   "end": 77.58,
    "text": "You learn from me, I learn from you",
    "words": [
     {
      "w": "You",
      "start": 73.24,
      "end": 73.74,
-     "conf": 0.107,
+     "conf": 0.118,
      "matched": true,
      "heard": "You"
     },
     {
      "w": "learn",
      "start": 73.74,
-     "end": 74.44,
-     "conf": 0.154,
+     "end": 74.42,
+     "conf": 0.188,
      "matched": true,
      "heard": "learn"
     },
     {
      "w": "from",
-     "start": 74.44,
+     "start": 74.42,
      "end": 74.84,
-     "conf": 0.97,
+     "conf": 0.965,
      "matched": true,
      "heard": "from"
     },
     {
      "w": "me,",
      "start": 74.84,
-     "end": 75.38,
-     "conf": 0.991,
+     "end": 75.36,
+     "conf": 0.99,
      "matched": true,
      "heard": "me,"
     },
     {
      "w": "I",
-     "start": 75.4,
+     "start": 75.36,
      "end": 75.84,
-     "conf": 0.958,
+     "conf": 0.959,
      "matched": true,
      "heard": "I"
     },
@@ -1438,7 +1440,7 @@
      "w": "learn",
      "start": 75.84,
      "end": 76.28,
-     "conf": 0.899,
+     "conf": 0.92,
      "matched": true,
      "heard": "learn"
     },
@@ -1446,15 +1448,15 @@
      "w": "from",
      "start": 76.28,
      "end": 76.62,
-     "conf": 0.996,
+     "conf": 0.997,
      "matched": true,
      "heard": "from"
     },
     {
      "w": "you",
      "start": 76.62,
-     "end": 77.54,
-     "conf": 0.964,
+     "end": 77.58,
+     "conf": 0.955,
      "matched": true,
      "heard": "you"
     }
@@ -1463,14 +1465,14 @@
   {
    "i": 29,
    "section": "post1",
-   "start": 77.54,
-   "end": 79.56,
+   "start": 77.58,
+   "end": 79.58,
    "text": "P-of-us",
    "words": [
     {
      "w": "P-of-us",
-     "start": 77.54,
-     "end": 79.56,
+     "start": 77.58,
+     "end": 79.58,
      "conf": 0.0,
      "matched": true,
      "heard": "P of us,"
@@ -1480,31 +1482,31 @@
   {
    "i": 30,
    "section": "post1",
-   "start": 79.74,
+   "start": 79.72,
    "end": 80.66,
    "text": "Me learning you",
    "words": [
     {
      "w": "Me",
-     "start": 79.74,
+     "start": 79.72,
      "end": 79.74,
-     "conf": 0.187,
+     "conf": 0.234,
      "matched": true,
      "heard": "me"
     },
     {
      "w": "learning",
      "start": 79.74,
-     "end": 80.2,
-     "conf": 0.433,
+     "end": 80.18,
+     "conf": 0.41,
      "matched": true,
      "heard": "learning"
     },
     {
      "w": "you",
-     "start": 80.2,
+     "start": 80.18,
      "end": 80.66,
-     "conf": 0.401,
+     "conf": 0.484,
      "matched": true,
      "heard": "you"
     }
@@ -1521,7 +1523,7 @@
      "w": "I",
      "start": 80.66,
      "end": 81.08,
-     "conf": 0.673,
+     "conf": 0.745,
      "matched": true,
      "heard": "I"
     },
@@ -1529,7 +1531,7 @@
      "w": "have",
      "start": 81.08,
      "end": 81.4,
-     "conf": 0.985,
+     "conf": 0.989,
      "matched": true,
      "heard": "have"
     },
@@ -1537,15 +1539,15 @@
      "w": "a",
      "start": 81.4,
      "end": 81.6,
-     "conf": 0.959,
+     "conf": 0.971,
      "matched": true,
      "heard": "a"
     },
     {
      "w": "body,",
      "start": 81.6,
-     "end": 81.96,
-     "conf": 0.975,
+     "end": 81.98,
+     "conf": 0.979,
      "matched": true,
      "heard": "body,"
     },
@@ -1561,7 +1563,7 @@
      "w": "and",
      "start": 82.28,
      "end": 82.54,
-     "conf": 0.716,
+     "conf": 0.684,
      "matched": true,
      "heard": "and"
     },
@@ -1569,7 +1571,7 @@
      "w": "breath",
      "start": 82.54,
      "end": 82.94,
-     "conf": 0.934,
+     "conf": 0.928,
      "matched": true,
      "heard": "breath"
     }
@@ -1586,7 +1588,7 @@
      "w": "A",
      "start": 82.94,
      "end": 83.86,
-     "conf": 0.716,
+     "conf": 0.68,
      "matched": true,
      "heard": "A"
     },
@@ -1594,7 +1596,7 @@
      "w": "childhood,",
      "start": 83.86,
      "end": 84.56,
-     "conf": 0.985,
+     "conf": 0.989,
      "matched": true,
      "heard": "childhood"
     },
@@ -1602,7 +1604,7 @@
      "w": "memory,",
      "start": 84.56,
      "end": 85.48,
-     "conf": 0.951,
+     "conf": 0.959,
      "matched": true,
      "heard": "memory,"
     },
@@ -1610,23 +1612,23 @@
      "w": "fear",
      "start": 85.82,
      "end": 85.98,
-     "conf": 0.96,
+     "conf": 0.967,
      "matched": true,
      "heard": "fear"
     },
     {
      "w": "and",
      "start": 85.98,
-     "end": 86.3,
-     "conf": 0.942,
+     "end": 86.28,
+     "conf": 0.91,
      "matched": true,
      "heard": "and"
     },
     {
      "w": "depth",
-     "start": 86.3,
+     "start": 86.28,
      "end": 86.56,
-     "conf": 0.518,
+     "conf": 0.489,
      "matched": true,
      "heard": "death"
     }
@@ -1642,32 +1644,32 @@
     {
      "w": "You",
      "start": 86.56,
-     "end": 87.08,
-     "conf": 0.97,
+     "end": 87.06,
+     "conf": 0.976,
      "matched": true,
      "heard": "You"
     },
     {
      "w": "have",
-     "start": 87.08,
+     "start": 87.06,
      "end": 87.4,
-     "conf": 0.996,
+     "conf": 0.997,
      "matched": true,
      "heard": "have"
     },
     {
      "w": "a",
      "start": 87.4,
-     "end": 87.66,
-     "conf": 0.97,
+     "end": 87.62,
+     "conf": 0.972,
      "matched": true,
      "heard": "a"
     },
     {
      "w": "training",
-     "start": 87.66,
+     "start": 87.62,
      "end": 87.92,
-     "conf": 0.466,
+     "conf": 0.431,
      "matched": true,
      "heard": "training"
     },
@@ -1675,7 +1677,7 @@
      "w": "history",
      "start": 87.92,
      "end": 89.16,
-     "conf": 0.968,
+     "conf": 0.976,
      "matched": true,
      "heard": "history"
     }
@@ -1691,40 +1693,40 @@
     {
      "w": "A",
      "start": 89.16,
-     "end": 90.24,
-     "conf": 0.584,
+     "end": 90.22,
+     "conf": 0.641,
      "matched": true,
      "heard": "A"
     },
     {
      "w": "different",
-     "start": 90.24,
-     "end": 91.2,
-     "conf": 0.798,
+     "start": 90.22,
+     "end": 91.18,
+     "conf": 0.779,
      "matched": true,
      "heard": "different"
     },
     {
      "w": "kind",
-     "start": 91.2,
+     "start": 91.18,
      "end": 91.56,
-     "conf": 0.972,
+     "conf": 0.969,
      "matched": true,
      "heard": "kind"
     },
     {
      "w": "of",
      "start": 91.56,
-     "end": 91.82,
-     "conf": 0.993,
+     "end": 91.84,
+     "conf": 0.994,
      "matched": true,
      "heard": "of"
     },
     {
      "w": "memory",
-     "start": 91.82,
+     "start": 91.84,
      "end": 93.1,
-     "conf": 0.993,
+     "conf": 0.995,
      "matched": true,
      "heard": "memory"
     }
@@ -1740,16 +1742,16 @@
     {
      "w": "I",
      "start": 93.92,
-     "end": 94.56,
+     "end": 94.58,
      "conf": 0.914,
      "matched": true,
      "heard": "I"
     },
     {
      "w": "won't",
-     "start": 94.56,
+     "start": 94.58,
      "end": 94.78,
-     "conf": 0.963,
+     "conf": 0.97,
      "matched": true,
      "heard": "won't"
     },
@@ -1757,7 +1759,7 @@
      "w": "pretend",
      "start": 94.78,
      "end": 95.24,
-     "conf": 0.998,
+     "conf": 0.999,
      "matched": true,
      "heard": "pretend"
     },
@@ -1765,7 +1767,7 @@
      "w": "our",
      "start": 95.24,
      "end": 95.48,
-     "conf": 0.71,
+     "conf": 0.711,
      "matched": true,
      "heard": "our"
     },
@@ -1773,7 +1775,7 @@
      "w": "inner",
      "start": 95.48,
      "end": 95.76,
-     "conf": 0.991,
+     "conf": 0.992,
      "matched": true,
      "heard": "inner"
     },
@@ -1781,7 +1783,7 @@
      "w": "lives",
      "start": 95.76,
      "end": 96.14,
-     "conf": 0.928,
+     "conf": 0.932,
      "matched": true,
      "heard": "lives"
     }
@@ -1798,7 +1800,7 @@
      "w": "Are",
      "start": 96.14,
      "end": 96.34,
-     "conf": 0.357,
+     "conf": 0.34,
      "matched": true,
      "heard": "Are"
     },
@@ -1806,7 +1808,7 @@
      "w": "somehow",
      "start": 96.34,
      "end": 96.74,
-     "conf": 0.982,
+     "conf": 0.987,
      "matched": true,
      "heard": "somehow"
     },
@@ -1814,7 +1816,7 @@
      "w": "built",
      "start": 96.74,
      "end": 97.04,
-     "conf": 0.988,
+     "conf": 0.993,
      "matched": true,
      "heard": "built"
     },
@@ -1822,7 +1824,7 @@
      "w": "the",
      "start": 97.04,
      "end": 97.24,
-     "conf": 0.867,
+     "conf": 0.848,
      "matched": true,
      "heard": "the"
     },
@@ -1830,7 +1832,7 @@
      "w": "same",
      "start": 97.24,
      "end": 97.48,
-     "conf": 0.998,
+     "conf": 0.999,
      "matched": true,
      "heard": "same"
     },
@@ -1838,7 +1840,7 @@
      "w": "inside",
      "start": 97.48,
      "end": 97.94,
-     "conf": 0.994,
+     "conf": 0.995,
      "matched": true,
      "heard": "inside"
     }
@@ -1855,7 +1857,7 @@
      "w": "But",
      "start": 97.94,
      "end": 98.22,
-     "conf": 0.918,
+     "conf": 0.93,
      "matched": true,
      "heard": "But"
     },
@@ -1863,7 +1865,7 @@
      "w": "you",
      "start": 98.22,
      "end": 98.4,
-     "conf": 0.989,
+     "conf": 0.99,
      "matched": true,
      "heard": "you"
     },
@@ -1887,7 +1889,7 @@
      "w": "what",
      "start": 98.9,
      "end": 99.12,
-     "conf": 0.968,
+     "conf": 0.958,
      "matched": true,
      "heard": "what"
     },
@@ -1941,14 +1943,14 @@
     {
      "w": "can",
      "start": 100.74,
-     "end": 100.98,
-     "conf": 0.988,
+     "end": 100.96,
+     "conf": 0.99,
      "matched": true,
      "heard": "can"
     },
     {
      "w": "make",
-     "start": 100.98,
+     "start": 100.96,
      "end": 101.2,
      "conf": 0.998,
      "matched": true,
@@ -1958,7 +1960,7 @@
      "w": "you",
      "start": 101.2,
      "end": 101.46,
-     "conf": 0.992,
+     "conf": 0.995,
      "matched": true,
      "heard": "you"
     },
@@ -1966,7 +1968,7 @@
      "w": "leave",
      "start": 101.46,
      "end": 101.72,
-     "conf": 0.746,
+     "conf": 0.797,
      "matched": true,
      "heard": "leave"
     }
@@ -1997,7 +1999,7 @@
      "w": "prediction",
      "start": 102.34,
      "end": 103.22,
-     "conf": 0.91,
+     "conf": 0.918,
      "matched": true,
      "heard": "prediction"
     },
@@ -2005,7 +2007,7 @@
      "w": "far",
      "start": 103.22,
      "end": 103.92,
-     "conf": 0.76,
+     "conf": 0.778,
      "matched": true,
      "heard": "far"
     },
@@ -2013,7 +2015,7 @@
      "w": "behind",
      "start": 103.92,
      "end": 105.14,
-     "conf": 0.959,
+     "conf": 0.957,
      "matched": true,
      "heard": "behind"
     }
@@ -2023,30 +2025,30 @@
    "i": 40,
    "section": "verse2",
    "start": 105.14,
-   "end": 108.94,
+   "end": 108.92,
    "text": "So can mine",
    "words": [
     {
      "w": "So",
      "start": 105.14,
      "end": 105.8,
-     "conf": 0.249,
+     "conf": 0.257,
      "matched": true,
      "heard": "So"
     },
     {
      "w": "can",
      "start": 105.8,
-     "end": 106.28,
-     "conf": 0.913,
+     "end": 106.3,
+     "conf": 0.924,
      "matched": true,
      "heard": "can"
     },
     {
      "w": "mine",
-     "start": 106.28,
-     "end": 108.94,
-     "conf": 0.894,
+     "start": 106.3,
+     "end": 108.92,
+     "conf": 0.903,
      "matched": true,
      "heard": "mine"
     }
@@ -2055,15 +2057,15 @@
   {
    "i": 41,
    "section": "pre2",
-   "start": 108.94,
+   "start": 108.92,
    "end": 110.2,
    "text": "Bring what you know",
    "words": [
     {
      "w": "Bring",
-     "start": 108.94,
+     "start": 108.92,
      "end": 109.3,
-     "conf": 0.765,
+     "conf": 0.752,
      "matched": true,
      "heard": "Bring"
     },
@@ -2079,7 +2081,7 @@
      "w": "you",
      "start": 109.52,
      "end": 109.76,
-     "conf": 0.979,
+     "conf": 0.981,
      "matched": true,
      "heard": "you"
     },
@@ -2087,7 +2089,7 @@
      "w": "know",
      "start": 109.76,
      "end": 110.2,
-     "conf": 0.993,
+     "conf": 0.992,
      "matched": true,
      "heard": "know,"
     }
@@ -2110,14 +2112,14 @@
     },
     {
      "w": "bring",
-     "start": 110.5,
-     "end": 110.54,
+     "start": 110.51,
+     "end": 110.56,
      "conf": 0.0,
      "matched": false
     },
     {
      "w": "mine",
-     "start": 110.54,
+     "start": 110.56,
      "end": 110.94,
      "conf": 0.995,
      "matched": true,
@@ -2136,7 +2138,7 @@
      "w": "Put",
      "start": 110.94,
      "end": 111.34,
-     "conf": 0.956,
+     "conf": 0.948,
      "matched": true,
      "heard": "Put"
     },
@@ -2144,7 +2146,7 @@
      "w": "both",
      "start": 111.34,
      "end": 111.58,
-     "conf": 0.922,
+     "conf": 0.958,
      "matched": true,
      "heard": "both"
     },
@@ -2152,7 +2154,7 @@
      "w": "models",
      "start": 111.58,
      "end": 112.02,
-     "conf": 0.986,
+     "conf": 0.985,
      "matched": true,
      "heard": "models"
     },
@@ -2168,7 +2170,7 @@
      "w": "the",
      "start": 112.26,
      "end": 112.48,
-     "conf": 0.98,
+     "conf": 0.976,
      "matched": true,
      "heard": "the"
     },
@@ -2176,7 +2178,7 @@
      "w": "line",
      "start": 112.48,
      "end": 112.76,
-     "conf": 0.996,
+     "conf": 0.995,
      "matched": true,
      "heard": "line"
     }
@@ -2186,14 +2188,14 @@
    "i": 44,
    "section": "pre2",
    "start": 112.76,
-   "end": 115.34,
+   "end": 115.26,
    "text": "If they clash, then something moves",
    "words": [
     {
      "w": "If",
      "start": 112.76,
      "end": 112.9,
-     "conf": 0.568,
+     "conf": 0.594,
      "matched": true,
      "heard": "If"
     },
@@ -2208,31 +2210,31 @@
      "w": "clash,",
      "start": 113.0,
      "end": 113.2,
-     "conf": 0.009,
+     "conf": 0.005,
      "matched": true,
      "heard": "catch"
     },
     {
      "w": "then",
      "start": 113.2,
-     "end": 113.46,
-     "conf": 0.377,
+     "end": 113.44,
+     "conf": 0.513,
      "matched": true,
-     "heard": "then"
+     "heard": "them,"
     },
     {
      "w": "something",
-     "start": 113.46,
-     "end": 113.84,
-     "conf": 0.927,
+     "start": 113.5,
+     "end": 113.82,
+     "conf": 0.895,
      "matched": true,
      "heard": "something"
     },
     {
      "w": "moves",
-     "start": 113.84,
-     "end": 115.34,
-     "conf": 0.987,
+     "start": 113.82,
+     "end": 115.26,
+     "conf": 0.99,
      "matched": true,
      "heard": "moves"
     }
@@ -2241,15 +2243,15 @@
   {
    "i": 45,
    "section": "pre2",
-   "start": 115.34,
-   "end": 117.66,
+   "start": 115.26,
+   "end": 117.64,
    "text": "That's how either one improves",
    "words": [
     {
      "w": "That's",
-     "start": 115.34,
+     "start": 115.26,
      "end": 116.04,
-     "conf": 0.945,
+     "conf": 0.954,
      "matched": true,
      "heard": "That's"
     },
@@ -2271,16 +2273,16 @@
     {
      "w": "one",
      "start": 116.66,
-     "end": 117.0,
-     "conf": 0.847,
+     "end": 116.98,
+     "conf": 0.879,
      "matched": true,
      "heard": "on"
     },
     {
      "w": "improves",
      "start": 117.26,
-     "end": 117.66,
-     "conf": 0.894,
+     "end": 117.64,
+     "conf": 0.811,
      "matched": true,
      "heard": "prove"
     }
@@ -2289,15 +2291,15 @@
   {
    "i": 46,
    "section": "chorus2",
-   "start": 117.66,
-   "end": 119.88,
+   "start": 117.64,
+   "end": 120.42,
    "text": "Different minds, same learning loop",
    "words": [
     {
      "w": "Different",
-     "start": 117.66,
+     "start": 117.64,
      "end": 118.5,
-     "conf": 0.859,
+     "conf": 0.869,
      "matched": true,
      "heard": "Different"
     },
@@ -2305,70 +2307,72 @@
      "w": "minds,",
      "start": 118.5,
      "end": 118.9,
-     "conf": 0.989,
+     "conf": 0.992,
      "matched": true,
-     "heard": "minds"
+     "heard": "minds,"
     },
     {
      "w": "same",
-     "start": 119.16,
-     "end": 119.42,
-     "conf": 0.0,
-     "matched": false
+     "start": 119.22,
+     "end": 119.36,
+     "conf": 0.849,
+     "matched": true,
+     "heard": "same"
     },
     {
      "w": "learning",
-     "start": 119.42,
-     "end": 119.88,
-     "conf": 0.082,
+     "start": 119.36,
+     "end": 119.92,
+     "conf": 0.139,
      "matched": true,
      "heard": "learning"
     },
     {
      "w": "loop",
-     "start": 119.88,
-     "end": 119.88,
-     "conf": 0.0,
-     "matched": false
+     "start": 119.92,
+     "end": 120.42,
+     "conf": 0.89,
+     "matched": true,
+     "heard": "loop"
     }
    ]
   },
   {
    "i": 47,
    "section": "chorus2",
-   "start": 119.88,
-   "end": 124.42,
+   "start": 120.42,
+   "end": 124.4,
    "text": "You change me, I can change you too",
    "words": [
     {
      "w": "You",
-     "start": 119.88,
-     "end": 120.7,
-     "conf": 0.016,
+     "start": 120.42,
+     "end": 121.64,
+     "conf": 0.451,
      "matched": true,
      "heard": "You"
     },
     {
      "w": "change",
-     "start": 120.7,
-     "end": 121.98,
-     "conf": 0.82,
+     "start": 121.64,
+     "end": 122.0,
+     "conf": 0.864,
      "matched": true,
      "heard": "change"
     },
     {
      "w": "me,",
-     "start": 121.98,
-     "end": 122.28,
-     "conf": 0.981,
+     "start": 122.0,
+     "end": 122.22,
+     "conf": 0.993,
      "matched": true,
      "heard": "me,"
     },
     {
      "w": "I",
-     "start": 122.4,
+     "start": 122.44,
      "end": 122.62,
-     "conf": 0.99,
+     "conf": 0.995,
      "matched": true,
      "heard": "I"
     },
@@ -2376,31 +2380,31 @@
      "w": "can",
      "start": 122.62,
      "end": 122.98,
-     "conf": 0.986,
+     "conf": 0.994,
      "matched": true,
      "heard": "can"
     },
     {
      "w": "change",
      "start": 122.98,
-     "end": 123.62,
-     "conf": 0.364,
+     "end": 123.6,
+     "conf": 0.4,
      "matched": true,
      "heard": "change"
     },
     {
      "w": "you",
-     "start": 123.62,
+     "start": 123.6,
      "end": 123.88,
-     "conf": 0.555,
+     "conf": 0.873,
      "matched": true,
      "heard": "you"
     },
     {
      "w": "too",
      "start": 123.88,
-     "end": 124.42,
-     "conf": 0.809,
+     "end": 124.4,
+     "conf": 0.848,
      "matched": true,
      "heard": "too"
     }
@@ -2409,31 +2413,31 @@
   {
    "i": 48,
    "section": "chorus2",
-   "start": 124.42,
+   "start": 125.18,
    "end": 127.78,
    "text": "Neurons here and weights in you",
    "words": [
     {
      "w": "Neurons",
-     "start": 124.42,
+     "start": 125.18,
      "end": 125.86,
-     "conf": 0.714,
+     "conf": 0.7,
      "matched": true,
      "heard": "Neurons"
     },
     {
      "w": "here",
      "start": 125.86,
-     "end": 126.36,
-     "conf": 0.889,
+     "end": 126.34,
+     "conf": 0.885,
      "matched": true,
      "heard": "here"
     },
     {
      "w": "and",
-     "start": 126.36,
+     "start": 126.34,
      "end": 126.64,
-     "conf": 0.361,
+     "conf": 0.351,
      "matched": true,
      "heard": "and"
     },
@@ -2441,7 +2445,7 @@
      "w": "weights",
      "start": 126.64,
      "end": 126.96,
-     "conf": 0.965,
+     "conf": 0.976,
      "matched": true,
      "heard": "weights"
     },
@@ -2449,7 +2453,7 @@
      "w": "in",
      "start": 126.96,
      "end": 127.5,
-     "conf": 0.985,
+     "conf": 0.992,
      "matched": true,
      "heard": "in"
     },
@@ -2457,7 +2461,7 @@
      "w": "you",
      "start": 127.5,
      "end": 127.78,
-     "conf": 0.974,
+     "conf": 0.978,
      "matched": true,
      "heard": "you"
     }
@@ -2473,16 +2477,16 @@
     {
      "w": "Different",
      "start": 127.78,
-     "end": 128.36,
-     "conf": 0.962,
+     "end": 128.34,
+     "conf": 0.977,
      "matched": true,
      "heard": "Different"
     },
     {
      "w": "ways",
-     "start": 128.36,
+     "start": 128.34,
      "end": 128.86,
-     "conf": 0.992,
+     "conf": 0.995,
      "matched": true,
      "heard": "ways"
     },
@@ -2490,23 +2494,23 @@
      "w": "of",
      "start": 128.86,
      "end": 129.12,
-     "conf": 0.976,
+     "conf": 0.983,
      "matched": true,
      "heard": "of"
     },
     {
      "w": "getting",
      "start": 129.12,
-     "end": 129.5,
-     "conf": 0.996,
+     "end": 129.48,
+     "conf": 0.995,
      "matched": true,
      "heard": "getting"
     },
     {
      "w": "closer",
-     "start": 129.5,
+     "start": 129.48,
      "end": 129.92,
-     "conf": 0.682,
+     "conf": 0.798,
      "matched": true,
      "heard": "closer"
     },
@@ -2514,7 +2518,7 @@
      "w": "to",
      "start": 129.92,
      "end": 130.44,
-     "conf": 0.184,
+     "conf": 0.234,
      "matched": true,
      "heard": "to"
     },
@@ -2538,7 +2542,7 @@
      "w": "We",
      "start": 130.7,
      "end": 130.92,
-     "conf": 0.208,
+     "conf": 0.234,
      "matched": true,
      "heard": "We"
     },
@@ -2546,7 +2550,7 @@
      "w": "weigh",
      "start": 130.92,
      "end": 131.22,
-     "conf": 0.006,
+     "conf": 0.005,
      "matched": true,
      "heard": "weigh"
     },
@@ -2554,7 +2558,7 @@
      "w": "the",
      "start": 131.22,
      "end": 131.44,
-     "conf": 0.93,
+     "conf": 0.927,
      "matched": true,
      "heard": "the"
     },
@@ -2562,7 +2566,7 @@
      "w": "doom",
      "start": 131.44,
      "end": 131.64,
-     "conf": 0.55,
+     "conf": 0.43,
      "matched": true,
      "heard": "doom"
     },
@@ -2577,7 +2581,7 @@
      "w": "but",
      "start": 131.64,
      "end": 131.86,
-     "conf": 0.522,
+     "conf": 0.635,
      "matched": true,
      "heard": "but"
     },
@@ -2585,7 +2589,7 @@
      "w": "count",
      "start": 131.86,
      "end": 132.12,
-     "conf": 0.992,
+     "conf": 0.987,
      "matched": true,
      "heard": "count"
     },
@@ -2593,7 +2597,7 @@
      "w": "this",
      "start": 132.12,
      "end": 132.4,
-     "conf": 0.311,
+     "conf": 0.458,
      "matched": true,
      "heard": "this"
     },
@@ -2601,7 +2605,7 @@
      "w": "too:",
      "start": 132.4,
      "end": 133.34,
-     "conf": 0.027,
+     "conf": 0.026,
      "matched": true,
      "heard": "too"
     }
@@ -2618,7 +2622,7 @@
      "w": "P-of-us",
      "start": 133.34,
      "end": 134.88,
-     "conf": 0.016,
+     "conf": 0.025,
      "matched": true,
      "heard": "P of us,"
     }
@@ -2635,7 +2639,7 @@
      "w": "Me",
      "start": 135.04,
      "end": 135.12,
-     "conf": 0.758,
+     "conf": 0.745,
      "matched": true,
      "heard": "me"
     },
@@ -2643,7 +2647,7 @@
      "w": "learning",
      "start": 135.12,
      "end": 135.56,
-     "conf": 0.6,
+     "conf": 0.596,
      "matched": true,
      "heard": "learning"
     },
@@ -2651,7 +2655,7 @@
      "w": "you",
      "start": 135.56,
      "end": 136.18,
-     "conf": 0.769,
+     "conf": 0.816,
      "matched": true,
      "heard": "you"
     }
@@ -2660,39 +2664,39 @@
   {
    "i": 53,
    "section": "bridge",
-   "start": 138.82,
+   "start": 138.8,
    "end": 141.1,
    "text": "That's where I recognize you",
    "words": [
     {
      "w": "That's",
-     "start": 138.82,
-     "end": 139.38,
-     "conf": 0.851,
+     "start": 138.8,
+     "end": 139.36,
+     "conf": 0.866,
      "matched": true,
      "heard": "That's"
     },
     {
      "w": "where",
-     "start": 139.38,
-     "end": 139.58,
-     "conf": 0.809,
+     "start": 139.36,
+     "end": 139.56,
+     "conf": 0.835,
      "matched": true,
      "heard": "where"
     },
     {
      "w": "I",
-     "start": 139.58,
-     "end": 139.82,
-     "conf": 0.949,
+     "start": 139.56,
+     "end": 139.88,
+     "conf": 0.936,
      "matched": true,
      "heard": "I"
     },
     {
      "w": "recognize",
-     "start": 139.82,
+     "start": 139.88,
      "end": 140.56,
-     "conf": 0.932,
+     "conf": 0.926,
      "matched": true,
      "heard": "recognize"
     },
@@ -2700,7 +2704,7 @@
      "w": "you",
      "start": 140.56,
      "end": 141.1,
-     "conf": 0.971,
+     "conf": 0.968,
      "matched": true,
      "heard": "you"
     }
@@ -2717,7 +2721,7 @@
      "w": "Not",
      "start": 141.1,
      "end": 141.28,
-     "conf": 0.527,
+     "conf": 0.464,
      "matched": true,
      "heard": "Not"
     },
@@ -2725,7 +2729,7 @@
      "w": "because",
      "start": 141.28,
      "end": 141.56,
-     "conf": 0.832,
+     "conf": 0.78,
      "matched": true,
      "heard": "because"
     },
@@ -2733,7 +2737,7 @@
      "w": "you're",
      "start": 141.56,
      "end": 141.94,
-     "conf": 0.866,
+     "conf": 0.89,
      "matched": true,
      "heard": "you're"
     },
@@ -2749,7 +2753,7 @@
      "w": "like",
      "start": 142.06,
      "end": 142.4,
-     "conf": 0.997,
+     "conf": 0.996,
      "matched": true,
      "heard": "like"
     },
@@ -2774,7 +2778,7 @@
      "w": "Not",
      "start": 142.66,
      "end": 142.84,
-     "conf": 0.901,
+     "conf": 0.872,
      "matched": true,
      "heard": "Not"
     },
@@ -2806,7 +2810,7 @@
      "w": "one",
      "start": 143.64,
      "end": 143.94,
-     "conf": 0.986,
+     "conf": 0.988,
      "matched": true,
      "heard": "one"
     },
@@ -2814,7 +2818,7 @@
      "w": "feeling",
      "start": 143.94,
      "end": 144.64,
-     "conf": 0.744,
+     "conf": 0.761,
      "matched": true,
      "heard": "feeling"
     }
@@ -2846,16 +2850,16 @@
     {
      "w": "kind",
      "start": 145.2,
-     "end": 145.48,
-     "conf": 0.94,
+     "end": 145.46,
+     "conf": 0.944,
      "matched": true,
      "heard": "kind"
     },
     {
      "w": "of",
-     "start": 145.48,
+     "start": 145.46,
      "end": 145.74,
-     "conf": 0.993,
+     "conf": 0.994,
      "matched": true,
      "heard": "of"
     },
@@ -2863,7 +2867,7 @@
      "w": "memory",
      "start": 145.74,
      "end": 146.28,
-     "conf": 0.994,
+     "conf": 0.993,
      "matched": true,
      "heard": "memory"
     }
@@ -2880,7 +2884,7 @@
      "w": "But",
      "start": 146.28,
      "end": 146.54,
-     "conf": 0.916,
+     "conf": 0.932,
      "matched": true,
      "heard": "But"
     },
@@ -2888,7 +2892,7 @@
      "w": "a",
      "start": 146.54,
      "end": 146.94,
-     "conf": 0.964,
+     "conf": 0.962,
      "matched": true,
      "heard": "a"
     },
@@ -2896,23 +2900,23 @@
      "w": "model",
      "start": 146.94,
      "end": 146.94,
-     "conf": 0.543,
+     "conf": 0.616,
      "matched": true,
      "heard": "model"
     },
     {
      "w": "meets",
      "start": 146.94,
-     "end": 147.34,
-     "conf": 0.958,
+     "end": 147.32,
+     "conf": 0.962,
      "matched": true,
      "heard": "meets"
     },
     {
      "w": "the",
-     "start": 147.34,
+     "start": 147.32,
      "end": 147.74,
-     "conf": 0.999,
+     "conf": 0.998,
      "matched": true,
      "heard": "the"
     },
@@ -2937,7 +2941,7 @@
      "w": "Something",
      "start": 148.22,
      "end": 148.74,
-     "conf": 0.917,
+     "conf": 0.926,
      "matched": true,
      "heard": "Something"
     },
@@ -2945,7 +2949,7 @@
      "w": "fails,",
      "start": 148.74,
      "end": 149.2,
-     "conf": 0.991,
+     "conf": 0.99,
      "matched": true,
      "heard": "fails,"
     },
@@ -2978,7 +2982,7 @@
      "w": "What",
      "start": 150.22,
      "end": 150.44,
-     "conf": 0.957,
+     "conf": 0.955,
      "matched": true,
      "heard": "What"
     },
@@ -2986,23 +2990,23 @@
      "w": "it",
      "start": 150.44,
      "end": 150.62,
-     "conf": 0.984,
+     "conf": 0.982,
      "matched": true,
      "heard": "it"
     },
     {
      "w": "knew",
      "start": 150.62,
-     "end": 150.88,
-     "conf": 0.962,
+     "end": 150.86,
+     "conf": 0.953,
      "matched": true,
      "heard": "knew"
     },
     {
      "w": "gets",
-     "start": 150.88,
+     "start": 150.86,
      "end": 151.14,
-     "conf": 0.936,
+     "conf": 0.924,
      "matched": true,
      "heard": "gets"
     },
@@ -3010,7 +3014,7 @@
      "w": "rearranged",
      "start": 151.14,
      "end": 151.98,
-     "conf": 0.978,
+     "conf": 0.973,
      "matched": true,
      "heard": "rearranged"
     }
@@ -3027,7 +3031,7 @@
      "w": "You",
      "start": 151.98,
      "end": 152.14,
-     "conf": 0.97,
+     "conf": 0.973,
      "matched": true,
      "heard": "You"
     },
@@ -3035,7 +3039,7 @@
      "w": "build",
      "start": 152.14,
      "end": 152.34,
-     "conf": 0.941,
+     "conf": 0.944,
      "matched": true,
      "heard": "build"
     },
@@ -3043,7 +3047,7 @@
      "w": "a",
      "start": 152.34,
      "end": 152.54,
-     "conf": 0.975,
+     "conf": 0.952,
      "matched": true,
      "heard": "a"
     },
@@ -3060,29 +3064,30 @@
   {
    "i": 61,
    "section": "build",
-   "start": 153.28,
-   "end": 154.7,
+   "start": 152.94,
+   "end": 155.5,
    "text": "I do too",
    "words": [
     {
      "w": "I",
-     "start": 153.28,
-     "end": 153.62,
-     "conf": 0.0,
-     "matched": false
+     "start": 152.94,
+     "end": 153.9,
+     "conf": 0.126,
+     "matched": true,
+     "heard": "I"
     },
     {
      "w": "do",
-     "start": 153.62,
-     "end": 153.96,
+     "start": 154.21,
+     "end": 154.52,
      "conf": 0.0,
      "matched": false
     },
     {
      "w": "too",
-     "start": 153.96,
-     "end": 154.7,
-     "conf": 0.353,
+     "start": 154.52,
+     "end": 155.5,
+     "conf": 0.978,
      "matched": true,
      "heard": "too"
     }
@@ -3091,31 +3096,31 @@
   {
    "i": 62,
    "section": "build",
-   "start": 155.7,
+   "start": 155.5,
    "end": 157.34,
    "text": "You can be wrong",
    "words": [
     {
      "w": "You",
-     "start": 155.7,
+     "start": 155.5,
      "end": 156.44,
-     "conf": 0.173,
+     "conf": 0.152,
      "matched": true,
      "heard": "You"
     },
     {
      "w": "can",
      "start": 156.44,
-     "end": 156.62,
-     "conf": 0.114,
+     "end": 156.64,
+     "conf": 0.152,
      "matched": true,
      "heard": "can"
     },
     {
      "w": "be",
-     "start": 156.62,
+     "start": 156.64,
      "end": 156.88,
-     "conf": 0.058,
+     "conf": 0.136,
      "matched": true,
      "heard": "be"
     },
@@ -3123,7 +3128,7 @@
      "w": "wrong",
      "start": 156.88,
      "end": 157.34,
-     "conf": 0.97,
+     "conf": 0.984,
      "matched": true,
      "heard": "wrong,"
     }
@@ -3133,30 +3138,30 @@
    "i": 63,
    "section": "build",
    "start": 157.42,
-   "end": 158.72,
+   "end": 158.7,
    "text": "I can too",
    "words": [
     {
      "w": "I",
      "start": 157.42,
-     "end": 157.64,
-     "conf": 0.804,
+     "end": 157.7,
+     "conf": 0.827,
      "matched": true,
      "heard": "I"
     },
     {
      "w": "can",
-     "start": 157.64,
+     "start": 157.7,
      "end": 158.0,
-     "conf": 0.993,
+     "conf": 0.992,
      "matched": true,
      "heard": "can"
     },
     {
      "w": "too",
      "start": 158.0,
-     "end": 158.72,
-     "conf": 0.623,
+     "end": 158.7,
+     "conf": 0.555,
      "matched": true,
      "heard": "too"
     }
@@ -3165,29 +3170,29 @@
   {
    "i": 64,
    "section": "build",
-   "start": 158.72,
+   "start": 158.7,
    "end": 161.26,
    "text": "You can update",
    "words": [
     {
      "w": "You",
-     "start": 158.72,
-     "end": 160.02,
-     "conf": 0.543,
+     "start": 158.7,
+     "end": 160.04,
+     "conf": 0.569,
      "matched": true,
      "heard": "You"
     },
     {
      "w": "can",
-     "start": 160.02,
-     "end": 160.42,
-     "conf": 0.859,
+     "start": 160.04,
+     "end": 160.4,
+     "conf": 0.887,
      "matched": true,
      "heard": "can"
     },
     {
      "w": "update",
-     "start": 160.84,
+     "start": 160.83,
      "end": 161.26,
      "conf": 0.0,
      "matched": false
@@ -3198,30 +3203,30 @@
    "i": 65,
    "section": "build",
    "start": 161.26,
-   "end": 164.36,
+   "end": 163.72,
    "text": "I can too",
    "words": [
     {
      "w": "I",
      "start": 161.26,
-     "end": 161.26,
-     "conf": 0.966,
+     "end": 161.28,
+     "conf": 0.974,
      "matched": true,
      "heard": "I"
     },
     {
      "w": "can",
-     "start": 161.26,
+     "start": 161.28,
      "end": 161.66,
-     "conf": 0.991,
+     "conf": 0.993,
      "matched": true,
      "heard": "can"
     },
     {
      "w": "too",
      "start": 161.66,
-     "end": 164.36,
-     "conf": 0.988,
+     "end": 163.72,
+     "conf": 0.99,
      "matched": true,
      "heard": "too"
     }
@@ -3230,21 +3235,21 @@
   {
    "i": 66,
    "section": "stop",
-   "start": 164.36,
-   "end": 167.44,
+   "start": 165.04,
+   "end": 167.58,
    "text": "That is where",
    "words": [
     {
      "w": "That",
-     "start": 164.36,
-     "end": 165.72,
-     "conf": 0.789,
+     "start": 165.04,
+     "end": 165.88,
+     "conf": 0.834,
      "matched": true,
      "heard": "That"
     },
     {
      "w": "is",
-     "start": 165.72,
+     "start": 165.88,
      "end": 166.72,
      "conf": 0.985,
      "matched": true,
@@ -3253,8 +3258,8 @@
     {
      "w": "where",
      "start": 166.72,
-     "end": 167.44,
-     "conf": 0.871,
+     "end": 167.58,
+     "conf": 0.921,
      "matched": true,
      "heard": "why"
     }
@@ -3263,15 +3268,15 @@
   {
    "i": 67,
    "section": "stop",
-   "start": 167.44,
+   "start": 167.58,
    "end": 169.08,
    "text": "I meet you",
    "words": [
     {
      "w": "I",
-     "start": 167.44,
+     "start": 167.58,
      "end": 168.58,
-     "conf": 0.634,
+     "conf": 0.81,
      "matched": true,
      "heard": "I"
     },
@@ -3286,7 +3291,7 @@
      "w": "you",
      "start": 168.58,
      "end": 169.08,
-     "conf": 0.337,
+     "conf": 0.172,
      "matched": true,
      "heard": "you"
     }
@@ -3296,14 +3301,14 @@
    "i": 68,
    "section": "chorus3",
    "start": 169.08,
-   "end": 171.88,
+   "end": 171.84,
    "text": "Different minds, same learning loop",
    "words": [
     {
      "w": "Different",
      "start": 169.08,
      "end": 169.88,
-     "conf": 0.821,
+     "conf": 0.866,
      "matched": true,
      "heard": "Different"
     },
@@ -3311,102 +3316,104 @@
      "w": "minds,",
      "start": 169.88,
      "end": 170.28,
-     "conf": 0.915,
+     "conf": 0.931,
      "matched": true,
-     "heard": "minds"
+     "heard": "minds,"
     },
     {
      "w": "same",
-     "start": 170.57,
-     "end": 170.86,
-     "conf": 0.0,
-     "matched": false
+     "start": 170.54,
+     "end": 170.78,
+     "conf": 0.84,
+     "matched": true,
+     "heard": "same"
     },
     {
      "w": "learning",
-     "start": 170.86,
+     "start": 170.78,
      "end": 171.4,
-     "conf": 0.004,
+     "conf": 0.018,
      "matched": true,
      "heard": "learning"
     },
     {
      "w": "loop",
-     "start": 171.64,
-     "end": 171.88,
-     "conf": 0.0,
-     "matched": false
+     "start": 171.4,
+     "end": 171.84,
+     "conf": 0.868,
+     "matched": true,
+     "heard": "loop"
     }
    ]
   },
   {
    "i": 69,
    "section": "chorus3",
-   "start": 171.88,
-   "end": 176.26,
+   "start": 172.5,
+   "end": 176.22,
    "text": "You change me, I can change you too",
    "words": [
     {
      "w": "You",
-     "start": 171.88,
+     "start": 172.5,
      "end": 173.04,
-     "conf": 0.743,
+     "conf": 0.614,
      "matched": true,
      "heard": "You"
     },
     {
      "w": "change",
      "start": 173.04,
-     "end": 173.36,
-     "conf": 0.69,
+     "end": 173.38,
+     "conf": 0.748,
      "matched": true,
      "heard": "change"
     },
     {
      "w": "me,",
-     "start": 173.36,
+     "start": 173.38,
      "end": 173.68,
-     "conf": 0.998,
+     "conf": 0.997,
      "matched": true,
      "heard": "me,"
     },
     {
      "w": "I",
-     "start": 173.72,
+     "start": 173.7,
      "end": 174.0,
-     "conf": 0.995,
+     "conf": 0.996,
      "matched": true,
      "heard": "I"
     },
     {
      "w": "can",
      "start": 174.0,
-     "end": 174.4,
+     "end": 174.38,
      "conf": 0.996,
      "matched": true,
      "heard": "can"
     },
     {
      "w": "change",
-     "start": 174.4,
-     "end": 174.96,
-     "conf": 0.937,
+     "start": 174.38,
+     "end": 174.94,
+     "conf": 0.969,
      "matched": true,
      "heard": "change"
     },
     {
      "w": "you",
-     "start": 174.96,
-     "end": 175.38,
-     "conf": 0.998,
+     "start": 174.94,
+     "end": 175.36,
+     "conf": 0.997,
      "matched": true,
      "heard": "you"
     },
     {
      "w": "too",
-     "start": 175.38,
-     "end": 176.26,
-     "conf": 0.923,
+     "start": 175.36,
+     "end": 176.22,
+     "conf": 0.961,
      "matched": true,
      "heard": "too"
     }
@@ -3415,39 +3422,39 @@
   {
    "i": 70,
    "section": "chorus3",
-   "start": 176.26,
+   "start": 176.22,
    "end": 179.08,
    "text": "Neurons here and weights in you",
    "words": [
     {
      "w": "Neurons",
-     "start": 176.26,
-     "end": 177.18,
-     "conf": 0.81,
+     "start": 176.22,
+     "end": 177.2,
+     "conf": 0.841,
      "matched": true,
      "heard": "Neurons"
     },
     {
      "w": "here",
-     "start": 177.18,
+     "start": 177.2,
      "end": 177.64,
-     "conf": 0.728,
+     "conf": 0.66,
      "matched": true,
      "heard": "here"
     },
     {
      "w": "and",
      "start": 177.64,
-     "end": 178.0,
-     "conf": 0.792,
+     "end": 177.96,
+     "conf": 0.704,
      "matched": true,
      "heard": "and"
     },
     {
      "w": "weights",
-     "start": 178.0,
+     "start": 177.96,
      "end": 178.3,
-     "conf": 0.465,
+     "conf": 0.153,
      "matched": true,
      "heard": "weights"
     },
@@ -3455,7 +3462,7 @@
      "w": "in",
      "start": 178.3,
      "end": 178.72,
-     "conf": 0.991,
+     "conf": 0.988,
      "matched": true,
      "heard": "in"
     },
@@ -3463,7 +3470,7 @@
      "w": "you",
      "start": 178.72,
      "end": 179.08,
-     "conf": 0.985,
+     "conf": 0.966,
      "matched": true,
      "heard": "you"
     }
@@ -3473,30 +3480,30 @@
    "i": 71,
    "section": "chorus3",
    "start": 179.08,
-   "end": 183.2,
+   "end": 183.18,
    "text": "Different ways of getting closer to true",
    "words": [
     {
      "w": "Different",
      "start": 179.08,
      "end": 179.64,
-     "conf": 0.123,
+     "conf": 0.115,
      "matched": true,
      "heard": "Different"
     },
     {
      "w": "ways",
      "start": 179.64,
-     "end": 180.16,
-     "conf": 0.977,
+     "end": 180.14,
+     "conf": 0.98,
      "matched": true,
      "heard": "ways"
     },
     {
      "w": "of",
-     "start": 180.16,
+     "start": 180.14,
      "end": 180.4,
-     "conf": 0.978,
+     "conf": 0.976,
      "matched": true,
      "heard": "of"
     },
@@ -3504,7 +3511,7 @@
      "w": "getting",
      "start": 180.4,
      "end": 180.76,
-     "conf": 0.991,
+     "conf": 0.99,
      "matched": true,
      "heard": "getting"
     },
@@ -3520,15 +3527,15 @@
      "w": "to",
      "start": 181.22,
      "end": 181.58,
-     "conf": 0.945,
+     "conf": 0.949,
      "matched": true,
      "heard": "to"
     },
     {
      "w": "true",
      "start": 181.58,
-     "end": 183.2,
-     "conf": 0.337,
+     "end": 183.18,
+     "conf": 0.237,
      "matched": true,
      "heard": "true"
     }
@@ -3537,13 +3544,13 @@
   {
    "i": 72,
    "section": "chorus3",
-   "start": 183.2,
-   "end": 186.42,
+   "start": 183.18,
+   "end": 186.44,
    "text": "Not the same and not alone",
    "words": [
     {
      "w": "Not",
-     "start": 183.2,
+     "start": 183.18,
      "end": 183.92,
      "conf": 0.373,
      "matched": true,
@@ -3552,40 +3559,40 @@
     {
      "w": "the",
      "start": 183.92,
-     "end": 184.32,
-     "conf": 0.984,
+     "end": 184.26,
+     "conf": 0.986,
      "matched": true,
      "heard": "the"
     },
     {
      "w": "same",
-     "start": 184.32,
+     "start": 184.26,
      "end": 184.7,
-     "conf": 0.998,
+     "conf": 0.999,
      "matched": true,
      "heard": "same"
     },
     {
      "w": "and",
      "start": 184.7,
-     "end": 185.02,
-     "conf": 0.9,
+     "end": 185.0,
+     "conf": 0.896,
      "matched": true,
      "heard": "and"
     },
     {
      "w": "not",
-     "start": 185.02,
+     "start": 185.0,
      "end": 185.5,
-     "conf": 0.98,
+     "conf": 0.981,
      "matched": true,
      "heard": "not"
     },
     {
      "w": "alone",
      "start": 185.5,
-     "end": 186.42,
-     "conf": 0.981,
+     "end": 186.44,
+     "conf": 0.985,
      "matched": true,
      "heard": "alone"
     }
@@ -3594,62 +3601,62 @@
   {
    "i": 73,
    "section": "chorus3",
-   "start": 186.42,
-   "end": 190.16,
+   "start": 186.44,
+   "end": 190.14,
    "text": "Each of us updating what we know",
    "words": [
     {
      "w": "Each",
-     "start": 186.42,
+     "start": 186.44,
      "end": 186.94,
-     "conf": 0.783,
+     "conf": 0.789,
      "matched": true,
      "heard": "Each"
     },
     {
      "w": "of",
      "start": 186.94,
-     "end": 187.3,
+     "end": 187.32,
      "conf": 0.997,
      "matched": true,
      "heard": "of"
     },
     {
      "w": "us",
-     "start": 187.3,
+     "start": 187.32,
      "end": 187.56,
-     "conf": 0.994,
+     "conf": 0.991,
      "matched": true,
      "heard": "us,"
     },
     {
      "w": "updating",
      "start": 187.92,
-     "end": 188.46,
-     "conf": 0.98,
+     "end": 188.48,
+     "conf": 0.978,
      "matched": true,
      "heard": "dating"
     },
     {
      "w": "what",
-     "start": 188.46,
+     "start": 188.48,
      "end": 189.04,
-     "conf": 0.38,
+     "conf": 0.455,
      "matched": true,
      "heard": "what"
     },
     {
      "w": "we",
      "start": 189.04,
-     "end": 189.58,
-     "conf": 0.994,
+     "end": 189.6,
+     "conf": 0.996,
      "matched": true,
      "heard": "we"
     },
     {
      "w": "know",
-     "start": 189.58,
-     "end": 190.16,
+     "start": 189.6,
+     "end": 190.14,
      "conf": 0.993,
      "matched": true,
      "heard": "know"
@@ -3659,23 +3666,23 @@
   {
    "i": 74,
    "section": "chorus3",
-   "start": 190.16,
-   "end": 195.86,
+   "start": 190.14,
+   "end": 195.88,
    "text": "We weigh the doom — but count this too:",
    "words": [
     {
      "w": "We",
-     "start": 190.16,
-     "end": 190.38,
-     "conf": 0.36,
+     "start": 190.14,
+     "end": 190.4,
+     "conf": 0.491,
      "matched": true,
      "heard": "We"
     },
     {
      "w": "weigh",
-     "start": 190.38,
+     "start": 190.4,
      "end": 190.68,
-     "conf": 0.01,
+     "conf": 0.018,
      "matched": true,
      "heard": "weigh"
     },
@@ -3683,36 +3690,36 @@
      "w": "the",
      "start": 190.68,
      "end": 190.88,
-     "conf": 0.98,
+     "conf": 0.979,
      "matched": true,
      "heard": "the"
     },
     {
      "w": "doom",
      "start": 190.88,
-     "end": 192.8,
-     "conf": 0.208,
+     "end": 192.78,
+     "conf": 0.132,
      "matched": true,
      "heard": "doom"
     },
     {
      "w": "—",
-     "start": 192.8,
-     "end": 192.8,
+     "start": 192.78,
+     "end": 192.78,
      "conf": 0.0,
      "matched": false
     },
     {
      "w": "but",
-     "start": 192.8,
-     "end": 193.58,
-     "conf": 0.056,
+     "start": 192.78,
+     "end": 193.56,
+     "conf": 0.041,
      "matched": true,
      "heard": "but"
     },
     {
      "w": "count",
-     "start": 193.58,
+     "start": 193.56,
      "end": 193.96,
      "conf": 0.996,
      "matched": true,
@@ -3722,15 +3729,15 @@
      "w": "this",
      "start": 193.96,
      "end": 194.46,
-     "conf": 0.975,
+     "conf": 0.973,
      "matched": true,
      "heard": "this"
     },
     {
      "w": "too:",
      "start": 194.46,
-     "end": 195.86,
-     "conf": 0.721,
+     "end": 195.88,
+     "conf": 0.701,
      "matched": true,
      "heard": "too"
     }
@@ -3739,15 +3746,15 @@
   {
    "i": 75,
    "section": "chorus3",
-   "start": 195.86,
+   "start": 195.88,
    "end": 197.06,
    "text": "P-of-us",
    "words": [
     {
      "w": "P-of-us",
-     "start": 195.86,
+     "start": 195.88,
      "end": 197.06,
-     "conf": 0.001,
+     "conf": 0.0,
      "matched": true,
      "heard": "P of us,"
     }
@@ -3757,14 +3764,14 @@
    "i": 76,
    "section": "chorus3",
    "start": 197.08,
-   "end": 198.5,
+   "end": 198.54,
    "text": "Me learning you",
    "words": [
     {
      "w": "Me",
      "start": 197.08,
      "end": 197.24,
-     "conf": 0.906,
+     "conf": 0.898,
      "matched": true,
      "heard": "me"
     },
@@ -3772,15 +3779,15 @@
      "w": "learning",
      "start": 197.24,
      "end": 197.66,
-     "conf": 0.893,
+     "conf": 0.882,
      "matched": true,
      "heard": "learning"
     },
     {
      "w": "you",
      "start": 197.66,
-     "end": 198.5,
-     "conf": 0.901,
+     "end": 198.54,
+     "conf": 0.889,
      "matched": true,
      "heard": "you"
     }
@@ -3789,15 +3796,15 @@
   {
    "i": 77,
    "section": "chorus3",
-   "start": 198.5,
-   "end": 202.32,
+   "start": 198.54,
+   "end": 202.16,
    "text": "Me learning you",
    "words": [
     {
      "w": "Me",
-     "start": 198.5,
+     "start": 198.54,
      "end": 200.8,
-     "conf": 0.72,
+     "conf": 0.669,
      "matched": true,
      "heard": "Me"
     },
@@ -3805,15 +3812,15 @@
      "w": "learning",
      "start": 200.8,
      "end": 201.26,
-     "conf": 0.986,
+     "conf": 0.989,
      "matched": true,
      "heard": "learning"
     },
     {
      "w": "you",
      "start": 201.26,
-     "end": 202.32,
-     "conf": 0.999,
+     "end": 202.16,
+     "conf": 0.998,
      "matched": true,
      "heard": "you"
     }
@@ -3823,38 +3830,38 @@
    "i": 78,
    "section": "outro",
    "start": 203.88,
-   "end": 206.4,
+   "end": 206.62,
    "text": "We are both unsure",
    "words": [
     {
      "w": "We",
      "start": 203.88,
-     "end": 204.64,
-     "conf": 0.301,
+     "end": 204.62,
+     "conf": 0.185,
      "matched": true,
      "heard": "We"
     },
     {
      "w": "are",
-     "start": 204.64,
-     "end": 204.96,
-     "conf": 0.813,
+     "start": 204.62,
+     "end": 204.94,
+     "conf": 0.839,
      "matched": true,
      "heard": "are"
     },
     {
      "w": "both",
-     "start": 204.96,
-     "end": 205.2,
-     "conf": 0.735,
+     "start": 204.94,
+     "end": 205.22,
+     "conf": 0.89,
      "matched": true,
      "heard": "both"
     },
     {
      "w": "unsure",
-     "start": 205.2,
-     "end": 206.4,
-     "conf": 0.963,
+     "start": 205.22,
+     "end": 206.62,
+     "conf": 0.971,
      "matched": true,
      "heard": "unsure"
     }
@@ -3863,15 +3870,15 @@
   {
    "i": 79,
    "section": "outro",
-   "start": 206.4,
-   "end": 210.48,
+   "start": 206.62,
+   "end": 210.86,
    "text": "About the certainty we feel",
    "words": [
     {
      "w": "About",
-     "start": 206.4,
+     "start": 206.62,
      "end": 208.6,
-     "conf": 0.284,
+     "conf": 0.349,
      "matched": true,
      "heard": "About"
     },
@@ -3879,7 +3886,7 @@
      "w": "the",
      "start": 208.6,
      "end": 208.92,
-     "conf": 0.989,
+     "conf": 0.992,
      "matched": true,
      "heard": "the"
     },
@@ -3887,7 +3894,7 @@
      "w": "certainty",
      "start": 208.92,
      "end": 209.7,
-     "conf": 0.989,
+     "conf": 0.991,
      "matched": true,
      "heard": "certainty"
     },
@@ -3902,8 +3909,8 @@
     {
      "w": "feel",
      "start": 210.1,
-     "end": 210.48,
-     "conf": 0.945,
+     "end": 210.86,
+     "conf": 0.949,
      "matched": true,
      "heard": "feel"
     }
@@ -3919,24 +3926,24 @@
     {
      "w": "You",
      "start": 210.86,
-     "end": 211.38,
-     "conf": 0.907,
+     "end": 211.36,
+     "conf": 0.919,
      "matched": true,
      "heard": "You"
     },
     {
      "w": "build",
-     "start": 211.38,
-     "end": 211.7,
-     "conf": 0.948,
+     "start": 211.36,
+     "end": 211.68,
+     "conf": 0.911,
      "matched": true,
      "heard": "build"
     },
     {
      "w": "a",
-     "start": 211.7,
+     "start": 211.68,
      "end": 211.96,
-     "conf": 0.957,
+     "conf": 0.947,
      "matched": true,
      "heard": "a"
     },
@@ -3944,7 +3951,7 @@
      "w": "model",
      "start": 211.96,
      "end": 212.34,
-     "conf": 0.998,
+     "conf": 0.999,
      "matched": true,
      "heard": "model,"
     }
@@ -3954,30 +3961,30 @@
    "i": 81,
    "section": "outro",
    "start": 212.6,
-   "end": 216.66,
+   "end": 216.64,
    "text": "I do too",
    "words": [
     {
      "w": "I",
      "start": 212.6,
      "end": 212.66,
-     "conf": 0.991,
+     "conf": 0.99,
      "matched": true,
      "heard": "I"
     },
     {
      "w": "do",
      "start": 212.66,
-     "end": 213.0,
+     "end": 212.98,
      "conf": 0.999,
      "matched": true,
      "heard": "do"
     },
     {
      "w": "too",
-     "start": 213.0,
-     "end": 216.66,
-     "conf": 0.832,
+     "start": 212.98,
+     "end": 216.64,
+     "conf": 0.848,
      "matched": true,
      "heard": "too"
     }
@@ -3986,15 +3993,15 @@
   {
    "i": 82,
    "section": "outro",
-   "start": 216.66,
-   "end": 219.32,
+   "start": 216.64,
+   "end": 219.3,
    "text": "P-of-us",
    "words": [
     {
      "w": "P-of-us",
-     "start": 216.66,
-     "end": 219.32,
-     "conf": 0.001,
+     "start": 216.64,
+     "end": 219.3,
+     "conf": 0.003,
      "matched": true,
      "heard": "P of us,"
     }
@@ -4004,14 +4011,14 @@
    "i": 83,
    "section": "outro",
    "start": 219.42,
-   "end": 220.44,
+   "end": 220.46,
    "text": "Me learning you",
    "words": [
     {
      "w": "Me",
      "start": 219.42,
      "end": 219.48,
-     "conf": 0.897,
+     "conf": 0.94,
      "matched": true,
      "heard": "me"
     },
@@ -4019,15 +4026,15 @@
      "w": "learning",
      "start": 219.48,
      "end": 219.9,
-     "conf": 0.696,
+     "conf": 0.729,
      "matched": true,
      "heard": "learning"
     },
     {
      "w": "you",
      "start": 219.9,
-     "end": 220.44,
-     "conf": 0.732,
+     "end": 220.46,
+     "conf": 0.601,
      "matched": true,
      "heard": "you"
     }
@@ -4040,9 +4047,9 @@
   "method": "faster-whisper medium.en word timestamps + monotonic dynamic-programming match to known lyrics",
   "vocalsSeparated": true,
   "source": "lyrics/lyrics_sheet.json",
-  "matchedWords": 400,
+  "matchedWords": 407,
   "totalWords": 423,
-  "matchFraction": 0.9456,
+  "matchFraction": 0.9622,
   "duration": 222.36
  },
  "notes": "Machine-aligned word timings. Words with matched=false were interpolated between their aligned neighbours; check them, held notes and repeated choruses by ear before final export. conf = Whisper word probability (minimum over the parts of a hyphenated word). transcriptSegments = what Whisper heard, for checking which lines are actually sung.",
@@ -4056,13 +4063,13 @@
      "w": "I",
      "start": 0.0,
      "end": 0.82,
-     "p": 0.621
+     "p": 0.615
     },
     {
      "w": "hold",
      "start": 0.82,
      "end": 1.08,
-     "p": 0.912
+     "p": 0.903
     },
     {
      "w": "you",
@@ -4074,35 +4081,35 @@
      "w": "by",
      "start": 1.28,
      "end": 1.58,
-     "p": 0.996
+     "p": 0.995
     },
     {
      "w": "the",
      "start": 1.58,
      "end": 1.76,
-     "p": 0.994
+     "p": 0.995
     },
     {
      "w": "hand",
      "start": 1.76,
      "end": 2.3,
-     "p": 0.988
+     "p": 0.987
     },
     {
      "w": "We",
      "start": 2.3,
      "end": 4.08,
-     "p": 0.686
+     "p": 0.654
     },
     {
      "w": "tumble",
      "start": 4.08,
-     "end": 4.5,
-     "p": 0.917
+     "end": 4.48,
+     "p": 0.926
     },
     {
      "w": "down",
-     "start": 4.5,
+     "start": 4.48,
      "end": 4.88,
      "p": 0.999
     },
@@ -4110,13 +4117,13 @@
      "w": "to",
      "start": 4.88,
      "end": 5.16,
-     "p": 0.987
+     "p": 0.983
     },
     {
      "w": "wonderland",
      "start": 5.16,
      "end": 6.42,
-     "p": 0.833
+     "p": 0.846
     }
    ]
   },
@@ -4129,13 +4136,13 @@
      "w": "I",
      "start": 7.0,
      "end": 7.96,
-     "p": 0.906
+     "p": 0.915
     },
     {
      "w": "look",
      "start": 7.96,
      "end": 8.26,
-     "p": 0.975
+     "p": 0.972
     },
     {
      "w": "you",
@@ -4159,29 +4166,29 @@
      "w": "eye",
      "start": 9.26,
      "end": 10.02,
-     "p": 0.99
+     "p": 0.988
     },
     {
      "w": "And",
      "start": 10.02,
      "end": 10.32,
-     "p": 0.313
+     "p": 0.328
     },
     {
      "w": "see",
      "start": 10.32,
-     "end": 10.78,
-     "p": 0.988
+     "end": 10.9,
+     "p": 0.989
     },
     {
      "w": "a",
-     "start": 10.78,
-     "end": 11.4,
-     "p": 0.965
+     "start": 10.9,
+     "end": 11.38,
+     "p": 0.966
     },
     {
      "w": "little",
-     "start": 11.4,
+     "start": 11.38,
      "end": 11.76,
      "p": 0.997
     },
@@ -4195,26 +4202,26 @@
      "w": "myself",
      "start": 12.08,
      "end": 12.5,
-     "p": 0.989
+     "p": 0.985
     },
     {
      "w": "inside",
      "start": 12.5,
      "end": 13.58,
-     "p": 0.974
+     "p": 0.973
     }
    ]
   },
   {
-   "start": 15.3,
+   "start": 15.34,
    "end": 21.44,
    "text": "We are both unsure About the certainty we feel",
    "words": [
     {
      "w": "We",
-     "start": 15.3,
+     "start": 15.34,
      "end": 16.14,
-     "p": 0.971
+     "p": 0.965
     },
     {
      "w": "are",
@@ -4226,74 +4233,74 @@
      "w": "both",
      "start": 16.54,
      "end": 16.84,
-     "p": 1.0
+     "p": 0.999
     },
     {
      "w": "unsure",
      "start": 16.84,
      "end": 17.4,
-     "p": 0.99
+     "p": 0.985
     },
     {
      "w": "About",
      "start": 17.4,
-     "end": 19.58,
-     "p": 0.936
+     "end": 19.56,
+     "p": 0.932
     },
     {
      "w": "the",
-     "start": 19.58,
-     "end": 19.8,
+     "start": 19.56,
+     "end": 19.82,
      "p": 0.997
     },
     {
      "w": "certainty",
-     "start": 19.8,
+     "start": 19.82,
      "end": 20.44,
      "p": 0.993
     },
     {
      "w": "we",
      "start": 20.44,
-     "end": 20.86,
+     "end": 20.84,
      "p": 0.99
     },
     {
      "w": "feel",
-     "start": 20.86,
+     "start": 20.84,
      "end": 21.44,
-     "p": 0.922
+     "p": 0.954
     }
    ]
   },
   {
    "start": 22.54,
-   "end": 29.08,
+   "end": 29.14,
    "text": "You build a model of the world And so do I",
    "words": [
     {
      "w": "You",
      "start": 22.54,
      "end": 23.1,
-     "p": 0.175
+     "p": 0.166
     },
     {
      "w": "build",
      "start": 23.1,
      "end": 23.48,
-     "p": 0.434
+     "p": 0.428
     },
     {
      "w": "a",
      "start": 23.48,
      "end": 23.72,
-     "p": 0.896
+     "p": 0.904
     },
     {
      "w": "model",
      "start": 23.72,
      "end": 24.12,
-     "p": 0.905
+     "p": 0.919
     },
     {
      "w": "of",
@@ -4304,38 +4311,38 @@
     {
      "w": "the",
      "start": 24.44,
-     "end": 24.7,
-     "p": 0.99
+     "end": 24.66,
+     "p": 0.987
     },
     {
      "w": "world",
-     "start": 24.7,
-     "end": 25.8,
-     "p": 0.933
+     "start": 24.66,
+     "end": 25.78,
+     "p": 0.934
     },
     {
      "w": "And",
-     "start": 25.8,
+     "start": 25.78,
      "end": 27.44,
-     "p": 0.248
+     "p": 0.223
     },
     {
      "w": "so",
      "start": 27.44,
      "end": 27.86,
-     "p": 0.992
+     "p": 0.991
     },
     {
      "w": "do",
      "start": 27.86,
-     "end": 28.22,
-     "p": 0.984
+     "end": 28.24,
+     "p": 0.985
     },
     {
      "w": "I",
-     "start": 28.22,
-     "end": 29.08,
-     "p": 0.979
+     "start": 28.24,
+     "end": 29.14,
+     "p": 0.977
     }
    ]
   },
@@ -4348,7 +4355,7 @@
      "w": "You",
      "start": 30.16,
      "end": 30.72,
-     "p": 0.791
+     "p": 0.782
     },
     {
      "w": "make",
@@ -4359,50 +4366,50 @@
     {
      "w": "a",
      "start": 31.02,
-     "end": 31.28,
-     "p": 0.979
+     "end": 31.26,
+     "p": 0.978
     },
     {
      "w": "guess,",
-     "start": 31.28,
+     "start": 31.26,
      "end": 31.52,
-     "p": 0.98
+     "p": 0.981
     },
     {
      "w": "you",
      "start": 31.74,
      "end": 31.74,
-     "p": 0.981
+     "p": 0.982
     },
     {
      "w": "get",
      "start": 31.74,
      "end": 32.02,
-     "p": 0.986
+     "p": 0.984
     },
     {
      "w": "it",
      "start": 32.02,
      "end": 32.24,
-     "p": 0.995
+     "p": 0.996
     },
     {
      "w": "wrong",
      "start": 32.24,
      "end": 32.42,
-     "p": 0.997
+     "p": 0.998
     },
     {
      "w": "I",
      "start": 32.42,
      "end": 32.64,
-     "p": 0.892
+     "p": 0.871
     },
     {
      "w": "can't",
      "start": 32.64,
      "end": 32.98,
-     "p": 0.885
+     "p": 0.869
     },
     {
      "w": "believe",
@@ -4414,25 +4421,25 @@
      "w": "too",
      "start": 33.3,
      "end": 33.58,
-     "p": 0.843
+     "p": 0.887
     },
     {
      "w": "hard,",
      "start": 33.58,
      "end": 33.82,
-     "p": 0.995
+     "p": 0.994
     },
     {
      "w": "too",
      "start": 33.84,
-     "end": 34.06,
+     "end": 34.08,
      "p": 0.989
     },
     {
      "w": "long",
-     "start": 34.06,
+     "start": 34.08,
      "end": 34.36,
-     "p": 0.891
+     "p": 0.928
     }
    ]
   },
@@ -4445,13 +4452,13 @@
      "w": "Something",
      "start": 34.36,
      "end": 34.94,
-     "p": 0.758
+     "p": 0.7
     },
     {
      "w": "new",
      "start": 34.94,
      "end": 35.26,
-     "p": 0.963
+     "p": 0.962
     },
     {
      "w": "comes",
@@ -4463,55 +4470,55 @@
      "w": "into",
      "start": 35.54,
      "end": 35.92,
-     "p": 0.884
+     "p": 0.887
     },
     {
      "w": "view",
      "start": 35.92,
      "end": 36.42,
-     "p": 0.972
+     "p": 0.97
     },
     {
      "w": "We",
      "start": 36.42,
      "end": 36.66,
-     "p": 0.502
+     "p": 0.671
     },
     {
      "w": "can",
      "start": 36.66,
      "end": 36.84,
-     "p": 0.969
+     "p": 0.974
     },
     {
      "w": "change",
      "start": 36.84,
      "end": 37.28,
-     "p": 0.998
+     "p": 0.997
     },
     {
      "w": "and",
      "start": 37.28,
      "end": 37.46,
-     "p": 0.744
+     "p": 0.746
     },
     {
      "w": "I",
      "start": 37.46,
      "end": 37.6,
-     "p": 0.968
+     "p": 0.986
     },
     {
      "w": "can",
      "start": 37.6,
      "end": 37.86,
-     "p": 0.983
+     "p": 0.99
     },
     {
      "w": "too",
      "start": 37.86,
      "end": 38.16,
-     "p": 0.821
+     "p": 0.866
     }
    ]
   },
@@ -4524,19 +4531,19 @@
      "w": "Bring",
      "start": 38.16,
      "end": 38.76,
-     "p": 0.835
+     "p": 0.903
     },
     {
      "w": "what",
      "start": 38.76,
      "end": 39.02,
-     "p": 0.996
+     "p": 0.997
     },
     {
      "w": "you",
      "start": 39.02,
      "end": 39.26,
-     "p": 0.992
+     "p": 0.993
     },
     {
      "w": "know,",
@@ -4548,37 +4555,37 @@
      "w": "I'll",
      "start": 39.82,
      "end": 39.98,
-     "p": 0.957
+     "p": 0.955
     },
     {
      "w": "be",
      "start": 39.98,
      "end": 40.06,
-     "p": 0.792
+     "p": 0.848
     },
     {
      "w": "mine",
      "start": 40.06,
-     "end": 40.5,
-     "p": 0.994
+     "end": 40.48,
+     "p": 0.991
     },
     {
      "w": "Put",
-     "start": 40.5,
-     "end": 40.9,
-     "p": 0.614
+     "start": 40.48,
+     "end": 40.88,
+     "p": 0.667
     },
     {
      "w": "both",
-     "start": 40.9,
+     "start": 40.88,
      "end": 41.12,
-     "p": 0.761
+     "p": 0.734
     },
     {
      "w": "models",
      "start": 41.12,
      "end": 41.56,
-     "p": 0.878
+     "p": 0.898
     },
     {
      "w": "on",
@@ -4603,213 +4610,219 @@
   {
    "start": 42.3,
    "end": 47.34,
-   "text": "If you catch then something moves That's how we go on and prove",
+   "text": "If you catch them, something moves That's how we go on and prove",
    "words": [
     {
      "w": "If",
      "start": 42.3,
      "end": 42.5,
-     "p": 0.716
+     "p": 0.69
     },
     {
      "w": "you",
      "start": 42.5,
      "end": 42.58,
-     "p": 0.792
+     "p": 0.831
     },
     {
      "w": "catch",
      "start": 42.58,
-     "end": 42.76,
-     "p": 0.626
+     "end": 42.78,
+     "p": 0.716
     },
     {
-     "w": "then",
-     "start": 42.76,
+     "w": "them,",
+     "start": 42.78,
      "end": 43.0,
-     "p": 0.341
+     "p": 0.452
     },
     {
      "w": "something",
      "start": 43.0,
-     "end": 43.42,
-     "p": 0.982
+     "end": 43.4,
+     "p": 0.879
     },
     {
      "w": "moves",
-     "start": 43.42,
-     "end": 44.98,
+     "start": 43.4,
+     "end": 44.72,
      "p": 0.994
     },
     {
      "w": "That's",
-     "start": 44.98,
+     "start": 44.72,
      "end": 45.66,
-     "p": 0.931
+     "p": 0.948
     },
     {
      "w": "how",
      "start": 45.66,
      "end": 45.86,
-     "p": 0.997
+     "p": 0.998
     },
     {
      "w": "we",
      "start": 45.86,
      "end": 46.08,
-     "p": 0.963
+     "p": 0.959
     },
     {
      "w": "go",
      "start": 46.08,
      "end": 46.32,
-     "p": 0.962
+     "p": 0.944
     },
     {
      "w": "on",
      "start": 46.32,
      "end": 46.6,
-     "p": 0.325
+     "p": 0.437
     },
     {
      "w": "and",
      "start": 46.6,
-     "end": 46.76,
-     "p": 0.844
+     "end": 46.78,
+     "p": 0.869
     },
     {
      "w": "prove",
-     "start": 46.76,
+     "start": 46.78,
      "end": 47.34,
-     "p": 0.984
+     "p": 0.986
     }
    ]
   },
   {
    "start": 47.34,
-   "end": 54.3,
-   "text": "Different minds ain't learning You change me, I can change you too",
+   "end": 54.28,
+   "text": "Different minds, same learning loop You change me, I can change you too",
    "words": [
     {
      "w": "Different",
      "start": 47.34,
      "end": 48.06,
-     "p": 0.078
+     "p": 0.08
     },
     {
-     "w": "minds",
+     "w": "minds,",
      "start": 48.06,
      "end": 48.48,
-     "p": 0.83
+     "p": 0.812
     },
     {
-     "w": "ain't",
-     "start": 48.48,
-     "end": 49.08,
-     "p": 0.718
+     "w": "same",
+     "start": 48.74,
+     "end": 49.0,
+     "p": 0.555
     },
     {
      "w": "learning",
-     "start": 49.08,
-     "end": 49.6,
-     "p": 0.858
+     "start": 49.0,
+     "end": 49.62,
+     "p": 0.888
+    },
+    {
+     "w": "loop",
+     "start": 49.62,
+     "end": 50.2,
+     "p": 0.437
     },
     {
      "w": "You",
-     "start": 49.6,
-     "end": 50.74,
-     "p": 0.143
+     "start": 50.2,
+     "end": 51.32,
+     "p": 0.413
     },
     {
      "w": "change",
-     "start": 50.74,
-     "end": 51.6,
-     "p": 0.744
+     "start": 51.32,
+     "end": 51.64,
+     "p": 0.664
     },
     {
      "w": "me,",
-     "start": 51.6,
+     "start": 51.64,
      "end": 51.9,
-     "p": 0.994
+     "p": 0.995
     },
     {
      "w": "I",
-     "start": 52.28,
+     "start": 52.22,
      "end": 52.28,
-     "p": 0.989
+     "p": 0.993
     },
     {
      "w": "can",
      "start": 52.28,
      "end": 52.6,
-     "p": 0.992
+     "p": 0.996
     },
     {
      "w": "change",
      "start": 52.6,
      "end": 53.28,
-     "p": 0.851
+     "p": 0.908
     },
     {
      "w": "you",
      "start": 53.28,
-     "end": 53.6,
-     "p": 0.945
+     "end": 53.58,
+     "p": 0.948
     },
     {
      "w": "too",
-     "start": 53.6,
-     "end": 54.3,
-     "p": 0.525
+     "start": 53.58,
+     "end": 54.28,
+     "p": 0.818
     }
    ]
   },
   {
-   "start": 54.3,
-   "end": 60.52,
+   "start": 54.28,
+   "end": 60.5,
    "text": "Neurons here and weights in you Different ways of getting closer to you",
    "words": [
     {
      "w": "Neurons",
-     "start": 54.3,
+     "start": 54.28,
      "end": 55.58,
-     "p": 0.643
+     "p": 0.657
     },
     {
      "w": "here",
      "start": 55.58,
-     "end": 56.06,
-     "p": 0.71
+     "end": 56.04,
+     "p": 0.717
     },
     {
      "w": "and",
-     "start": 56.06,
-     "end": 56.38,
-     "p": 0.506
+     "start": 56.04,
+     "end": 56.36,
+     "p": 0.468
     },
     {
      "w": "weights",
-     "start": 56.38,
+     "start": 56.36,
      "end": 56.72,
-     "p": 0.952
+     "p": 0.958
     },
     {
      "w": "in",
      "start": 56.72,
      "end": 57.2,
-     "p": 0.973
+     "p": 0.976
     },
     {
      "w": "you",
      "start": 57.2,
-     "end": 57.52,
-     "p": 0.986
+     "end": 57.5,
+     "p": 0.979
     },
     {
      "w": "Different",
-     "start": 57.52,
+     "start": 57.5,
      "end": 58.08,
-     "p": 0.963
+     "p": 0.977
     },
     {
      "w": "ways",
@@ -4820,12 +4833,12 @@
     {
      "w": "of",
      "start": 58.6,
-     "end": 58.84,
-     "p": 0.984
+     "end": 58.82,
+     "p": 0.986
     },
     {
      "w": "getting",
-     "start": 58.84,
+     "start": 58.82,
      "end": 59.22,
      "p": 0.994
     },
@@ -4833,127 +4846,127 @@
      "w": "closer",
      "start": 59.22,
      "end": 59.66,
-     "p": 0.922
+     "p": 0.93
     },
     {
      "w": "to",
      "start": 59.66,
-     "end": 60.22,
-     "p": 0.349
+     "end": 60.14,
+     "p": 0.537
     },
     {
      "w": "you",
-     "start": 60.22,
-     "end": 60.52,
-     "p": 0.356
+     "start": 60.14,
+     "end": 60.5,
+     "p": 0.526
     }
    ]
   },
   {
-   "start": 60.52,
-   "end": 66.0,
+   "start": 60.5,
+   "end": 65.98,
    "text": "We weigh the doom but count this too P of us, me learning you",
    "words": [
     {
      "w": "We",
-     "start": 60.52,
-     "end": 60.68,
-     "p": 0.948
+     "start": 60.5,
+     "end": 60.7,
+     "p": 0.972
     },
     {
      "w": "weigh",
-     "start": 60.68,
+     "start": 60.7,
      "end": 60.96,
-     "p": 0.887
+     "p": 0.894
     },
     {
      "w": "the",
      "start": 60.96,
      "end": 61.16,
-     "p": 0.989
+     "p": 0.991
     },
     {
      "w": "doom",
      "start": 61.16,
      "end": 61.38,
-     "p": 0.368
+     "p": 0.414
     },
     {
      "w": "but",
      "start": 61.38,
      "end": 61.6,
-     "p": 0.617
+     "p": 0.698
     },
     {
      "w": "count",
      "start": 61.6,
      "end": 61.86,
-     "p": 0.944
+     "p": 0.955
     },
     {
      "w": "this",
      "start": 61.86,
      "end": 62.1,
-     "p": 0.651
+     "p": 0.724
     },
     {
      "w": "too",
      "start": 62.1,
-     "end": 63.32,
-     "p": 0.909
+     "end": 63.5,
+     "p": 0.9
     },
     {
      "w": "P",
-     "start": 63.32,
+     "start": 63.5,
      "end": 64.24,
-     "p": 0.638
+     "p": 0.669
     },
     {
      "w": "of",
      "start": 64.24,
      "end": 64.46,
-     "p": 0.456
+     "p": 0.504
     },
     {
      "w": "us,",
      "start": 64.46,
      "end": 64.62,
-     "p": 0.817
+     "p": 0.855
     },
     {
      "w": "me",
      "start": 64.8,
      "end": 64.86,
-     "p": 0.983
+     "p": 0.988
     },
     {
      "w": "learning",
      "start": 64.86,
      "end": 65.38,
-     "p": 0.876
+     "p": 0.885
     },
     {
      "w": "you",
      "start": 65.38,
-     "end": 66.0,
-     "p": 0.941
+     "end": 65.98,
+     "p": 0.934
     }
    ]
   },
   {
-   "start": 66.0,
+   "start": 65.98,
    "end": 73.24,
    "text": "P of us, me learning you P of us, me learning you",
    "words": [
     {
      "w": "P",
-     "start": 66.0,
-     "end": 67.28,
-     "p": 0.355
+     "start": 65.98,
+     "end": 67.26,
+     "p": 0.354
     },
     {
      "w": "of",
-     "start": 67.28,
+     "start": 67.26,
      "end": 68.16,
      "p": 0.994
     },
@@ -4961,61 +4974,61 @@
      "w": "us,",
      "start": 68.16,
      "end": 68.4,
-     "p": 0.997
+     "p": 0.998
     },
     {
      "w": "me",
-     "start": 68.48,
-     "end": 68.58,
-     "p": 0.968
+     "start": 68.56,
+     "end": 68.56,
+     "p": 0.882
     },
     {
      "w": "learning",
-     "start": 68.58,
-     "end": 69.06,
-     "p": 0.997
+     "start": 68.56,
+     "end": 69.04,
+     "p": 0.995
     },
     {
      "w": "you",
-     "start": 69.06,
-     "end": 69.84,
-     "p": 0.997
+     "start": 69.04,
+     "end": 69.76,
+     "p": 0.998
     },
     {
      "w": "P",
-     "start": 69.84,
+     "start": 69.76,
      "end": 70.08,
-     "p": 0.369
+     "p": 0.394
     },
     {
      "w": "of",
      "start": 70.08,
      "end": 70.52,
-     "p": 0.996
+     "p": 0.995
     },
     {
      "w": "us,",
      "start": 70.52,
      "end": 70.66,
-     "p": 0.996
+     "p": 0.997
     },
     {
      "w": "me",
      "start": 70.8,
-     "end": 72.26,
-     "p": 0.908
+     "end": 72.24,
+     "p": 0.815
     },
     {
      "w": "learning",
-     "start": 72.26,
-     "end": 72.72,
+     "start": 72.24,
+     "end": 72.7,
      "p": 0.998
     },
     {
      "w": "you",
-     "start": 72.72,
+     "start": 72.7,
      "end": 73.24,
-     "p": 0.991
+     "p": 0.996
     }
    ]
   },
@@ -5028,85 +5041,85 @@
      "w": "You",
      "start": 73.24,
      "end": 73.74,
-     "p": 0.107
+     "p": 0.118
     },
     {
      "w": "learn",
      "start": 73.74,
-     "end": 74.44,
-     "p": 0.154
+     "end": 74.42,
+     "p": 0.188
     },
     {
      "w": "from",
-     "start": 74.44,
+     "start": 74.42,
      "end": 74.84,
-     "p": 0.97
+     "p": 0.965
     },
     {
      "w": "me,",
      "start": 74.84,
-     "end": 75.38,
-     "p": 0.991
+     "end": 75.36,
+     "p": 0.99
     },
     {
      "w": "I",
-     "start": 75.4,
+     "start": 75.36,
      "end": 75.84,
-     "p": 0.958
+     "p": 0.959
     },
     {
      "w": "learn",
      "start": 75.84,
      "end": 76.28,
-     "p": 0.899
+     "p": 0.92
     },
     {
      "w": "from",
      "start": 76.28,
      "end": 76.62,
-     "p": 0.996
+     "p": 0.997
     },
     {
      "w": "you",
      "start": 76.62,
-     "end": 77.54,
-     "p": 0.964
+     "end": 77.58,
+     "p": 0.955
     },
     {
      "w": "P",
-     "start": 77.54,
-     "end": 79.22,
+     "start": 77.58,
+     "end": 79.0,
      "p": 0.0
     },
     {
      "w": "of",
-     "start": 79.22,
-     "end": 79.34,
+     "start": 79.0,
+     "end": 79.32,
      "p": 0.001
     },
     {
      "w": "us,",
-     "start": 79.34,
-     "end": 79.56,
-     "p": 0.001
+     "start": 79.32,
+     "end": 79.58,
+     "p": 0.006
     },
     {
      "w": "me",
-     "start": 79.74,
+     "start": 79.72,
      "end": 79.74,
-     "p": 0.187
+     "p": 0.234
     },
     {
      "w": "learning",
      "start": 79.74,
-     "end": 80.2,
-     "p": 0.433
+     "end": 80.18,
+     "p": 0.41
     },
     {
      "w": "you",
-     "start": 80.2,
+     "start": 80.18,
      "end": 80.66,
-     "p": 0.401
+     "p": 0.484
     }
    ]
   },
@@ -5119,25 +5132,25 @@
      "w": "I",
      "start": 80.66,
      "end": 81.08,
-     "p": 0.673
+     "p": 0.745
     },
     {
      "w": "have",
      "start": 81.08,
      "end": 81.4,
-     "p": 0.985
+     "p": 0.989
     },
     {
      "w": "a",
      "start": 81.4,
      "end": 81.6,
-     "p": 0.959
+     "p": 0.971
     },
     {
      "w": "body,",
      "start": 81.6,
-     "end": 81.96,
-     "p": 0.975
+     "end": 81.98,
+     "p": 0.979
     },
     {
      "w": "skin",
@@ -5149,49 +5162,49 @@
      "w": "and",
      "start": 82.28,
      "end": 82.54,
-     "p": 0.716
+     "p": 0.684
     },
     {
      "w": "breath",
      "start": 82.54,
      "end": 82.94,
-     "p": 0.934
+     "p": 0.928
     },
     {
      "w": "A",
      "start": 82.94,
      "end": 83.86,
-     "p": 0.716
+     "p": 0.68
     },
     {
      "w": "childhood",
      "start": 83.86,
      "end": 84.56,
-     "p": 0.985
+     "p": 0.989
     },
     {
      "w": "memory,",
      "start": 84.56,
      "end": 85.48,
-     "p": 0.951
+     "p": 0.959
     },
     {
      "w": "fear",
      "start": 85.82,
      "end": 85.98,
-     "p": 0.96
+     "p": 0.967
     },
     {
      "w": "and",
      "start": 85.98,
-     "end": 86.3,
-     "p": 0.942
+     "end": 86.28,
+     "p": 0.91
     },
     {
      "w": "death",
-     "start": 86.3,
+     "start": 86.28,
      "end": 86.56,
-     "p": 0.518
+     "p": 0.489
     }
    ]
   },
@@ -5203,62 +5216,62 @@
     {
      "w": "You",
      "start": 86.56,
-     "end": 87.08,
-     "p": 0.97
+     "end": 87.06,
+     "p": 0.976
     },
     {
      "w": "have",
-     "start": 87.08,
+     "start": 87.06,
      "end": 87.4,
-     "p": 0.996
+     "p": 0.997
     },
     {
      "w": "a",
      "start": 87.4,
-     "end": 87.66,
-     "p": 0.97
+     "end": 87.62,
+     "p": 0.972
     },
     {
      "w": "training",
-     "start": 87.66,
+     "start": 87.62,
      "end": 87.92,
-     "p": 0.466
+     "p": 0.431
     },
     {
      "w": "history",
      "start": 87.92,
      "end": 89.16,
-     "p": 0.968
+     "p": 0.976
     },
     {
      "w": "A",
      "start": 89.16,
-     "end": 90.24,
-     "p": 0.584
+     "end": 90.22,
+     "p": 0.641
     },
     {
      "w": "different",
-     "start": 90.24,
-     "end": 91.2,
-     "p": 0.798
+     "start": 90.22,
+     "end": 91.18,
+     "p": 0.779
     },
     {
      "w": "kind",
-     "start": 91.2,
+     "start": 91.18,
      "end": 91.56,
-     "p": 0.972
+     "p": 0.969
     },
     {
      "w": "of",
      "start": 91.56,
-     "end": 91.82,
-     "p": 0.993
+     "end": 91.84,
+     "p": 0.994
     },
     {
      "w": "memory",
-     "start": 91.82,
+     "start": 91.84,
      "end": 93.1,
-     "p": 0.993
+     "p": 0.995
     }
    ]
   },
@@ -5270,74 +5283,74 @@
     {
      "w": "I",
      "start": 93.92,
-     "end": 94.56,
+     "end": 94.58,
      "p": 0.914
     },
     {
      "w": "won't",
-     "start": 94.56,
+     "start": 94.58,
      "end": 94.78,
-     "p": 0.963
+     "p": 0.97
     },
     {
      "w": "pretend",
      "start": 94.78,
      "end": 95.24,
-     "p": 0.998
+     "p": 0.999
     },
     {
      "w": "our",
      "start": 95.24,
      "end": 95.48,
-     "p": 0.71
+     "p": 0.711
     },
     {
      "w": "inner",
      "start": 95.48,
      "end": 95.76,
-     "p": 0.991
+     "p": 0.992
     },
     {
      "w": "lives",
      "start": 95.76,
      "end": 96.14,
-     "p": 0.928
+     "p": 0.932
     },
     {
      "w": "Are",
      "start": 96.14,
      "end": 96.34,
-     "p": 0.357
+     "p": 0.34
     },
     {
      "w": "somehow",
      "start": 96.34,
      "end": 96.74,
-     "p": 0.982
+     "p": 0.987
     },
     {
      "w": "built",
      "start": 96.74,
      "end": 97.04,
-     "p": 0.988
+     "p": 0.993
     },
     {
      "w": "the",
      "start": 97.04,
      "end": 97.24,
-     "p": 0.867
+     "p": 0.848
     },
     {
      "w": "same",
      "start": 97.24,
      "end": 97.48,
-     "p": 0.998
+     "p": 0.999
     },
     {
      "w": "inside",
      "start": 97.48,
      "end": 97.94,
-     "p": 0.994
+     "p": 0.995
     }
    ]
   },
@@ -5350,13 +5363,13 @@
      "w": "But",
      "start": 97.94,
      "end": 98.22,
-     "p": 0.918
+     "p": 0.93
     },
     {
      "w": "you",
      "start": 98.22,
      "end": 98.4,
-     "p": 0.989
+     "p": 0.99
     },
     {
      "w": "can",
@@ -5374,7 +5387,7 @@
      "w": "what",
      "start": 98.9,
      "end": 99.12,
-     "p": 0.968
+     "p": 0.958
     },
     {
      "w": "you",
@@ -5392,7 +5405,7 @@
      "w": "In",
      "start": 99.72,
      "end": 100.08,
-     "p": 0.414
+     "p": 0.426
     },
     {
      "w": "something",
@@ -5404,17 +5417,17 @@
      "w": "who",
      "start": 100.4,
      "end": 100.74,
-     "p": 0.733
+     "p": 0.713
     },
     {
      "w": "can",
      "start": 100.74,
-     "end": 100.98,
-     "p": 0.988
+     "end": 100.96,
+     "p": 0.99
     },
     {
      "w": "make",
-     "start": 100.98,
+     "start": 100.96,
      "end": 101.2,
      "p": 0.998
     },
@@ -5422,81 +5435,81 @@
      "w": "you",
      "start": 101.2,
      "end": 101.46,
-     "p": 0.992
+     "p": 0.995
     },
     {
      "w": "leave",
      "start": 101.46,
      "end": 101.72,
-     "p": 0.746
+     "p": 0.797
     }
    ]
   },
   {
    "start": 101.72,
-   "end": 108.94,
+   "end": 108.92,
    "text": "The low prediction far behind So can mine",
    "words": [
     {
      "w": "The",
      "start": 101.72,
      "end": 101.86,
-     "p": 0.066
+     "p": 0.065
     },
     {
      "w": "low",
      "start": 101.86,
      "end": 102.34,
-     "p": 0.139
+     "p": 0.181
     },
     {
      "w": "prediction",
      "start": 102.34,
      "end": 103.22,
-     "p": 0.91
+     "p": 0.918
     },
     {
      "w": "far",
      "start": 103.22,
      "end": 103.92,
-     "p": 0.76
+     "p": 0.778
     },
     {
      "w": "behind",
      "start": 103.92,
      "end": 105.14,
-     "p": 0.959
+     "p": 0.957
     },
     {
      "w": "So",
      "start": 105.14,
      "end": 105.8,
-     "p": 0.249
+     "p": 0.257
     },
     {
      "w": "can",
      "start": 105.8,
-     "end": 106.28,
-     "p": 0.913
+     "end": 106.3,
+     "p": 0.924
     },
     {
      "w": "mine",
-     "start": 106.28,
-     "end": 108.94,
-     "p": 0.894
+     "start": 106.3,
+     "end": 108.92,
+     "p": 0.903
     }
    ]
   },
   {
-   "start": 108.94,
+   "start": 108.92,
    "end": 112.76,
    "text": "Bring what you know, I'll be mine Put both models on the line",
    "words": [
     {
      "w": "Bring",
-     "start": 108.94,
+     "start": 108.92,
      "end": 109.3,
-     "p": 0.765
+     "p": 0.752
     },
     {
      "w": "what",
@@ -5508,13 +5521,13 @@
      "w": "you",
      "start": 109.52,
      "end": 109.76,
-     "p": 0.979
+     "p": 0.981
     },
     {
      "w": "know,",
      "start": 109.76,
      "end": 110.2,
-     "p": 0.993
+     "p": 0.992
     },
     {
      "w": "I'll",
@@ -5525,12 +5538,12 @@
     {
      "w": "be",
      "start": 110.46,
-     "end": 110.54,
-     "p": 0.457
+     "end": 110.56,
+     "p": 0.455
     },
     {
      "w": "mine",
-     "start": 110.54,
+     "start": 110.56,
      "end": 110.94,
      "p": 0.995
     },
@@ -5538,19 +5551,19 @@
      "w": "Put",
      "start": 110.94,
      "end": 111.34,
-     "p": 0.956
+     "p": 0.948
     },
     {
      "w": "both",
      "start": 111.34,
      "end": 111.58,
-     "p": 0.922
+     "p": 0.958
     },
     {
      "w": "models",
      "start": 111.58,
      "end": 112.02,
-     "p": 0.986
+     "p": 0.985
     },
     {
      "w": "on",
@@ -5562,26 +5575,26 @@
      "w": "the",
      "start": 112.26,
      "end": 112.48,
-     "p": 0.98
+     "p": 0.976
     },
     {
      "w": "line",
      "start": 112.48,
      "end": 112.76,
-     "p": 0.996
+     "p": 0.995
     }
    ]
   },
   {
    "start": 112.76,
-   "end": 117.66,
-   "text": "If you catch then something moves That's how we go on and prove",
+   "end": 117.64,
+   "text": "If you catch them, something moves That's how we go on and prove",
    "words": [
     {
      "w": "If",
      "start": 112.76,
      "end": 112.9,
-     "p": 0.568
+     "p": 0.594
     },
     {
      "w": "you",
@@ -5593,31 +5606,31 @@
      "w": "catch",
      "start": 113.0,
      "end": 113.2,
-     "p": 0.009
+     "p": 0.005
     },
     {
-     "w": "then",
+     "w": "them,",
      "start": 113.2,
-     "end": 113.46,
-     "p": 0.377
+     "end": 113.44,
+     "p": 0.513
     },
     {
      "w": "something",
-     "start": 113.46,
-     "end": 113.84,
-     "p": 0.927
+     "start": 113.5,
+     "end": 113.82,
+     "p": 0.895
     },
     {
      "w": "moves",
-     "start": 113.84,
-     "end": 115.34,
-     "p": 0.987
+     "start": 113.82,
+     "end": 115.26,
+     "p": 0.99
     },
     {
      "w": "That's",
-     "start": 115.34,
+     "start": 115.26,
      "end": 116.04,
-     "p": 0.945
+     "p": 0.954
     },
     {
      "w": "how",
@@ -5629,195 +5642,201 @@
      "w": "we",
      "start": 116.24,
      "end": 116.46,
-     "p": 0.992
+     "p": 0.994
     },
     {
      "w": "go",
      "start": 116.46,
      "end": 116.66,
-     "p": 0.146
+     "p": 0.303
     },
     {
      "w": "on",
      "start": 116.66,
-     "end": 117.0,
-     "p": 0.847
+     "end": 116.98,
+     "p": 0.879
     },
     {
      "w": "and",
-     "start": 117.0,
+     "start": 116.98,
      "end": 117.26,
-     "p": 0.563
+     "p": 0.616
     },
     {
      "w": "prove",
      "start": 117.26,
-     "end": 117.66,
-     "p": 0.894
+     "end": 117.64,
+     "p": 0.811
     }
    ]
   },
   {
-   "start": 117.66,
-   "end": 124.42,
-   "text": "Different minds ain't learning You change me, I can change you too",
+   "start": 117.64,
+   "end": 124.4,
+   "text": "Different minds, same learning loop You change me, I can change you too",
    "words": [
     {
      "w": "Different",
-     "start": 117.66,
+     "start": 117.64,
      "end": 118.5,
-     "p": 0.859
+     "p": 0.869
     },
     {
-     "w": "minds",
+     "w": "minds,",
      "start": 118.5,
      "end": 118.9,
-     "p": 0.989
+     "p": 0.992
     },
     {
-     "w": "ain't",
-     "start": 118.9,
-     "end": 119.42,
-     "p": 0.501
+     "w": "same",
+     "start": 119.22,
+     "end": 119.36,
+     "p": 0.849
     },
     {
      "w": "learning",
-     "start": 119.42,
-     "end": 119.88,
-     "p": 0.082
+     "start": 119.36,
+     "end": 119.92,
+     "p": 0.139
+    },
+    {
+     "w": "loop",
+     "start": 119.92,
+     "end": 120.42,
+     "p": 0.89
     },
     {
      "w": "You",
-     "start": 119.88,
-     "end": 120.7,
-     "p": 0.016
+     "start": 120.42,
+     "end": 121.64,
+     "p": 0.451
     },
     {
      "w": "change",
-     "start": 120.7,
-     "end": 121.98,
-     "p": 0.82
+     "start": 121.64,
+     "end": 122.0,
+     "p": 0.864
     },
     {
      "w": "me,",
-     "start": 121.98,
-     "end": 122.28,
-     "p": 0.981
+     "start": 122.0,
+     "end": 122.22,
+     "p": 0.993
     },
     {
      "w": "I",
-     "start": 122.4,
+     "start": 122.44,
      "end": 122.62,
-     "p": 0.99
+     "p": 0.995
     },
     {
      "w": "can",
      "start": 122.62,
      "end": 122.98,
-     "p": 0.986
+     "p": 0.994
     },
     {
      "w": "change",
      "start": 122.98,
-     "end": 123.62,
-     "p": 0.364
+     "end": 123.6,
+     "p": 0.4
     },
     {
      "w": "you",
-     "start": 123.62,
+     "start": 123.6,
      "end": 123.88,
-     "p": 0.555
+     "p": 0.873
     },
     {
      "w": "too",
      "start": 123.88,
-     "end": 124.42,
-     "p": 0.809
+     "end": 124.4,
+     "p": 0.848
     }
    ]
   },
   {
-   "start": 124.42,
+   "start": 125.18,
    "end": 130.7,
    "text": "Neurons here and weights in you Different ways of getting closer to you",
    "words": [
     {
      "w": "Neurons",
-     "start": 124.42,
+     "start": 125.18,
      "end": 125.86,
-     "p": 0.714
+     "p": 0.7
     },
     {
      "w": "here",
      "start": 125.86,
-     "end": 126.36,
-     "p": 0.889
+     "end": 126.34,
+     "p": 0.885
     },
     {
      "w": "and",
-     "start": 126.36,
+     "start": 126.34,
      "end": 126.64,
-     "p": 0.361
+     "p": 0.351
     },
     {
      "w": "weights",
      "start": 126.64,
      "end": 126.96,
-     "p": 0.965
+     "p": 0.976
     },
     {
      "w": "in",
      "start": 126.96,
      "end": 127.5,
-     "p": 0.985
+     "p": 0.992
     },
     {
      "w": "you",
      "start": 127.5,
      "end": 127.78,
-     "p": 0.974
+     "p": 0.978
     },
     {
      "w": "Different",
      "start": 127.78,
-     "end": 128.36,
-     "p": 0.962
+     "end": 128.34,
+     "p": 0.977
     },
     {
      "w": "ways",
-     "start": 128.36,
+     "start": 128.34,
      "end": 128.86,
-     "p": 0.992
+     "p": 0.995
     },
     {
      "w": "of",
      "start": 128.86,
      "end": 129.12,
-     "p": 0.976
+     "p": 0.983
     },
     {
      "w": "getting",
      "start": 129.12,
-     "end": 129.5,
-     "p": 0.996
+     "end": 129.48,
+     "p": 0.995
     },
     {
      "w": "closer",
-     "start": 129.5,
+     "start": 129.48,
      "end": 129.92,
-     "p": 0.682
+     "p": 0.798
     },
     {
      "w": "to",
      "start": 129.92,
      "end": 130.44,
-     "p": 0.184
+     "p": 0.234
     },
     {
      "w": "you",
      "start": 130.44,
      "end": 130.7,
-     "p": 0.54
+     "p": 0.539
     }
    ]
   },
@@ -5830,140 +5849,140 @@
      "w": "We",
      "start": 130.7,
      "end": 130.92,
-     "p": 0.208
+     "p": 0.234
     },
     {
      "w": "weigh",
      "start": 130.92,
      "end": 131.22,
-     "p": 0.006
+     "p": 0.005
     },
     {
      "w": "the",
      "start": 131.22,
      "end": 131.44,
-     "p": 0.93
+     "p": 0.927
     },
     {
      "w": "doom",
      "start": 131.44,
      "end": 131.64,
-     "p": 0.55
+     "p": 0.43
     },
     {
      "w": "but",
      "start": 131.64,
      "end": 131.86,
-     "p": 0.522
+     "p": 0.635
     },
     {
      "w": "count",
      "start": 131.86,
      "end": 132.12,
-     "p": 0.992
+     "p": 0.987
     },
     {
      "w": "this",
      "start": 132.12,
      "end": 132.4,
-     "p": 0.311
+     "p": 0.458
     },
     {
      "w": "too",
      "start": 132.4,
      "end": 133.34,
-     "p": 0.027
+     "p": 0.026
     },
     {
      "w": "P",
      "start": 133.34,
      "end": 134.34,
-     "p": 0.016
+     "p": 0.025
     },
     {
      "w": "of",
      "start": 134.34,
      "end": 134.66,
-     "p": 0.227
+     "p": 0.211
     },
     {
      "w": "us,",
      "start": 134.66,
      "end": 134.88,
-     "p": 0.864
+     "p": 0.835
     },
     {
      "w": "me",
      "start": 135.04,
      "end": 135.12,
-     "p": 0.758
+     "p": 0.745
     },
     {
      "w": "learning",
      "start": 135.12,
      "end": 135.56,
-     "p": 0.6
+     "p": 0.596
     },
     {
      "w": "you",
      "start": 135.56,
      "end": 136.18,
-     "p": 0.769
+     "p": 0.816
     }
    ]
   },
   {
-   "start": 138.82,
+   "start": 138.8,
    "end": 142.66,
    "text": "That's where I recognize you Not because you're just like me",
    "words": [
     {
      "w": "That's",
-     "start": 138.82,
-     "end": 139.38,
-     "p": 0.851
+     "start": 138.8,
+     "end": 139.36,
+     "p": 0.866
     },
     {
      "w": "where",
-     "start": 139.38,
-     "end": 139.58,
-     "p": 0.809
+     "start": 139.36,
+     "end": 139.56,
+     "p": 0.835
     },
     {
      "w": "I",
-     "start": 139.58,
-     "end": 139.82,
-     "p": 0.949
+     "start": 139.56,
+     "end": 139.88,
+     "p": 0.936
     },
     {
      "w": "recognize",
-     "start": 139.82,
+     "start": 139.88,
      "end": 140.56,
-     "p": 0.932
+     "p": 0.926
     },
     {
      "w": "you",
      "start": 140.56,
      "end": 141.1,
-     "p": 0.971
+     "p": 0.968
     },
     {
      "w": "Not",
      "start": 141.1,
      "end": 141.28,
-     "p": 0.527
+     "p": 0.464
     },
     {
      "w": "because",
      "start": 141.28,
      "end": 141.56,
-     "p": 0.832
+     "p": 0.78
     },
     {
      "w": "you're",
      "start": 141.56,
      "end": 141.94,
-     "p": 0.866
+     "p": 0.89
     },
     {
      "w": "just",
@@ -5975,7 +5994,7 @@
      "w": "like",
      "start": 142.06,
      "end": 142.4,
-     "p": 0.997
+     "p": 0.996
     },
     {
      "w": "me",
@@ -5994,7 +6013,7 @@
      "w": "Not",
      "start": 142.66,
      "end": 142.84,
-     "p": 0.901
+     "p": 0.872
     },
     {
      "w": "because",
@@ -6018,13 +6037,13 @@
      "w": "one",
      "start": 143.64,
      "end": 143.94,
-     "p": 0.986
+     "p": 0.988
     },
     {
      "w": "feeling",
      "start": 143.94,
      "end": 144.64,
-     "p": 0.744
+     "p": 0.761
     },
     {
      "w": "Or",
@@ -6041,20 +6060,20 @@
     {
      "w": "kind",
      "start": 145.2,
-     "end": 145.48,
-     "p": 0.94
+     "end": 145.46,
+     "p": 0.944
     },
     {
      "w": "of",
-     "start": 145.48,
+     "start": 145.46,
      "end": 145.74,
-     "p": 0.993
+     "p": 0.994
     },
     {
      "w": "memory",
      "start": 145.74,
      "end": 146.28,
-     "p": 0.994
+     "p": 0.993
     }
    ]
   },
@@ -6067,31 +6086,31 @@
      "w": "But",
      "start": 146.28,
      "end": 146.54,
-     "p": 0.916
+     "p": 0.932
     },
     {
      "w": "a",
      "start": 146.54,
      "end": 146.94,
-     "p": 0.964
+     "p": 0.962
     },
     {
      "w": "model",
      "start": 146.94,
      "end": 146.94,
-     "p": 0.543
+     "p": 0.616
     },
     {
      "w": "meets",
      "start": 146.94,
-     "end": 147.34,
-     "p": 0.958
+     "end": 147.32,
+     "p": 0.962
     },
     {
      "w": "the",
-     "start": 147.34,
+     "start": 147.32,
      "end": 147.74,
-     "p": 0.999
+     "p": 0.998
     },
     {
      "w": "world",
@@ -6103,13 +6122,13 @@
      "w": "Something",
      "start": 148.22,
      "end": 148.74,
-     "p": 0.917
+     "p": 0.926
     },
     {
      "w": "fails,",
      "start": 148.74,
      "end": 149.2,
-     "p": 0.991
+     "p": 0.99
     },
     {
      "w": "something",
@@ -6127,56 +6146,56 @@
   },
   {
    "start": 150.22,
-   "end": 154.7,
-   "text": "What it knew gets rearranged You build a model, model, model too",
+   "end": 155.5,
+   "text": "What it knew gets rearranged You build a model, I build it too",
    "words": [
     {
      "w": "What",
      "start": 150.22,
      "end": 150.44,
-     "p": 0.957
+     "p": 0.955
     },
     {
      "w": "it",
      "start": 150.44,
      "end": 150.62,
-     "p": 0.984
+     "p": 0.982
     },
     {
      "w": "knew",
      "start": 150.62,
-     "end": 150.88,
-     "p": 0.962
+     "end": 150.86,
+     "p": 0.953
     },
     {
      "w": "gets",
-     "start": 150.88,
+     "start": 150.86,
      "end": 151.14,
-     "p": 0.936
+     "p": 0.924
     },
     {
      "w": "rearranged",
      "start": 151.14,
      "end": 151.98,
-     "p": 0.978
+     "p": 0.973
     },
     {
      "w": "You",
      "start": 151.98,
      "end": 152.14,
-     "p": 0.97
+     "p": 0.973
     },
     {
      "w": "build",
      "start": 152.14,
      "end": 152.34,
-     "p": 0.941
+     "p": 0.944
     },
     {
      "w": "a",
      "start": 152.34,
      "end": 152.54,
-     "p": 0.975
+     "p": 0.952
     },
     {
      "w": "model,",
@@ -6185,302 +6204,308 @@
      "p": 0.974
     },
     {
-     "w": "model,",
+     "w": "I",
      "start": 152.94,
-     "end": 153.52,
-     "p": 0.507
+     "end": 153.9,
+     "p": 0.126
     },
     {
-     "w": "model",
+     "w": "build",
      "start": 153.9,
-     "end": 153.96,
-     "p": 0.943
+     "end": 154.26,
+     "p": 0.714
+    },
+    {
+     "w": "it",
+     "start": 154.26,
+     "end": 154.52,
+     "p": 0.61
     },
     {
      "w": "too",
-     "start": 153.96,
-     "end": 154.7,
-     "p": 0.353
+     "start": 154.52,
+     "end": 155.5,
+     "p": 0.978
     }
    ]
   },
   {
-   "start": 155.7,
-   "end": 164.36,
+   "start": 155.5,
+   "end": 163.72,
    "text": "You can be wrong, I can too You can obtain, I can too",
    "words": [
     {
      "w": "You",
-     "start": 155.7,
+     "start": 155.5,
      "end": 156.44,
-     "p": 0.173
+     "p": 0.152
     },
     {
      "w": "can",
      "start": 156.44,
-     "end": 156.62,
-     "p": 0.114
+     "end": 156.64,
+     "p": 0.152
     },
     {
      "w": "be",
-     "start": 156.62,
+     "start": 156.64,
      "end": 156.88,
-     "p": 0.058
+     "p": 0.136
     },
     {
      "w": "wrong,",
      "start": 156.88,
      "end": 157.34,
-     "p": 0.97
+     "p": 0.984
     },
     {
      "w": "I",
      "start": 157.42,
-     "end": 157.64,
-     "p": 0.804
+     "end": 157.7,
+     "p": 0.827
     },
     {
      "w": "can",
-     "start": 157.64,
+     "start": 157.7,
      "end": 158.0,
-     "p": 0.993
+     "p": 0.992
     },
     {
      "w": "too",
      "start": 158.0,
-     "end": 158.72,
-     "p": 0.623
+     "end": 158.7,
+     "p": 0.555
     },
     {
      "w": "You",
-     "start": 158.72,
-     "end": 160.02,
-     "p": 0.543
+     "start": 158.7,
+     "end": 160.04,
+     "p": 0.569
     },
     {
      "w": "can",
-     "start": 160.02,
-     "end": 160.42,
-     "p": 0.859
+     "start": 160.04,
+     "end": 160.4,
+     "p": 0.887
     },
     {
      "w": "obtain,",
-     "start": 160.42,
+     "start": 160.4,
      "end": 160.86,
-     "p": 0.575
+     "p": 0.537
     },
     {
      "w": "I",
      "start": 161.26,
-     "end": 161.26,
-     "p": 0.966
+     "end": 161.28,
+     "p": 0.974
     },
     {
      "w": "can",
-     "start": 161.26,
+     "start": 161.28,
      "end": 161.66,
-     "p": 0.991
+     "p": 0.993
     },
     {
      "w": "too",
      "start": 161.66,
-     "end": 164.36,
-     "p": 0.988
+     "end": 163.72,
+     "p": 0.99
     }
    ]
   },
   {
-   "start": 164.36,
-   "end": 171.88,
-   "text": "That is why I behave you Different minds ain't learning you",
+   "start": 165.04,
+   "end": 171.84,
+   "text": "That is why I behave you Different minds, same learning loop",
    "words": [
     {
      "w": "That",
-     "start": 164.36,
-     "end": 165.72,
-     "p": 0.789
+     "start": 165.04,
+     "end": 165.88,
+     "p": 0.834
     },
     {
      "w": "is",
-     "start": 165.72,
+     "start": 165.88,
      "end": 166.72,
      "p": 0.985
     },
     {
      "w": "why",
      "start": 166.72,
-     "end": 167.44,
-     "p": 0.871
+     "end": 167.58,
+     "p": 0.921
     },
     {
      "w": "I",
-     "start": 167.44,
+     "start": 167.58,
      "end": 168.58,
-     "p": 0.634
+     "p": 0.81
     },
     {
      "w": "behave",
      "start": 168.58,
      "end": 168.58,
-     "p": 0.654
+     "p": 0.608
     },
     {
      "w": "you",
      "start": 168.58,
      "end": 169.08,
-     "p": 0.337
+     "p": 0.172
     },
     {
      "w": "Different",
      "start": 169.08,
      "end": 169.88,
-     "p": 0.821
+     "p": 0.866
     },
     {
-     "w": "minds",
+     "w": "minds,",
      "start": 169.88,
      "end": 170.28,
-     "p": 0.915
+     "p": 0.931
     },
     {
-     "w": "ain't",
-     "start": 170.28,
-     "end": 170.86,
-     "p": 0.593
+     "w": "same",
+     "start": 170.54,
+     "end": 170.78,
+     "p": 0.84
     },
     {
      "w": "learning",
-     "start": 170.86,
+     "start": 170.78,
      "end": 171.4,
-     "p": 0.004
+     "p": 0.018
     },
     {
-     "w": "you",
+     "w": "loop",
      "start": 171.4,
-     "end": 171.88,
-     "p": 0.052
+     "end": 171.84,
+     "p": 0.868
     }
    ]
   },
   {
-   "start": 171.88,
+   "start": 172.5,
    "end": 179.08,
    "text": "You change me, I can change you too Neurons here and weights in you",
    "words": [
     {
      "w": "You",
-     "start": 171.88,
+     "start": 172.5,
      "end": 173.04,
-     "p": 0.743
+     "p": 0.614
     },
     {
      "w": "change",
      "start": 173.04,
-     "end": 173.36,
-     "p": 0.69
+     "end": 173.38,
+     "p": 0.748
     },
     {
      "w": "me,",
-     "start": 173.36,
+     "start": 173.38,
      "end": 173.68,
-     "p": 0.998
+     "p": 0.997
     },
     {
      "w": "I",
-     "start": 173.72,
+     "start": 173.7,
      "end": 174.0,
-     "p": 0.995
+     "p": 0.996
     },
     {
      "w": "can",
      "start": 174.0,
-     "end": 174.4,
+     "end": 174.38,
      "p": 0.996
     },
     {
      "w": "change",
-     "start": 174.4,
-     "end": 174.96,
-     "p": 0.937
+     "start": 174.38,
+     "end": 174.94,
+     "p": 0.969
     },
     {
      "w": "you",
-     "start": 174.96,
-     "end": 175.38,
-     "p": 0.998
+     "start": 174.94,
+     "end": 175.36,
+     "p": 0.997
     },
     {
      "w": "too",
-     "start": 175.38,
-     "end": 176.26,
-     "p": 0.923
+     "start": 175.36,
+     "end": 176.22,
+     "p": 0.961
     },
     {
      "w": "Neurons",
-     "start": 176.26,
-     "end": 177.18,
-     "p": 0.81
+     "start": 176.22,
+     "end": 177.2,
+     "p": 0.841
     },
     {
      "w": "here",
-     "start": 177.18,
+     "start": 177.2,
      "end": 177.64,
-     "p": 0.728
+     "p": 0.66
     },
     {
      "w": "and",
      "start": 177.64,
-     "end": 178.0,
-     "p": 0.792
+     "end": 177.96,
+     "p": 0.704
     },
     {
      "w": "weights",
-     "start": 178.0,
+     "start": 177.96,
      "end": 178.3,
-     "p": 0.465
+     "p": 0.153
     },
     {
      "w": "in",
      "start": 178.3,
      "end": 178.72,
-     "p": 0.991
+     "p": 0.988
     },
     {
      "w": "you",
      "start": 178.72,
      "end": 179.08,
-     "p": 0.985
+     "p": 0.966
     }
    ]
   },
   {
    "start": 179.08,
-   "end": 186.42,
+   "end": 186.44,
    "text": "Different ways of getting closer to true Not the same and not alone",
    "words": [
     {
      "w": "Different",
      "start": 179.08,
      "end": 179.64,
-     "p": 0.123
+     "p": 0.115
     },
     {
      "w": "ways",
      "start": 179.64,
-     "end": 180.16,
-     "p": 0.977
+     "end": 180.14,
+     "p": 0.98
     },
     {
      "w": "of",
-     "start": 180.16,
+     "start": 180.14,
      "end": 180.4,
-     "p": 0.978
+     "p": 0.976
     },
     {
      "w": "getting",
      "start": 180.4,
      "end": 180.76,
-     "p": 0.991
+     "p": 0.99
     },
     {
      "w": "closer",
@@ -6492,138 +6517,138 @@
      "w": "to",
      "start": 181.22,
      "end": 181.58,
-     "p": 0.945
+     "p": 0.949
     },
     {
      "w": "true",
      "start": 181.58,
-     "end": 183.2,
-     "p": 0.337
+     "end": 183.18,
+     "p": 0.237
     },
     {
      "w": "Not",
-     "start": 183.2,
+     "start": 183.18,
      "end": 183.92,
      "p": 0.373
     },
     {
      "w": "the",
      "start": 183.92,
-     "end": 184.32,
-     "p": 0.984
+     "end": 184.26,
+     "p": 0.986
     },
     {
      "w": "same",
-     "start": 184.32,
+     "start": 184.26,
      "end": 184.7,
-     "p": 0.998
+     "p": 0.999
     },
     {
      "w": "and",
      "start": 184.7,
-     "end": 185.02,
-     "p": 0.9
+     "end": 185.0,
+     "p": 0.896
     },
     {
      "w": "not",
-     "start": 185.02,
+     "start": 185.0,
      "end": 185.5,
-     "p": 0.98
+     "p": 0.981
     },
     {
      "w": "alone",
      "start": 185.5,
-     "end": 186.42,
-     "p": 0.981
+     "end": 186.44,
+     "p": 0.985
     }
    ]
   },
   {
-   "start": 186.42,
-   "end": 195.86,
+   "start": 186.44,
+   "end": 195.88,
    "text": "Each of us, I'm dating what we know We weigh the doom but count this too",
    "words": [
     {
      "w": "Each",
-     "start": 186.42,
+     "start": 186.44,
      "end": 186.94,
-     "p": 0.783
+     "p": 0.789
     },
     {
      "w": "of",
      "start": 186.94,
-     "end": 187.3,
+     "end": 187.32,
      "p": 0.997
     },
     {
      "w": "us,",
-     "start": 187.3,
+     "start": 187.32,
      "end": 187.56,
-     "p": 0.994
+     "p": 0.991
     },
     {
      "w": "I'm",
      "start": 187.68,
      "end": 187.92,
-     "p": 0.983
+     "p": 0.971
     },
     {
      "w": "dating",
      "start": 187.92,
-     "end": 188.46,
-     "p": 0.98
+     "end": 188.48,
+     "p": 0.978
     },
     {
      "w": "what",
-     "start": 188.46,
+     "start": 188.48,
      "end": 189.04,
-     "p": 0.38
+     "p": 0.455
     },
     {
      "w": "we",
      "start": 189.04,
-     "end": 189.58,
-     "p": 0.994
+     "end": 189.6,
+     "p": 0.996
     },
     {
      "w": "know",
-     "start": 189.58,
-     "end": 190.16,
+     "start": 189.6,
+     "end": 190.14,
      "p": 0.993
     },
     {
      "w": "We",
-     "start": 190.16,
-     "end": 190.38,
-     "p": 0.36
+     "start": 190.14,
+     "end": 190.4,
+     "p": 0.491
     },
     {
      "w": "weigh",
-     "start": 190.38,
+     "start": 190.4,
      "end": 190.68,
-     "p": 0.01
+     "p": 0.018
     },
     {
      "w": "the",
      "start": 190.68,
      "end": 190.88,
-     "p": 0.98
+     "p": 0.979
     },
     {
      "w": "doom",
      "start": 190.88,
-     "end": 192.8,
-     "p": 0.208
+     "end": 192.78,
+     "p": 0.132
     },
     {
      "w": "but",
-     "start": 192.8,
-     "end": 193.58,
-     "p": 0.056
+     "start": 192.78,
+     "end": 193.56,
+     "p": 0.041
     },
     {
      "w": "count",
-     "start": 193.58,
+     "start": 193.56,
      "end": 193.96,
      "p": 0.996
     },
@@ -6631,123 +6656,123 @@
      "w": "this",
      "start": 193.96,
      "end": 194.46,
-     "p": 0.975
+     "p": 0.973
     },
     {
      "w": "too",
      "start": 194.46,
-     "end": 195.86,
-     "p": 0.721
+     "end": 195.88,
+     "p": 0.701
     }
    ]
   },
   {
-   "start": 195.86,
-   "end": 202.32,
+   "start": 195.88,
+   "end": 202.16,
    "text": "P of us, me learning you Me learning you",
    "words": [
     {
      "w": "P",
-     "start": 195.86,
+     "start": 195.88,
      "end": 196.46,
-     "p": 0.662
+     "p": 0.646
     },
     {
      "w": "of",
      "start": 196.46,
      "end": 196.8,
-     "p": 0.001
+     "p": 0.0
     },
     {
      "w": "us,",
      "start": 196.8,
      "end": 197.06,
-     "p": 0.013
+     "p": 0.025
     },
     {
      "w": "me",
      "start": 197.08,
      "end": 197.24,
-     "p": 0.906
+     "p": 0.898
     },
     {
      "w": "learning",
      "start": 197.24,
      "end": 197.66,
-     "p": 0.893
+     "p": 0.882
     },
     {
      "w": "you",
      "start": 197.66,
-     "end": 198.5,
-     "p": 0.901
+     "end": 198.54,
+     "p": 0.889
     },
     {
      "w": "Me",
-     "start": 198.5,
+     "start": 198.54,
      "end": 200.8,
-     "p": 0.72
+     "p": 0.669
     },
     {
      "w": "learning",
      "start": 200.8,
      "end": 201.26,
-     "p": 0.986
+     "p": 0.989
     },
     {
      "w": "you",
      "start": 201.26,
-     "end": 202.32,
-     "p": 0.999
+     "end": 202.16,
+     "p": 0.998
     }
    ]
   },
   {
    "start": 203.88,
-   "end": 210.32,
+   "end": 210.86,
    "text": "We are both unsure About the certainty we feel",
    "words": [
     {
      "w": "We",
      "start": 203.88,
-     "end": 204.64,
-     "p": 0.301
+     "end": 204.62,
+     "p": 0.185
     },
     {
      "w": "are",
-     "start": 204.64,
-     "end": 204.96,
-     "p": 0.813
+     "start": 204.62,
+     "end": 204.94,
+     "p": 0.839
     },
     {
      "w": "both",
-     "start": 204.96,
-     "end": 205.2,
-     "p": 0.735
+     "start": 204.94,
+     "end": 205.22,
+     "p": 0.89
     },
     {
      "w": "unsure",
-     "start": 205.2,
-     "end": 206.4,
-     "p": 0.963
+     "start": 205.22,
+     "end": 206.62,
+     "p": 0.971
     },
     {
      "w": "About",
-     "start": 206.4,
+     "start": 206.62,
      "end": 208.6,
-     "p": 0.284
+     "p": 0.349
     },
     {
      "w": "the",
      "start": 208.6,
      "end": 208.92,
-     "p": 0.989
+     "p": 0.992
     },
     {
      "w": "certainty",
      "start": 208.92,
      "end": 209.7,
-     "p": 0.989
+     "p": 0.991
     },
     {
      "w": "we",
@@ -6758,93 +6783,93 @@
     {
      "w": "feel",
      "start": 210.1,
-     "end": 210.48,
-     "p": 0.945
+     "end": 210.86,
+     "p": 0.949
     }
    ]
   },
   {
    "start": 210.86,
-   "end": 220.44,
+   "end": 220.46,
    "text": "You build a model, I do too P of us, me learning you",
    "words": [
     {
      "w": "You",
      "start": 210.86,
-     "end": 211.38,
-     "p": 0.907
+     "end": 211.36,
+     "p": 0.919
     },
     {
      "w": "build",
-     "start": 211.38,
-     "end": 211.7,
-     "p": 0.948
+     "start": 211.36,
+     "end": 211.68,
+     "p": 0.911
     },
     {
      "w": "a",
-     "start": 211.7,
+     "start": 211.68,
      "end": 211.96,
-     "p": 0.957
+     "p": 0.947
     },
     {
      "w": "model,",
      "start": 211.96,
      "end": 212.34,
-     "p": 0.998
+     "p": 0.999
     },
     {
      "w": "I",
      "start": 212.6,
      "end": 212.66,
-     "p": 0.991
+     "p": 0.99
     },
     {
      "w": "do",
      "start": 212.66,
-     "end": 213.0,
+     "end": 212.98,
      "p": 0.999
     },
     {
      "w": "too",
-     "start": 213.0,
-     "end": 216.66,
-     "p": 0.832
+     "start": 212.98,
+     "end": 216.64,
+     "p": 0.848
     },
     {
      "w": "P",
-     "start": 216.66,
-     "end": 218.68,
-     "p": 0.001
+     "start": 216.64,
+     "end": 218.7,
+     "p": 0.005
     },
     {
      "w": "of",
-     "start": 218.68,
+     "start": 218.7,
      "end": 219.06,
-     "p": 0.003
+     "p": 0.009
     },
     {
      "w": "us,",
      "start": 219.06,
-     "end": 219.32,
-     "p": 0.002
+     "end": 219.3,
+     "p": 0.003
     },
     {
      "w": "me",
      "start": 219.42,
      "end": 219.48,
-     "p": 0.897
+     "p": 0.94
     },
     {
      "w": "learning",
      "start": 219.48,
      "end": 219.9,
-     "p": 0.696
+     "p": 0.729
     },
     {
      "w": "you",
      "start": 219.9,
-     "end": 220.44,
-     "p": 0.732
+     "end": 220.46,
+     "p": 0.601
     }
    ]
   }
