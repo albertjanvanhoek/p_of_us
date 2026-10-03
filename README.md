@@ -26,7 +26,7 @@ The video is planned as a print made in two inks, red for the human and blue for
 - **The two hands** (`src/scenes/_pen.ts`): the red pen (pressure, tremor, ink pooling) and the blue plotter (constant width, exact arcs, pen-down dots).
 - **The edit** (`src/timeline.ts`): one entry per scene of the treatment, anchored to the aligned lyrics. Scenes that are not built yet fall back to `typeset` (the lyric on paper in the karaoke rule), so the whole song always plays.
 
-Scenes so far: `hold` (the sheet goes in, two lines loop around each other, the fall into the halftone) and `loop` (the three choruses). Next: `screens`, `fit`, `overlay`, `marks`, `recognize`, `register`, `meet`, `interval`.
+All scenes of the treatment are built (first versions): `hold`, `screens`, `fit`, `overlay` ×2, `loop` ×3, `marks`, `recognize`, `register`, `meet`, `interval`. Shared motifs: `_fit.ts` (the chart), `_glyph.ts` (the loop glyph), `_pen.ts`, `_karaoke.ts`.
 
 ### Preview
 
@@ -53,7 +53,7 @@ It runs in GitHub Actions (**align lyrics**), because the model downloads are bl
 ## Next steps
 
 1. Spot-check `data/lyrics.json` by ear, especially the words flagged `matched: false` and the new post-chorus line ("You learn from me, I learn from you" is as Whisper heard it).
-2. Build the remaining scenes (see Renderer), then render the whole song with `--samples auto`.
+2. Watch a full render (**render final**) and note what to change per scene.
 3. Decide on the open treatment questions that the aligned timing raised: the `press` intro has no instrumental to live in (merged into `hold`), the post-chorus has no scene of its own yet (it runs inside `loop`), and the bass drop comes as chorus 3 begins rather than on "meet".
 
 ## Credits

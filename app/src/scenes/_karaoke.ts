@@ -22,8 +22,8 @@ export function voiceOf(line: Line, wi: number): Voice {
   const k = ks[wi]!;
   if (ks[0] === 'different' && ks[1] === 'minds' && wi < 2) return 'split';
   if (k === 'learning' && ks[wi - 1] === 'same') return 'both';
-  // the answer's "too" (I do too / I can too / and I can too) is shared
-  if (k === 'too' && ks.includes('i')) return 'both';
+  // the answer's closing "too" (I do too / I can too / and I can too) is shared
+  if (k === 'too' && wi === ks.length - 1 && ks.includes('i')) return 'both';
   if (RED.has(k)) return 'red';
   if (BLUE.has(k)) return 'blue';
   if (BOTH.has(k)) return 'both';
@@ -136,3 +136,28 @@ export function drawSetLine(c: CanvasRenderingContext2D, sl: SetLine, x: number,
 
 /** Seconds from the line's first word to fully sung, and whether t is inside the line. */
 export const lineSpan = (l: Line) => [l.words[0]!.start, l.words[l.words.length - 1]!.end] as const;
+
+/** The line on screen at t: the last one whose pencil sketch has appeared (`ant` s before its first word). */
+export function currentLine(lines: Line[], t: number, ant = 0.4): Line | undefined {
+  let cur: Line | undefined;
+  for (const l of lines) if (t >= l.words[0]!.start - ant) cur = l;
+  return cur;
+}
+
+/** Find a line by its opening words (lyric text as typeset, curly quotes). */
+export const lineStarting = (lines: Line[], text: string, nth = 0) => lines.filter((l) => l.text.toLowerCase().startsWith(text.toLowerCase()))[nth];
+
+/** Find a word in a line by its key (lower-case letters), the nth occurrence. */
+export const wordIn = (l: Line | undefined, w: string, nth = 0) => l?.words.filter((x) => key(x.w) === w)[nth];
+
+/** Per-char [start, end] times for a phrase from its words (chars of a word spread over the word, spaces instant). */
+export function charTimes(text: string, words: Word[]): [number, number][] {
+  const out: [number, number][] = [];
+  const toks = text.split(' ');
+  toks.forEach((tok, i) => {
+    const w = words[i] ?? words[words.length - 1]!;
+    for (let j = 0; j < tok.length; j++) out.push([w.start + ((w.end - w.start) * j) / tok.length, w.start + ((w.end - w.start) * (j + 1)) / tok.length]);
+    if (i < toks.length - 1) out.push([w.end, w.end]);
+  });
+  return out;
+}

@@ -109,7 +109,8 @@ export class Post {
         cr = mix(cr, screened(cr, p, radians(15.0)), screen);
         cb = mix(cb, screened(cb, p, radians(75.0)), screen);
         // ink density varies a little across the sheet (uneven inking)
-        float inkVar = 1.0 - 0.06 * fibre * (snoise(p * 0.008 + 5.0) * 0.5 + 0.5);
+        // (damped under a flood: on a fully inked sheet the variation reads as blotches)
+        float inkVar = 1.0 - 0.06 * fibre * (1.0 - 0.8 * flood) * (snoise(p * 0.008 + 5.0) * 0.5 + 0.5);
         cr *= inkVar; cb *= inkVar;
         // paper: mottling, fibre, roller streak
         float st = streak * exp(-pow((p.y - res.y * 0.62 + 30.0 * snoise(vec2(p.x * 0.002, 3.0))) / 46.0, 2.0));

@@ -17,7 +17,7 @@ import type { Line, Word } from '../engine/lyrics';
 import { F, font } from '../engine/type';
 import { strokeText, drawStrokeText, writtenLength, type StrokeText } from '../engine/stroke';
 import { clamp, ease, lerp, prog, smoothstep, mulberry32, type V2 } from '../engine/util';
-import { setLine, drawSetLine, key, type SetLine } from './_karaoke';
+import { setLine, drawSetLine, key, charTimes, type SetLine } from './_karaoke';
 import { makeStroke, resample, tremor, arc, drawPen, drawPlotter, type Stroke } from './_pen';
 
 const STATIONS = ['guess', 'world', 'error', 'update'];
@@ -386,16 +386,4 @@ function bez(a: V2, m: V2, b: V2, n = 40): V2[] {
     const u = i / n, v = 1 - u;
     return { x: v * v * a.x + 2 * v * u * m.x + u * u * b.x, y: v * v * a.y + 2 * v * u * m.y + u * u * b.y };
   });
-}
-
-/** Per-char [start, end] times for a phrase from its words (chars of a word spread over the word, spaces instant). */
-function charTimes(text: string, words: Word[]): [number, number][] {
-  const out: [number, number][] = [];
-  const toks = text.split(' ');
-  toks.forEach((tok, i) => {
-    const w = words[i] ?? words[words.length - 1]!;
-    for (let j = 0; j < tok.length; j++) out.push([w.start + ((w.end - w.start) * j) / tok.length, w.start + ((w.end - w.start) * (j + 1)) / tok.length]);
-    if (i < toks.length - 1) out.push([w.end, w.end]);
-  });
-  return out;
 }
