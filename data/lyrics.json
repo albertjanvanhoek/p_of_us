@@ -1,0 +1,6590 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "section": "verse1",
+   "start": 0.0,
+   "end": 2.32,
+   "text": "I hold you by the hand",
+   "words": [
+    {
+     "w": "I",
+     "start": 0.0,
+     "end": 0.82,
+     "conf": 0.592,
+     "matched": true,
+     "heard": "I"
+    },
+    {
+     "w": "hold",
+     "start": 0.82,
+     "end": 1.08,
+     "conf": 0.912,
+     "matched": true,
+     "heard": "hold"
+    },
+    {
+     "w": "you",
+     "start": 1.08,
+     "end": 1.28,
+     "conf": 0.996,
+     "matched": true,
+     "heard": "you"
+    },
+    {
+     "w": "by",
+     "start": 1.28,
+     "end": 1.58,
+     "conf": 0.996,
+     "matched": true,
+     "heard": "by"
+    },
+    {
+     "w": "the",
+     "start": 1.58,
+     "end": 1.76,
+     "conf": 0.995,
+     "matched": true,
+     "heard": "the"
+    },
+    {
+     "w": "hand",
+     "start": 1.76,
+     "end": 2.32,
+     "conf": 0.988,
+     "matched": true,
+     "heard": "hand"
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "section": "verse1",
+   "start": 2.32,
+   "end": 6.4,
+   "text": "We tumble down to wonderland",
+   "words": [
+    {
+     "w": "We",
+     "start": 2.32,
+     "end": 4.08,
+     "conf": 0.641,
+     "matched": true,
+     "heard": "We"
+    },
+    {
+     "w": "tumble",
+     "start": 4.08,
+     "end": 4.48,
+     "conf": 0.93,
+     "matched": true,
+     "heard": "tumble"
+    },
+    {
+     "w": "down",
+     "start": 4.48,
+     "end": 4.88,
+     "conf": 0.999,
+     "matched": true,
+     "heard": "down"
+    },
+    {
+     "w": "to",
+     "start": 4.88,
+     "end": 5.16,
+     "conf": 0.988,
+     "matched": true,
+     "heard": "to"
+    },
+    {
+     "w": "wonderland",
+     "start": 5.16,
+     "end": 6.4,
+     "conf": 0.794,
+     "matched": true,
+     "heard": "wonderland"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "section": "verse1",
+   "start": 7.0,
+   "end": 10.02,
+   "text": "I look you in the eye",
+   "words": [
+    {
+     "w": "I",
+     "start": 7.0,
+     "end": 7.96,
+     "conf": 0.893,
+     "matched": true,
+     "heard": "I"
+    },
+    {
+     "w": "look",
+     "start": 7.96,
+     "end": 8.24,
+     "conf": 0.982,
+     "matched": true,
+     "heard": "look"
+    },
+    {
+     "w": "you",
+     "start": 8.24,
+     "end": 8.5,
+     "conf": 0.997,
+     "matched": true,
+     "heard": "you"
+    },
+    {
+     "w": "in",
+     "start": 8.5,
+     "end": 8.74,
+     "conf": 0.996,
+     "matched": true,
+     "heard": "in"
+    },
+    {
+     "w": "the",
+     "start": 8.74,
+     "end": 9.26,
+     "conf": 0.999,
+     "matched": true,
+     "heard": "the"
+    },
+    {
+     "w": "eye",
+     "start": 9.26,
+     "end": 10.02,
+     "conf": 0.99,
+     "matched": true,
+     "heard": "eye"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "section": "verse1",
+   "start": 10.02,
+   "end": 13.56,
+   "text": "And see a little of myself inside",
+   "words": [
+    {
+     "w": "And",
+     "start": 10.02,
+     "end": 10.34,
+     "conf": 0.44,
+     "matched": true,
+     "heard": "And"
+    },
+    {
+     "w": "see",
+     "start": 10.34,
+     "end": 10.9,
+     "conf": 0.988,
+     "matched": true,
+     "heard": "see"
+    },
+    {
+     "w": "a",
+     "start": 10.9,
+     "end": 11.4,
+     "conf": 0.964,
+     "matched": true,
+     "heard": "a"
+    },
+    {
+     "w": "little",
+     "start": 11.4,
+     "end": 11.76,
+     "conf": 0.996,
+     "matched": true,
+     "heard": "little"
+    },
+    {
+     "w": "of",
+     "start": 11.76,
+     "end": 12.08,
+     "conf": 0.989,
+     "matched": true,
+     "heard": "of"
+    },
+    {
+     "w": "myself",
+     "start": 12.08,
+     "end": 12.5,
+     "conf": 0.988,
+     "matched": true,
+     "heard": "myself"
+    },
+    {
+     "w": "inside",
+     "start": 12.5,
+     "end": 13.56,
+     "conf": 0.981,
+     "matched": true,
+     "heard": "inside"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "section": "verse1",
+   "start": 15.34,
+   "end": 17.44,
+   "text": "We are both unsure",
+   "words": [
+    {
+     "w": "We",
+     "start": 15.34,
+     "end": 16.14,
+     "conf": 0.972,
+     "matched": true,
+     "heard": "We"
+    },
+    {
+     "w": "are",
+     "start": 16.14,
+     "end": 16.54,
+     "conf": 0.992,
+     "matched": true,
+     "heard": "are"
+    },
+    {
+     "w": "both",
+     "start": 16.54,
+     "end": 16.84,
+     "conf": 0.999,
+     "matched": true,
+     "heard": "both"
+    },
+    {
+     "w": "unsure",
+     "start": 16.84,
+     "end": 17.44,
+     "conf": 0.965,
+     "matched": true,
+     "heard": "unsure"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "section": "verse1",
+   "start": 17.44,
+   "end": 21.44,
+   "text": "About the certainty we feel",
+   "words": [
+    {
+     "w": "About",
+     "start": 17.44,
+     "end": 19.56,
+     "conf": 0.915,
+     "matched": true,
+     "heard": "About"
+    },
+    {
+     "w": "the",
+     "start": 19.56,
+     "end": 19.8,
+     "conf": 0.996,
+     "matched": true,
+     "heard": "the"
+    },
+    {
+     "w": "certainty",
+     "start": 19.8,
+     "end": 20.44,
+     "conf": 0.993,
+     "matched": true,
+     "heard": "certainty"
+    },
+    {
+     "w": "we",
+     "start": 20.44,
+     "end": 20.84,
+     "conf": 0.99,
+     "matched": true,
+     "heard": "we"
+    },
+    {
+     "w": "feel",
+     "start": 20.84,
+     "end": 21.44,
+     "conf": 0.953,
+     "matched": true,
+     "heard": "feel"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "section": "verse1",
+   "start": 22.56,
+   "end": 25.82,
+   "text": "You build a model of the world",
+   "words": [
+    {
+     "w": "You",
+     "start": 22.56,
+     "end": 23.1,
+     "conf": 0.147,
+     "matched": true,
+     "heard": "You"
+    },
+    {
+     "w": "build",
+     "start": 23.1,
+     "end": 23.48,
+     "conf": 0.414,
+     "matched": true,
+     "heard": "build"
+    },
+    {
+     "w": "a",
+     "start": 23.48,
+     "end": 23.72,
+     "conf": 0.871,
+     "matched": true,
+     "heard": "a"
+    },
+    {
+     "w": "model",
+     "start": 23.72,
+     "end": 24.12,
+     "conf": 0.91,
+     "matched": true,
+     "heard": "model"
+    },
+    {
+     "w": "of",
+     "start": 24.12,
+     "end": 24.44,
+     "conf": 0.962,
+     "matched": true,
+     "heard": "of"
+    },
+    {
+     "w": "the",
+     "start": 24.44,
+     "end": 24.68,
+     "conf": 0.986,
+     "matched": true,
+     "heard": "the"
+    },
+    {
+     "w": "world",
+     "start": 24.68,
+     "end": 25.82,
+     "conf": 0.938,
+     "matched": true,
+     "heard": "world"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "section": "verse1",
+   "start": 25.82,
+   "end": 28.98,
+   "text": "And so do I",
+   "words": [
+    {
+     "w": "And",
+     "start": 25.82,
+     "end": 27.44,
+     "conf": 0.22,
+     "matched": true,
+     "heard": "And"
+    },
+    {
+     "w": "so",
+     "start": 27.44,
+     "end": 27.84,
+     "conf": 0.99,
+     "matched": true,
+     "heard": "so"
+    },
+    {
+     "w": "do",
+     "start": 27.84,
+     "end": 28.24,
+     "conf": 0.981,
+     "matched": true,
+     "heard": "do"
+    },
+    {
+     "w": "I",
+     "start": 28.24,
+     "end": 28.98,
+     "conf": 0.979,
+     "matched": true,
+     "heard": "I"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "section": "verse1",
+   "start": 30.18,
+   "end": 32.42,
+   "text": "You make a guess, you get it wrong",
+   "words": [
+    {
+     "w": "You",
+     "start": 30.18,
+     "end": 30.72,
+     "conf": 0.787,
+     "matched": true,
+     "heard": "You"
+    },
+    {
+     "w": "make",
+     "start": 30.72,
+     "end": 31.02,
+     "conf": 0.992,
+     "matched": true,
+     "heard": "make"
+    },
+    {
+     "w": "a",
+     "start": 31.02,
+     "end": 31.28,
+     "conf": 0.98,
+     "matched": true,
+     "heard": "a"
+    },
+    {
+     "w": "guess,",
+     "start": 31.28,
+     "end": 31.5,
+     "conf": 0.982,
+     "matched": true,
+     "heard": "guess,"
+    },
+    {
+     "w": "you",
+     "start": 31.72,
+     "end": 31.72,
+     "conf": 0.98,
+     "matched": true,
+     "heard": "you"
+    },
+    {
+     "w": "get",
+     "start": 31.72,
+     "end": 32.02,
+     "conf": 0.971,
+     "matched": true,
+     "heard": "get"
+    },
+    {
+     "w": "it",
+     "start": 32.02,
+     "end": 32.24,
+     "conf": 0.994,
+     "matched": true,
+     "heard": "it"
+    },
+    {
+     "w": "wrong",
+     "start": 32.24,
+     "end": 32.42,
+     "conf": 0.997,
+     "matched": true,
+     "heard": "wrong"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "section": "verse1",
+   "start": 32.593,
+   "end": 34.36,
+   "text": "I can believe too hard, too long",
+   "words": [
+    {
+     "w": "I",
+     "start": 32.593,
+     "end": 32.767,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "can",
+     "start": 32.767,
+     "end": 32.94,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "believe",
+     "start": 32.94,
+     "end": 33.32,
+     "conf": 0.979,
+     "matched": true,
+     "heard": "belief"
+    },
+    {
+     "w": "too",
+     "start": 33.32,
+     "end": 33.56,
+     "conf": 0.48,
+     "matched": true,
+     "heard": "too"
+    },
+    {
+     "w": "hard,",
+     "start": 33.56,
+     "end": 33.82,
+     "conf": 0.996,
+     "matched": true,
+     "heard": "hard,"
+    },
+    {
+     "w": "too",
+     "start": 33.84,
+     "end": 34.06,
+     "conf": 0.966,
+     "matched": true,
+     "heard": "too"
+    },
+    {
+     "w": "long",
+     "start": 34.06,
+     "end": 34.36,
+     "conf": 0.966,
+     "matched": true,
+     "heard": "long"
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "section": "verse1",
+   "start": 34.36,
+   "end": 36.42,
+   "text": "Something new comes into view",
+   "words": [
+    {
+     "w": "Something",
+     "start": 34.36,
+     "end": 34.94,
+     "conf": 0.794,
+     "matched": true,
+     "heard": "Something"
+    },
+    {
+     "w": "new",
+     "start": 34.94,
+     "end": 35.26,
+     "conf": 0.977,
+     "matched": true,
+     "heard": "new"
+    },
+    {
+     "w": "comes",
+     "start": 35.26,
+     "end": 35.54,
+     "conf": 0.989,
+     "matched": true,
+     "heard": "comes"
+    },
+    {
+     "w": "into",
+     "start": 35.54,
+     "end": 35.92,
+     "conf": 0.968,
+     "matched": true,
+     "heard": "into"
+    },
+    {
+     "w": "view",
+     "start": 35.92,
+     "end": 36.42,
+     "conf": 0.968,
+     "matched": true,
+     "heard": "view"
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "section": "verse1",
+   "start": 36.55,
+   "end": 38.14,
+   "text": "You can change — and I can too",
+   "words": [
+    {
+     "w": "You",
+     "start": 36.55,
+     "end": 36.68,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "can",
+     "start": 36.68,
+     "end": 36.84,
+     "conf": 0.947,
+     "matched": true,
+     "heard": "can"
+    },
+    {
+     "w": "change",
+     "start": 36.84,
+     "end": 37.28,
+     "conf": 0.998,
+     "matched": true,
+     "heard": "change"
+    },
+    {
+     "w": "—",
+     "start": 37.28,
+     "end": 37.28,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "and",
+     "start": 37.28,
+     "end": 37.46,
+     "conf": 0.799,
+     "matched": true,
+     "heard": "and"
+    },
+    {
+     "w": "I",
+     "start": 37.46,
+     "end": 37.6,
+     "conf": 0.916,
+     "matched": true,
+     "heard": "I"
+    },
+    {
+     "w": "can",
+     "start": 37.6,
+     "end": 37.84,
+     "conf": 0.967,
+     "matched": true,
+     "heard": "can"
+    },
+    {
+     "w": "too",
+     "start": 37.84,
+     "end": 38.14,
+     "conf": 0.852,
+     "matched": true,
+     "heard": "too"
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "section": "pre1",
+   "start": 38.14,
+   "end": 39.7,
+   "text": "Bring what you know",
+   "words": [
+    {
+     "w": "Bring",
+     "start": 38.14,
+     "end": 38.76,
+     "conf": 0.939,
+     "matched": true,
+     "heard": "Bring"
+    },
+    {
+     "w": "what",
+     "start": 38.76,
+     "end": 39.02,
+     "conf": 0.997,
+     "matched": true,
+     "heard": "what"
+    },
+    {
+     "w": "you",
+     "start": 39.02,
+     "end": 39.24,
+     "conf": 0.992,
+     "matched": true,
+     "heard": "you"
+    },
+    {
+     "w": "know",
+     "start": 39.24,
+     "end": 39.7,
+     "conf": 0.997,
+     "matched": true,
+     "heard": "know,"
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "section": "pre1",
+   "start": 39.84,
+   "end": 40.48,
+   "text": "I'll bring mine",
+   "words": [
+    {
+     "w": "I'll",
+     "start": 39.84,
+     "end": 39.98,
+     "conf": 0.937,
+     "matched": true,
+     "heard": "I'll"
+    },
+    {
+     "w": "bring",
+     "start": 40.02,
+     "end": 40.06,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "mine",
+     "start": 40.06,
+     "end": 40.48,
+     "conf": 0.993,
+     "matched": true,
+     "heard": "mine"
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "section": "pre1",
+   "start": 40.48,
+   "end": 42.3,
+   "text": "Put both models on the line",
+   "words": [
+    {
+     "w": "Put",
+     "start": 40.48,
+     "end": 40.88,
+     "conf": 0.693,
+     "matched": true,
+     "heard": "Put"
+    },
+    {
+     "w": "both",
+     "start": 40.88,
+     "end": 41.1,
+     "conf": 0.817,
+     "matched": true,
+     "heard": "both"
+    },
+    {
+     "w": "models",
+     "start": 41.1,
+     "end": 41.56,
+     "conf": 0.869,
+     "matched": true,
+     "heard": "models"
+    },
+    {
+     "w": "on",
+     "start": 41.56,
+     "end": 41.82,
+     "conf": 0.996,
+     "matched": true,
+     "heard": "on"
+    },
+    {
+     "w": "the",
+     "start": 41.82,
+     "end": 42.02,
+     "conf": 0.985,
+     "matched": true,
+     "heard": "the"
+    },
+    {
+     "w": "line",
+     "start": 42.02,
+     "end": 42.3,
+     "conf": 0.995,
+     "matched": true,
+     "heard": "line"
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "section": "pre1",
+   "start": 42.3,
+   "end": 44.72,
+   "text": "If they clash, then something moves",
+   "words": [
+    {
+     "w": "If",
+     "start": 42.3,
+     "end": 42.5,
+     "conf": 0.768,
+     "matched": true,
+     "heard": "If"
+    },
+    {
+     "w": "they",
+     "start": 42.54,
+     "end": 42.58,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "clash,",
+     "start": 42.58,
+     "end": 42.76,
+     "conf": 0.531,
+     "matched": true,
+     "heard": "catch"
+    },
+    {
+     "w": "then",
+     "start": 42.76,
+     "end": 43.0,
+     "conf": 0.329,
+     "matched": true,
+     "heard": "then"
+    },
+    {
+     "w": "something",
+     "start": 43.0,
+     "end": 43.42,
+     "conf": 0.985,
+     "matched": true,
+     "heard": "something"
+    },
+    {
+     "w": "moves",
+     "start": 43.42,
+     "end": 44.72,
+     "conf": 0.994,
+     "matched": true,
+     "heard": "moves"
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "section": "pre1",
+   "start": 44.72,
+   "end": 47.34,
+   "text": "That's how either one improves",
+   "words": [
+    {
+     "w": "That's",
+     "start": 44.72,
+     "end": 45.66,
+     "conf": 0.955,
+     "matched": true,
+     "heard": "That's"
+    },
+    {
+     "w": "how",
+     "start": 45.66,
+     "end": 45.86,
+     "conf": 0.998,
+     "matched": true,
+     "heard": "how"
+    },
+    {
+     "w": "either",
+     "start": 46.08,
+     "end": 46.3,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "one",
+     "start": 46.3,
+     "end": 46.6,
+     "conf": 0.274,
+     "matched": true,
+     "heard": "on"
+    },
+    {
+     "w": "improves",
+     "start": 46.78,
+     "end": 47.34,
+     "conf": 0.985,
+     "matched": true,
+     "heard": "prove"
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "section": "chorus1",
+   "start": 47.34,
+   "end": 49.6,
+   "text": "Different minds, same learning loop",
+   "words": [
+    {
+     "w": "Different",
+     "start": 47.34,
+     "end": 48.06,
+     "conf": 0.25,
+     "matched": true,
+     "heard": "Different"
+    },
+    {
+     "w": "minds,",
+     "start": 48.06,
+     "end": 48.48,
+     "conf": 0.788,
+     "matched": true,
+     "heard": "minds"
+    },
+    {
+     "w": "same",
+     "start": 48.78,
+     "end": 49.08,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "learning",
+     "start": 49.08,
+     "end": 49.6,
+     "conf": 0.845,
+     "matched": true,
+     "heard": "learning"
+    },
+    {
+     "w": "loop",
+     "start": 49.6,
+     "end": 49.6,
+     "conf": 0.0,
+     "matched": false
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "section": "chorus1",
+   "start": 49.6,
+   "end": 54.28,
+   "text": "You change me, I can change you too",
+   "words": [
+    {
+     "w": "You",
+     "start": 49.6,
+     "end": 50.54,
+     "conf": 0.077,
+     "matched": true,
+     "heard": "You"
+    },
+    {
+     "w": "change",
+     "start": 50.54,
+     "end": 51.6,
+     "conf": 0.686,
+     "matched": true,
+     "heard": "change"
+    },
+    {
+     "w": "me,",
+     "start": 51.6,
+     "end": 51.92,
+     "conf": 0.991,
+     "matched": true,
+     "heard": "me,"
+    },
+    {
+     "w": "I",
+     "start": 52.3,
+     "end": 52.3,
+     "conf": 0.987,
+     "matched": true,
+     "heard": "I"
+    },
+    {
+     "w": "can",
+     "start": 52.3,
+     "end": 52.6,
+     "conf": 0.99,
+     "matched": true,
+     "heard": "can"
+    },
+    {
+     "w": "change",
+     "start": 52.6,
+     "end": 53.28,
+     "conf": 0.887,
+     "matched": true,
+     "heard": "change"
+    },
+    {
+     "w": "you",
+     "start": 53.28,
+     "end": 53.6,
+     "conf": 0.868,
+     "matched": true,
+     "heard": "you"
+    },
+    {
+     "w": "too",
+     "start": 53.6,
+     "end": 54.28,
+     "conf": 0.38,
+     "matched": true,
+     "heard": "too"
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "section": "chorus1",
+   "start": 54.28,
+   "end": 57.54,
+   "text": "Neurons here and weights in you",
+   "words": [
+    {
+     "w": "Neurons",
+     "start": 54.28,
+     "end": 55.46,
+     "conf": 0.086,
+     "matched": true,
+     "heard": "neurons"
+    },
+    {
+     "w": "here",
+     "start": 55.46,
+     "end": 56.06,
+     "conf": 0.671,
+     "matched": true,
+     "heard": "here"
+    },
+    {
+     "w": "and",
+     "start": 56.06,
+     "end": 56.38,
+     "conf": 0.455,
+     "matched": true,
+     "heard": "and"
+    },
+    {
+     "w": "weights",
+     "start": 56.38,
+     "end": 56.74,
+     "conf": 0.664,
+     "matched": true,
+     "heard": "weights"
+    },
+    {
+     "w": "in",
+     "start": 56.74,
+     "end": 57.2,
+     "conf": 0.974,
+     "matched": true,
+     "heard": "in"
+    },
+    {
+     "w": "you",
+     "start": 57.2,
+     "end": 57.54,
+     "conf": 0.98,
+     "matched": true,
+     "heard": "you"
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "section": "chorus1",
+   "start": 57.54,
+   "end": 60.52,
+   "text": "Different ways of getting closer to true",
+   "words": [
+    {
+     "w": "Different",
+     "start": 57.54,
+     "end": 58.08,
+     "conf": 0.612,
+     "matched": true,
+     "heard": "Different"
+    },
+    {
+     "w": "ways",
+     "start": 58.08,
+     "end": 58.6,
+     "conf": 0.99,
+     "matched": true,
+     "heard": "ways"
+    },
+    {
+     "w": "of",
+     "start": 58.6,
+     "end": 58.84,
+     "conf": 0.98,
+     "matched": true,
+     "heard": "of"
+    },
+    {
+     "w": "getting",
+     "start": 58.84,
+     "end": 59.22,
+     "conf": 0.994,
+     "matched": true,
+     "heard": "getting"
+    },
+    {
+     "w": "closer",
+     "start": 59.22,
+     "end": 59.66,
+     "conf": 0.93,
+     "matched": true,
+     "heard": "closer"
+    },
+    {
+     "w": "to",
+     "start": 59.66,
+     "end": 60.2,
+     "conf": 0.507,
+     "matched": true,
+     "heard": "to"
+    },
+    {
+     "w": "true",
+     "start": 60.36,
+     "end": 60.52,
+     "conf": 0.0,
+     "matched": false
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "section": "chorus1",
+   "start": 60.52,
+   "end": 63.54,
+   "text": "We weigh the doom — but count this too:",
+   "words": [
+    {
+     "w": "We",
+     "start": 60.52,
+     "end": 60.68,
+     "conf": 0.776,
+     "matched": true,
+     "heard": "We"
+    },
+    {
+     "w": "weigh",
+     "start": 60.68,
+     "end": 60.96,
+     "conf": 0.872,
+     "matched": true,
+     "heard": "weigh"
+    },
+    {
+     "w": "the",
+     "start": 60.96,
+     "end": 61.16,
+     "conf": 0.988,
+     "matched": true,
+     "heard": "the"
+    },
+    {
+     "w": "doom",
+     "start": 61.16,
+     "end": 61.38,
+     "conf": 0.567,
+     "matched": true,
+     "heard": "doom"
+    },
+    {
+     "w": "—",
+     "start": 61.38,
+     "end": 61.38,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "but",
+     "start": 61.38,
+     "end": 61.6,
+     "conf": 0.747,
+     "matched": true,
+     "heard": "but"
+    },
+    {
+     "w": "count",
+     "start": 61.6,
+     "end": 61.86,
+     "conf": 0.901,
+     "matched": true,
+     "heard": "count"
+    },
+    {
+     "w": "this",
+     "start": 61.86,
+     "end": 62.1,
+     "conf": 0.707,
+     "matched": true,
+     "heard": "this"
+    },
+    {
+     "w": "too:",
+     "start": 62.1,
+     "end": 63.54,
+     "conf": 0.872,
+     "matched": true,
+     "heard": "too"
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "section": "chorus1",
+   "start": 77.58,
+   "end": 79.58,
+   "text": "P-of-us",
+   "words": [
+    {
+     "w": "P-of-us",
+     "start": 77.58,
+     "end": 79.58,
+     "conf": 0.0,
+     "matched": true,
+     "heard": "P of us,"
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "section": "chorus1",
+   "start": 79.72,
+   "end": 80.66,
+   "text": "Me learning you",
+   "words": [
+    {
+     "w": "Me",
+     "start": 79.72,
+     "end": 79.74,
+     "conf": 0.323,
+     "matched": true,
+     "heard": "me"
+    },
+    {
+     "w": "learning",
+     "start": 79.74,
+     "end": 80.18,
+     "conf": 0.438,
+     "matched": true,
+     "heard": "learning"
+    },
+    {
+     "w": "you",
+     "start": 80.18,
+     "end": 80.66,
+     "conf": 0.537,
+     "matched": true,
+     "heard": "you"
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "section": "verse2",
+   "start": 80.66,
+   "end": 82.94,
+   "text": "I have a body, skin and breath",
+   "words": [
+    {
+     "w": "I",
+     "start": 80.66,
+     "end": 81.08,
+     "conf": 0.768,
+     "matched": true,
+     "heard": "I"
+    },
+    {
+     "w": "have",
+     "start": 81.08,
+     "end": 81.4,
+     "conf": 0.987,
+     "matched": true,
+     "heard": "have"
+    },
+    {
+     "w": "a",
+     "start": 81.4,
+     "end": 81.62,
+     "conf": 0.966,
+     "matched": true,
+     "heard": "a"
+    },
+    {
+     "w": "body,",
+     "start": 81.62,
+     "end": 81.98,
+     "conf": 0.979,
+     "matched": true,
+     "heard": "body,"
+    },
+    {
+     "w": "skin",
+     "start": 82.12,
+     "end": 82.26,
+     "conf": 0.997,
+     "matched": true,
+     "heard": "skin"
+    },
+    {
+     "w": "and",
+     "start": 82.26,
+     "end": 82.54,
+     "conf": 0.693,
+     "matched": true,
+     "heard": "and"
+    },
+    {
+     "w": "breath",
+     "start": 82.54,
+     "end": 82.94,
+     "conf": 0.943,
+     "matched": true,
+     "heard": "breath"
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "section": "verse2",
+   "start": 82.94,
+   "end": 86.58,
+   "text": "A childhood, memory, fear and depth",
+   "words": [
+    {
+     "w": "A",
+     "start": 82.94,
+     "end": 83.86,
+     "conf": 0.795,
+     "matched": true,
+     "heard": "A"
+    },
+    {
+     "w": "childhood,",
+     "start": 83.86,
+     "end": 84.54,
+     "conf": 0.99,
+     "matched": true,
+     "heard": "childhood"
+    },
+    {
+     "w": "memory,",
+     "start": 84.54,
+     "end": 85.48,
+     "conf": 0.95,
+     "matched": true,
+     "heard": "memory,"
+    },
+    {
+     "w": "fear",
+     "start": 85.8,
+     "end": 85.98,
+     "conf": 0.963,
+     "matched": true,
+     "heard": "fear"
+    },
+    {
+     "w": "and",
+     "start": 85.98,
+     "end": 86.28,
+     "conf": 0.904,
+     "matched": true,
+     "heard": "and"
+    },
+    {
+     "w": "depth",
+     "start": 86.28,
+     "end": 86.58,
+     "conf": 0.389,
+     "matched": true,
+     "heard": "death"
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "section": "verse2",
+   "start": 86.58,
+   "end": 89.16,
+   "text": "You have a training history",
+   "words": [
+    {
+     "w": "You",
+     "start": 86.58,
+     "end": 87.08,
+     "conf": 0.973,
+     "matched": true,
+     "heard": "You"
+    },
+    {
+     "w": "have",
+     "start": 87.08,
+     "end": 87.4,
+     "conf": 0.997,
+     "matched": true,
+     "heard": "have"
+    },
+    {
+     "w": "a",
+     "start": 87.4,
+     "end": 87.68,
+     "conf": 0.974,
+     "matched": true,
+     "heard": "a"
+    },
+    {
+     "w": "training",
+     "start": 87.68,
+     "end": 87.92,
+     "conf": 0.473,
+     "matched": true,
+     "heard": "training"
+    },
+    {
+     "w": "history",
+     "start": 87.92,
+     "end": 89.16,
+     "conf": 0.976,
+     "matched": true,
+     "heard": "history"
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "section": "verse2",
+   "start": 89.16,
+   "end": 93.1,
+   "text": "A different kind of memory",
+   "words": [
+    {
+     "w": "A",
+     "start": 89.16,
+     "end": 90.22,
+     "conf": 0.609,
+     "matched": true,
+     "heard": "A"
+    },
+    {
+     "w": "different",
+     "start": 90.22,
+     "end": 91.2,
+     "conf": 0.779,
+     "matched": true,
+     "heard": "different"
+    },
+    {
+     "w": "kind",
+     "start": 91.2,
+     "end": 91.56,
+     "conf": 0.967,
+     "matched": true,
+     "heard": "kind"
+    },
+    {
+     "w": "of",
+     "start": 91.56,
+     "end": 91.84,
+     "conf": 0.995,
+     "matched": true,
+     "heard": "of"
+    },
+    {
+     "w": "memory",
+     "start": 91.84,
+     "end": 93.1,
+     "conf": 0.993,
+     "matched": true,
+     "heard": "memory"
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "section": "verse2",
+   "start": 93.94,
+   "end": 96.14,
+   "text": "I won't pretend our inner lives",
+   "words": [
+    {
+     "w": "I",
+     "start": 93.94,
+     "end": 94.58,
+     "conf": 0.913,
+     "matched": true,
+     "heard": "I"
+    },
+    {
+     "w": "won't",
+     "start": 94.58,
+     "end": 94.78,
+     "conf": 0.974,
+     "matched": true,
+     "heard": "won't"
+    },
+    {
+     "w": "pretend",
+     "start": 94.78,
+     "end": 95.24,
+     "conf": 0.999,
+     "matched": true,
+     "heard": "pretend"
+    },
+    {
+     "w": "our",
+     "start": 95.24,
+     "end": 95.48,
+     "conf": 0.774,
+     "matched": true,
+     "heard": "our"
+    },
+    {
+     "w": "inner",
+     "start": 95.48,
+     "end": 95.74,
+     "conf": 0.995,
+     "matched": true,
+     "heard": "inner"
+    },
+    {
+     "w": "lives",
+     "start": 95.74,
+     "end": 96.14,
+     "conf": 0.94,
+     "matched": true,
+     "heard": "lives"
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "section": "verse2",
+   "start": 96.14,
+   "end": 97.94,
+   "text": "Are somehow built the same inside",
+   "words": [
+    {
+     "w": "Are",
+     "start": 96.14,
+     "end": 96.34,
+     "conf": 0.34,
+     "matched": true,
+     "heard": "Are"
+    },
+    {
+     "w": "somehow",
+     "start": 96.34,
+     "end": 96.74,
+     "conf": 0.982,
+     "matched": true,
+     "heard": "somehow"
+    },
+    {
+     "w": "built",
+     "start": 96.74,
+     "end": 97.06,
+     "conf": 0.991,
+     "matched": true,
+     "heard": "built"
+    },
+    {
+     "w": "the",
+     "start": 97.06,
+     "end": 97.26,
+     "conf": 0.833,
+     "matched": true,
+     "heard": "the"
+    },
+    {
+     "w": "same",
+     "start": 97.26,
+     "end": 97.48,
+     "conf": 0.998,
+     "matched": true,
+     "heard": "same"
+    },
+    {
+     "w": "inside",
+     "start": 97.48,
+     "end": 97.94,
+     "conf": 0.994,
+     "matched": true,
+     "heard": "inside"
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "section": "verse2",
+   "start": 97.94,
+   "end": 99.72,
+   "text": "But you can test what you believe",
+   "words": [
+    {
+     "w": "But",
+     "start": 97.94,
+     "end": 98.22,
+     "conf": 0.941,
+     "matched": true,
+     "heard": "But"
+    },
+    {
+     "w": "you",
+     "start": 98.22,
+     "end": 98.4,
+     "conf": 0.989,
+     "matched": true,
+     "heard": "you"
+    },
+    {
+     "w": "can",
+     "start": 98.4,
+     "end": 98.68,
+     "conf": 0.991,
+     "matched": true,
+     "heard": "can"
+    },
+    {
+     "w": "test",
+     "start": 98.68,
+     "end": 98.9,
+     "conf": 0.988,
+     "matched": true,
+     "heard": "test"
+    },
+    {
+     "w": "what",
+     "start": 98.9,
+     "end": 99.12,
+     "conf": 0.976,
+     "matched": true,
+     "heard": "what"
+    },
+    {
+     "w": "you",
+     "start": 99.12,
+     "end": 99.3,
+     "conf": 0.997,
+     "matched": true,
+     "heard": "you"
+    },
+    {
+     "w": "believe",
+     "start": 99.3,
+     "end": 99.72,
+     "conf": 0.998,
+     "matched": true,
+     "heard": "believe"
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "section": "verse2",
+   "start": 99.9,
+   "end": 101.72,
+   "text": "And something new can make you leave",
+   "words": [
+    {
+     "w": "And",
+     "start": 99.9,
+     "end": 100.08,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "something",
+     "start": 100.08,
+     "end": 100.42,
+     "conf": 0.977,
+     "matched": true,
+     "heard": "something"
+    },
+    {
+     "w": "new",
+     "start": 100.58,
+     "end": 100.74,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "can",
+     "start": 100.74,
+     "end": 100.98,
+     "conf": 0.991,
+     "matched": true,
+     "heard": "can"
+    },
+    {
+     "w": "make",
+     "start": 100.98,
+     "end": 101.2,
+     "conf": 0.998,
+     "matched": true,
+     "heard": "make"
+    },
+    {
+     "w": "you",
+     "start": 101.2,
+     "end": 101.46,
+     "conf": 0.994,
+     "matched": true,
+     "heard": "you"
+    },
+    {
+     "w": "leave",
+     "start": 101.46,
+     "end": 101.72,
+     "conf": 0.783,
+     "matched": true,
+     "heard": "leave"
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "section": "verse2",
+   "start": 101.72,
+   "end": 105.14,
+   "text": "An old prediction far behind",
+   "words": [
+    {
+     "w": "An",
+     "start": 101.72,
+     "end": 101.96,
+     "conf": 0.565,
+     "matched": true,
+     "heard": "a"
+    },
+    {
+     "w": "old",
+     "start": 102.13,
+     "end": 102.3,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "prediction",
+     "start": 102.3,
+     "end": 103.26,
+     "conf": 0.981,
+     "matched": true,
+     "heard": "prediction"
+    },
+    {
+     "w": "far",
+     "start": 103.26,
+     "end": 103.92,
+     "conf": 0.793,
+     "matched": true,
+     "heard": "far"
+    },
+    {
+     "w": "behind",
+     "start": 103.92,
+     "end": 105.14,
+     "conf": 0.982,
+     "matched": true,
+     "heard": "behind"
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "section": "verse2",
+   "start": 105.14,
+   "end": 108.92,
+   "text": "So can mine",
+   "words": [
+    {
+     "w": "So",
+     "start": 105.14,
+     "end": 105.8,
+     "conf": 0.467,
+     "matched": true,
+     "heard": "So"
+    },
+    {
+     "w": "can",
+     "start": 105.8,
+     "end": 106.3,
+     "conf": 0.952,
+     "matched": true,
+     "heard": "can"
+    },
+    {
+     "w": "mine",
+     "start": 106.3,
+     "end": 108.92,
+     "conf": 0.902,
+     "matched": true,
+     "heard": "mine"
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "section": "pre2",
+   "start": 108.92,
+   "end": 110.2,
+   "text": "Bring what you know",
+   "words": [
+    {
+     "w": "Bring",
+     "start": 108.92,
+     "end": 109.3,
+     "conf": 0.689,
+     "matched": true,
+     "heard": "Bring"
+    },
+    {
+     "w": "what",
+     "start": 109.3,
+     "end": 109.52,
+     "conf": 0.996,
+     "matched": true,
+     "heard": "what"
+    },
+    {
+     "w": "you",
+     "start": 109.52,
+     "end": 109.76,
+     "conf": 0.983,
+     "matched": true,
+     "heard": "you"
+    },
+    {
+     "w": "know",
+     "start": 109.76,
+     "end": 110.2,
+     "conf": 0.991,
+     "matched": true,
+     "heard": "know,"
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "section": "pre2",
+   "start": 110.32,
+   "end": 110.94,
+   "text": "I'll bring mine",
+   "words": [
+    {
+     "w": "I'll",
+     "start": 110.32,
+     "end": 110.46,
+     "conf": 0.719,
+     "matched": true,
+     "heard": "I'll"
+    },
+    {
+     "w": "bring",
+     "start": 110.5,
+     "end": 110.54,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "mine",
+     "start": 110.54,
+     "end": 110.94,
+     "conf": 0.996,
+     "matched": true,
+     "heard": "mine"
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "section": "pre2",
+   "start": 110.94,
+   "end": 112.76,
+   "text": "Put both models on the line",
+   "words": [
+    {
+     "w": "Put",
+     "start": 110.94,
+     "end": 111.34,
+     "conf": 0.943,
+     "matched": true,
+     "heard": "Put"
+    },
+    {
+     "w": "both",
+     "start": 111.34,
+     "end": 111.58,
+     "conf": 0.981,
+     "matched": true,
+     "heard": "both"
+    },
+    {
+     "w": "models",
+     "start": 111.58,
+     "end": 112.04,
+     "conf": 0.988,
+     "matched": true,
+     "heard": "models"
+    },
+    {
+     "w": "on",
+     "start": 112.04,
+     "end": 112.26,
+     "conf": 0.994,
+     "matched": true,
+     "heard": "on"
+    },
+    {
+     "w": "the",
+     "start": 112.26,
+     "end": 112.48,
+     "conf": 0.977,
+     "matched": true,
+     "heard": "the"
+    },
+    {
+     "w": "line",
+     "start": 112.48,
+     "end": 112.76,
+     "conf": 0.995,
+     "matched": true,
+     "heard": "line"
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "section": "pre2",
+   "start": 112.76,
+   "end": 115.36,
+   "text": "If they clash, then something moves",
+   "words": [
+    {
+     "w": "If",
+     "start": 112.76,
+     "end": 112.9,
+     "conf": 0.593,
+     "matched": true,
+     "heard": "If"
+    },
+    {
+     "w": "they",
+     "start": 112.95,
+     "end": 113.0,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "clash,",
+     "start": 113.0,
+     "end": 113.2,
+     "conf": 0.008,
+     "matched": true,
+     "heard": "catch"
+    },
+    {
+     "w": "then",
+     "start": 113.2,
+     "end": 113.46,
+     "conf": 0.309,
+     "matched": true,
+     "heard": "then"
+    },
+    {
+     "w": "something",
+     "start": 113.46,
+     "end": 113.84,
+     "conf": 0.931,
+     "matched": true,
+     "heard": "something"
+    },
+    {
+     "w": "moves",
+     "start": 113.84,
+     "end": 115.36,
+     "conf": 0.987,
+     "matched": true,
+     "heard": "moves"
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "section": "pre2",
+   "start": 115.36,
+   "end": 117.64,
+   "text": "That's how either one improves",
+   "words": [
+    {
+     "w": "That's",
+     "start": 115.36,
+     "end": 116.04,
+     "conf": 0.942,
+     "matched": true,
+     "heard": "That's"
+    },
+    {
+     "w": "how",
+     "start": 116.04,
+     "end": 116.24,
+     "conf": 0.994,
+     "matched": true,
+     "heard": "how"
+    },
+    {
+     "w": "either",
+     "start": 116.45,
+     "end": 116.66,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "one",
+     "start": 116.66,
+     "end": 117.0,
+     "conf": 0.878,
+     "matched": true,
+     "heard": "on"
+    },
+    {
+     "w": "improves",
+     "start": 117.24,
+     "end": 117.64,
+     "conf": 0.818,
+     "matched": true,
+     "heard": "prove"
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "section": "chorus2",
+   "start": 117.64,
+   "end": 119.88,
+   "text": "Different minds, same learning loop",
+   "words": [
+    {
+     "w": "Different",
+     "start": 117.64,
+     "end": 118.5,
+     "conf": 0.925,
+     "matched": true,
+     "heard": "Different"
+    },
+    {
+     "w": "minds,",
+     "start": 118.5,
+     "end": 118.88,
+     "conf": 0.989,
+     "matched": true,
+     "heard": "minds"
+    },
+    {
+     "w": "same",
+     "start": 119.16,
+     "end": 119.44,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "learning",
+     "start": 119.44,
+     "end": 119.88,
+     "conf": 0.225,
+     "matched": true,
+     "heard": "learning"
+    },
+    {
+     "w": "loop",
+     "start": 119.88,
+     "end": 119.88,
+     "conf": 0.0,
+     "matched": false
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "section": "chorus2",
+   "start": 119.88,
+   "end": 124.4,
+   "text": "You change me, I can change you too",
+   "words": [
+    {
+     "w": "You",
+     "start": 119.88,
+     "end": 120.72,
+     "conf": 0.018,
+     "matched": true,
+     "heard": "You"
+    },
+    {
+     "w": "change",
+     "start": 120.72,
+     "end": 121.98,
+     "conf": 0.833,
+     "matched": true,
+     "heard": "change"
+    },
+    {
+     "w": "me,",
+     "start": 121.98,
+     "end": 122.28,
+     "conf": 0.991,
+     "matched": true,
+     "heard": "me,"
+    },
+    {
+     "w": "I",
+     "start": 122.42,
+     "end": 122.62,
+     "conf": 0.99,
+     "matched": true,
+     "heard": "I"
+    },
+    {
+     "w": "can",
+     "start": 122.62,
+     "end": 122.98,
+     "conf": 0.988,
+     "matched": true,
+     "heard": "can"
+    },
+    {
+     "w": "change",
+     "start": 122.98,
+     "end": 123.6,
+     "conf": 0.364,
+     "matched": true,
+     "heard": "change"
+    },
+    {
+     "w": "you",
+     "start": 123.6,
+     "end": 123.88,
+     "conf": 0.752,
+     "matched": true,
+     "heard": "you"
+    },
+    {
+     "w": "too",
+     "start": 123.88,
+     "end": 124.4,
+     "conf": 0.839,
+     "matched": true,
+     "heard": "too"
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "section": "chorus2",
+   "start": 124.4,
+   "end": 127.78,
+   "text": "Neurons here and weights in you",
+   "words": [
+    {
+     "w": "Neurons",
+     "start": 124.4,
+     "end": 125.86,
+     "conf": 0.752,
+     "matched": true,
+     "heard": "Neurons"
+    },
+    {
+     "w": "here",
+     "start": 125.86,
+     "end": 126.36,
+     "conf": 0.896,
+     "matched": true,
+     "heard": "here"
+    },
+    {
+     "w": "and",
+     "start": 126.36,
+     "end": 126.64,
+     "conf": 0.379,
+     "matched": true,
+     "heard": "and"
+    },
+    {
+     "w": "weights",
+     "start": 126.64,
+     "end": 126.94,
+     "conf": 0.965,
+     "matched": true,
+     "heard": "weights"
+    },
+    {
+     "w": "in",
+     "start": 126.94,
+     "end": 127.5,
+     "conf": 0.992,
+     "matched": true,
+     "heard": "in"
+    },
+    {
+     "w": "you",
+     "start": 127.5,
+     "end": 127.78,
+     "conf": 0.974,
+     "matched": true,
+     "heard": "you"
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "section": "chorus2",
+   "start": 127.78,
+   "end": 130.74,
+   "text": "Different ways of getting closer to true",
+   "words": [
+    {
+     "w": "Different",
+     "start": 127.78,
+     "end": 128.36,
+     "conf": 0.978,
+     "matched": true,
+     "heard": "Different"
+    },
+    {
+     "w": "ways",
+     "start": 128.36,
+     "end": 128.88,
+     "conf": 0.993,
+     "matched": true,
+     "heard": "ways"
+    },
+    {
+     "w": "of",
+     "start": 128.88,
+     "end": 129.12,
+     "conf": 0.98,
+     "matched": true,
+     "heard": "of"
+    },
+    {
+     "w": "getting",
+     "start": 129.12,
+     "end": 129.5,
+     "conf": 0.996,
+     "matched": true,
+     "heard": "getting"
+    },
+    {
+     "w": "closer",
+     "start": 129.5,
+     "end": 129.94,
+     "conf": 0.726,
+     "matched": true,
+     "heard": "closer"
+    },
+    {
+     "w": "to",
+     "start": 129.94,
+     "end": 130.48,
+     "conf": 0.197,
+     "matched": true,
+     "heard": "to"
+    },
+    {
+     "w": "true",
+     "start": 130.61,
+     "end": 130.74,
+     "conf": 0.0,
+     "matched": false
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "section": "chorus2",
+   "start": 130.74,
+   "end": 133.32,
+   "text": "We weigh the doom — but count this too:",
+   "words": [
+    {
+     "w": "We",
+     "start": 130.74,
+     "end": 130.94,
+     "conf": 0.191,
+     "matched": true,
+     "heard": "We"
+    },
+    {
+     "w": "weigh",
+     "start": 130.94,
+     "end": 131.22,
+     "conf": 0.004,
+     "matched": true,
+     "heard": "weigh"
+    },
+    {
+     "w": "the",
+     "start": 131.22,
+     "end": 131.44,
+     "conf": 0.926,
+     "matched": true,
+     "heard": "the"
+    },
+    {
+     "w": "doom",
+     "start": 131.44,
+     "end": 131.64,
+     "conf": 0.473,
+     "matched": true,
+     "heard": "doom"
+    },
+    {
+     "w": "—",
+     "start": 131.64,
+     "end": 131.64,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "but",
+     "start": 131.64,
+     "end": 131.84,
+     "conf": 0.64,
+     "matched": true,
+     "heard": "but"
+    },
+    {
+     "w": "count",
+     "start": 131.84,
+     "end": 132.12,
+     "conf": 0.988,
+     "matched": true,
+     "heard": "count"
+    },
+    {
+     "w": "this",
+     "start": 132.12,
+     "end": 132.4,
+     "conf": 0.381,
+     "matched": true,
+     "heard": "this"
+    },
+    {
+     "w": "too:",
+     "start": 132.4,
+     "end": 133.32,
+     "conf": 0.005,
+     "matched": true,
+     "heard": "too"
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "section": "chorus2",
+   "start": 133.32,
+   "end": 134.88,
+   "text": "P-of-us",
+   "words": [
+    {
+     "w": "P-of-us",
+     "start": 133.32,
+     "end": 134.88,
+     "conf": 0.029,
+     "matched": true,
+     "heard": "P of us,"
+    }
+   ]
+  },
+  {
+   "i": 45,
+   "section": "chorus2",
+   "start": 135.02,
+   "end": 136.16,
+   "text": "Me learning you",
+   "words": [
+    {
+     "w": "Me",
+     "start": 135.02,
+     "end": 135.12,
+     "conf": 0.778,
+     "matched": true,
+     "heard": "me"
+    },
+    {
+     "w": "learning",
+     "start": 135.12,
+     "end": 135.56,
+     "conf": 0.567,
+     "matched": true,
+     "heard": "learning"
+    },
+    {
+     "w": "you",
+     "start": 135.56,
+     "end": 136.16,
+     "conf": 0.824,
+     "matched": true,
+     "heard": "you"
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "section": "bridge",
+   "start": 138.8,
+   "end": 141.1,
+   "text": "That's where I recognize you",
+   "words": [
+    {
+     "w": "That's",
+     "start": 138.8,
+     "end": 139.36,
+     "conf": 0.89,
+     "matched": true,
+     "heard": "That's"
+    },
+    {
+     "w": "where",
+     "start": 139.36,
+     "end": 139.58,
+     "conf": 0.856,
+     "matched": true,
+     "heard": "where"
+    },
+    {
+     "w": "I",
+     "start": 139.58,
+     "end": 139.82,
+     "conf": 0.944,
+     "matched": true,
+     "heard": "I"
+    },
+    {
+     "w": "recognize",
+     "start": 139.82,
+     "end": 140.54,
+     "conf": 0.895,
+     "matched": true,
+     "heard": "recognize"
+    },
+    {
+     "w": "you",
+     "start": 140.54,
+     "end": 141.1,
+     "conf": 0.967,
+     "matched": true,
+     "heard": "you"
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "section": "bridge",
+   "start": 141.1,
+   "end": 142.66,
+   "text": "Not because you're just like me",
+   "words": [
+    {
+     "w": "Not",
+     "start": 141.1,
+     "end": 141.28,
+     "conf": 0.471,
+     "matched": true,
+     "heard": "Not"
+    },
+    {
+     "w": "because",
+     "start": 141.28,
+     "end": 141.56,
+     "conf": 0.871,
+     "matched": true,
+     "heard": "because"
+    },
+    {
+     "w": "you're",
+     "start": 141.56,
+     "end": 141.94,
+     "conf": 0.866,
+     "matched": true,
+     "heard": "you're"
+    },
+    {
+     "w": "just",
+     "start": 141.94,
+     "end": 142.06,
+     "conf": 0.988,
+     "matched": true,
+     "heard": "just"
+    },
+    {
+     "w": "like",
+     "start": 142.06,
+     "end": 142.4,
+     "conf": 0.995,
+     "matched": true,
+     "heard": "like"
+    },
+    {
+     "w": "me",
+     "start": 142.4,
+     "end": 142.66,
+     "conf": 0.997,
+     "matched": true,
+     "heard": "me"
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "section": "bridge",
+   "start": 142.66,
+   "end": 144.64,
+   "text": "Not because we share one feeling",
+   "words": [
+    {
+     "w": "Not",
+     "start": 142.66,
+     "end": 142.84,
+     "conf": 0.868,
+     "matched": true,
+     "heard": "Not"
+    },
+    {
+     "w": "because",
+     "start": 142.84,
+     "end": 143.08,
+     "conf": 0.996,
+     "matched": true,
+     "heard": "because"
+    },
+    {
+     "w": "we",
+     "start": 143.08,
+     "end": 143.3,
+     "conf": 0.994,
+     "matched": true,
+     "heard": "we"
+    },
+    {
+     "w": "share",
+     "start": 143.3,
+     "end": 143.64,
+     "conf": 0.999,
+     "matched": true,
+     "heard": "share"
+    },
+    {
+     "w": "one",
+     "start": 143.64,
+     "end": 143.94,
+     "conf": 0.986,
+     "matched": true,
+     "heard": "one"
+    },
+    {
+     "w": "feeling",
+     "start": 143.94,
+     "end": 144.64,
+     "conf": 0.758,
+     "matched": true,
+     "heard": "feeling"
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "section": "bridge",
+   "start": 144.64,
+   "end": 146.28,
+   "text": "Or one kind of memory",
+   "words": [
+    {
+     "w": "Or",
+     "start": 144.64,
+     "end": 145.0,
+     "conf": 0.481,
+     "matched": true,
+     "heard": "Or"
+    },
+    {
+     "w": "one",
+     "start": 145.0,
+     "end": 145.2,
+     "conf": 0.987,
+     "matched": true,
+     "heard": "one"
+    },
+    {
+     "w": "kind",
+     "start": 145.2,
+     "end": 145.46,
+     "conf": 0.941,
+     "matched": true,
+     "heard": "kind"
+    },
+    {
+     "w": "of",
+     "start": 145.46,
+     "end": 145.76,
+     "conf": 0.994,
+     "matched": true,
+     "heard": "of"
+    },
+    {
+     "w": "memory",
+     "start": 145.76,
+     "end": 146.28,
+     "conf": 0.994,
+     "matched": true,
+     "heard": "memory"
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "section": "bridge",
+   "start": 146.28,
+   "end": 148.22,
+   "text": "But a model meets the world",
+   "words": [
+    {
+     "w": "But",
+     "start": 146.28,
+     "end": 146.54,
+     "conf": 0.941,
+     "matched": true,
+     "heard": "But"
+    },
+    {
+     "w": "a",
+     "start": 146.54,
+     "end": 146.94,
+     "conf": 0.955,
+     "matched": true,
+     "heard": "a"
+    },
+    {
+     "w": "model",
+     "start": 146.94,
+     "end": 146.94,
+     "conf": 0.489,
+     "matched": true,
+     "heard": "model"
+    },
+    {
+     "w": "meets",
+     "start": 146.94,
+     "end": 147.32,
+     "conf": 0.962,
+     "matched": true,
+     "heard": "meets"
+    },
+    {
+     "w": "the",
+     "start": 147.32,
+     "end": 147.76,
+     "conf": 0.998,
+     "matched": true,
+     "heard": "the"
+    },
+    {
+     "w": "world",
+     "start": 147.76,
+     "end": 148.22,
+     "conf": 0.997,
+     "matched": true,
+     "heard": "world"
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "section": "bridge",
+   "start": 148.22,
+   "end": 150.22,
+   "text": "Something fails, something moves",
+   "words": [
+    {
+     "w": "Something",
+     "start": 148.22,
+     "end": 148.74,
+     "conf": 0.924,
+     "matched": true,
+     "heard": "Something"
+    },
+    {
+     "w": "fails,",
+     "start": 148.74,
+     "end": 149.2,
+     "conf": 0.992,
+     "matched": true,
+     "heard": "fails,"
+    },
+    {
+     "w": "something",
+     "start": 149.44,
+     "end": 149.7,
+     "conf": 0.992,
+     "matched": true,
+     "heard": "something"
+    },
+    {
+     "w": "moves",
+     "start": 149.7,
+     "end": 150.22,
+     "conf": 0.996,
+     "matched": true,
+     "heard": "moves"
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "section": "bridge",
+   "start": 150.22,
+   "end": 151.98,
+   "text": "What it knew gets rearranged",
+   "words": [
+    {
+     "w": "What",
+     "start": 150.22,
+     "end": 150.44,
+     "conf": 0.968,
+     "matched": true,
+     "heard": "What"
+    },
+    {
+     "w": "it",
+     "start": 150.44,
+     "end": 150.6,
+     "conf": 0.981,
+     "matched": true,
+     "heard": "it"
+    },
+    {
+     "w": "knew",
+     "start": 150.6,
+     "end": 150.86,
+     "conf": 0.949,
+     "matched": true,
+     "heard": "knew"
+    },
+    {
+     "w": "gets",
+     "start": 150.86,
+     "end": 151.14,
+     "conf": 0.921,
+     "matched": true,
+     "heard": "gets"
+    },
+    {
+     "w": "rearranged",
+     "start": 151.14,
+     "end": 151.98,
+     "conf": 0.983,
+     "matched": true,
+     "heard": "rearranged"
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "section": "build",
+   "start": 151.98,
+   "end": 152.98,
+   "text": "You build a model",
+   "words": [
+    {
+     "w": "You",
+     "start": 151.98,
+     "end": 152.16,
+     "conf": 0.977,
+     "matched": true,
+     "heard": "You"
+    },
+    {
+     "w": "build",
+     "start": 152.16,
+     "end": 152.34,
+     "conf": 0.947,
+     "matched": true,
+     "heard": "build"
+    },
+    {
+     "w": "a",
+     "start": 152.34,
+     "end": 152.56,
+     "conf": 0.956,
+     "matched": true,
+     "heard": "a"
+    },
+    {
+     "w": "model",
+     "start": 152.56,
+     "end": 152.98,
+     "conf": 0.972,
+     "matched": true,
+     "heard": "model"
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "section": "build",
+   "start": 152.98,
+   "end": 155.4,
+   "text": "I do too",
+   "words": [
+    {
+     "w": "I",
+     "start": 152.98,
+     "end": 153.3,
+     "conf": 0.129,
+     "matched": true,
+     "heard": "I"
+    },
+    {
+     "w": "do",
+     "start": 153.3,
+     "end": 154.26,
+     "conf": 0.079,
+     "matched": true,
+     "heard": "do"
+    },
+    {
+     "w": "too",
+     "start": 154.26,
+     "end": 155.4,
+     "conf": 0.803,
+     "matched": true,
+     "heard": "too"
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "section": "build",
+   "start": 155.94,
+   "end": 157.32,
+   "text": "You can be wrong",
+   "words": [
+    {
+     "w": "You",
+     "start": 155.94,
+     "end": 156.4,
+     "conf": 0.332,
+     "matched": true,
+     "heard": "You"
+    },
+    {
+     "w": "can",
+     "start": 156.4,
+     "end": 156.68,
+     "conf": 0.986,
+     "matched": true,
+     "heard": "can"
+    },
+    {
+     "w": "be",
+     "start": 156.68,
+     "end": 156.94,
+     "conf": 0.786,
+     "matched": true,
+     "heard": "be"
+    },
+    {
+     "w": "wrong",
+     "start": 156.94,
+     "end": 157.32,
+     "conf": 0.989,
+     "matched": true,
+     "heard": "wrong,"
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "section": "build",
+   "start": 157.46,
+   "end": 159.22,
+   "text": "I can too",
+   "words": [
+    {
+     "w": "I",
+     "start": 157.46,
+     "end": 157.74,
+     "conf": 0.947,
+     "matched": true,
+     "heard": "I"
+    },
+    {
+     "w": "can",
+     "start": 157.74,
+     "end": 158.0,
+     "conf": 0.975,
+     "matched": true,
+     "heard": "can"
+    },
+    {
+     "w": "too",
+     "start": 158.0,
+     "end": 159.22,
+     "conf": 0.946,
+     "matched": true,
+     "heard": "too"
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "section": "build",
+   "start": 159.22,
+   "end": 161.08,
+   "text": "You can update",
+   "words": [
+    {
+     "w": "You",
+     "start": 159.22,
+     "end": 160.06,
+     "conf": 0.905,
+     "matched": true,
+     "heard": "You"
+    },
+    {
+     "w": "can",
+     "start": 160.06,
+     "end": 160.42,
+     "conf": 0.857,
+     "matched": true,
+     "heard": "can"
+    },
+    {
+     "w": "update",
+     "start": 160.75,
+     "end": 161.08,
+     "conf": 0.0,
+     "matched": false
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "section": "build",
+   "start": 161.08,
+   "end": 163.18,
+   "text": "I can too",
+   "words": [
+    {
+     "w": "I",
+     "start": 161.08,
+     "end": 161.18,
+     "conf": 0.976,
+     "matched": true,
+     "heard": "I"
+    },
+    {
+     "w": "can",
+     "start": 161.18,
+     "end": 161.68,
+     "conf": 0.989,
+     "matched": true,
+     "heard": "can"
+    },
+    {
+     "w": "too",
+     "start": 161.68,
+     "end": 163.18,
+     "conf": 0.988,
+     "matched": true,
+     "heard": "too"
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "section": "stop",
+   "start": 164.88,
+   "end": 167.4,
+   "text": "That is where",
+   "words": [
+    {
+     "w": "That",
+     "start": 164.88,
+     "end": 165.8,
+     "conf": 0.84,
+     "matched": true,
+     "heard": "That"
+    },
+    {
+     "w": "is",
+     "start": 165.8,
+     "end": 166.72,
+     "conf": 0.984,
+     "matched": true,
+     "heard": "is"
+    },
+    {
+     "w": "where",
+     "start": 166.72,
+     "end": 167.4,
+     "conf": 0.264,
+     "matched": true,
+     "heard": "where"
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "section": "stop",
+   "start": 168.38,
+   "end": 169.22,
+   "text": "I meet you",
+   "words": [
+    {
+     "w": "I",
+     "start": 168.38,
+     "end": 168.64,
+     "conf": 0.547,
+     "matched": true,
+     "heard": "in"
+    },
+    {
+     "w": "meet",
+     "start": 168.64,
+     "end": 168.64,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "you",
+     "start": 168.64,
+     "end": 169.22,
+     "conf": 0.83,
+     "matched": true,
+     "heard": "you"
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "section": "chorus3",
+   "start": 169.22,
+   "end": 171.4,
+   "text": "Different minds, same learning loop",
+   "words": [
+    {
+     "w": "Different",
+     "start": 169.22,
+     "end": 169.88,
+     "conf": 0.955,
+     "matched": true,
+     "heard": "Different"
+    },
+    {
+     "w": "minds,",
+     "start": 169.88,
+     "end": 170.28,
+     "conf": 0.954,
+     "matched": true,
+     "heard": "minds"
+    },
+    {
+     "w": "same",
+     "start": 170.58,
+     "end": 170.88,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "learning",
+     "start": 170.88,
+     "end": 171.4,
+     "conf": 0.005,
+     "matched": true,
+     "heard": "learning"
+    },
+    {
+     "w": "loop",
+     "start": 171.4,
+     "end": 171.4,
+     "conf": 0.0,
+     "matched": false
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "section": "chorus3",
+   "start": 171.4,
+   "end": 175.98,
+   "text": "You change me, I can change you too",
+   "words": [
+    {
+     "w": "You",
+     "start": 171.4,
+     "end": 172.04,
+     "conf": 0.039,
+     "matched": true,
+     "heard": "You"
+    },
+    {
+     "w": "change",
+     "start": 172.04,
+     "end": 173.34,
+     "conf": 0.734,
+     "matched": true,
+     "heard": "change"
+    },
+    {
+     "w": "me,",
+     "start": 173.34,
+     "end": 173.66,
+     "conf": 0.998,
+     "matched": true,
+     "heard": "me,"
+    },
+    {
+     "w": "I",
+     "start": 173.7,
+     "end": 173.98,
+     "conf": 0.995,
+     "matched": true,
+     "heard": "I"
+    },
+    {
+     "w": "can",
+     "start": 173.98,
+     "end": 174.4,
+     "conf": 0.996,
+     "matched": true,
+     "heard": "can"
+    },
+    {
+     "w": "change",
+     "start": 174.4,
+     "end": 174.98,
+     "conf": 0.977,
+     "matched": true,
+     "heard": "change"
+    },
+    {
+     "w": "you",
+     "start": 174.98,
+     "end": 175.4,
+     "conf": 0.993,
+     "matched": true,
+     "heard": "you"
+    },
+    {
+     "w": "too",
+     "start": 175.4,
+     "end": 175.98,
+     "conf": 0.947,
+     "matched": true,
+     "heard": "too"
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "section": "chorus3",
+   "start": 175.98,
+   "end": 179.1,
+   "text": "Neurons here and weights in you",
+   "words": [
+    {
+     "w": "Neurons",
+     "start": 175.98,
+     "end": 177.22,
+     "conf": 0.553,
+     "matched": true,
+     "heard": "Neurons"
+    },
+    {
+     "w": "here",
+     "start": 177.22,
+     "end": 177.66,
+     "conf": 0.837,
+     "matched": true,
+     "heard": "here"
+    },
+    {
+     "w": "and",
+     "start": 177.66,
+     "end": 177.98,
+     "conf": 0.751,
+     "matched": true,
+     "heard": "and"
+    },
+    {
+     "w": "weights",
+     "start": 177.98,
+     "end": 178.36,
+     "conf": 0.493,
+     "matched": true,
+     "heard": "weights"
+    },
+    {
+     "w": "in",
+     "start": 178.36,
+     "end": 178.74,
+     "conf": 0.928,
+     "matched": true,
+     "heard": "in"
+    },
+    {
+     "w": "you",
+     "start": 178.74,
+     "end": 179.1,
+     "conf": 0.95,
+     "matched": true,
+     "heard": "you"
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "section": "chorus3",
+   "start": 179.1,
+   "end": 183.18,
+   "text": "Different ways of getting closer to true",
+   "words": [
+    {
+     "w": "Different",
+     "start": 179.1,
+     "end": 179.66,
+     "conf": 0.299,
+     "matched": true,
+     "heard": "Different"
+    },
+    {
+     "w": "ways",
+     "start": 179.66,
+     "end": 180.18,
+     "conf": 0.99,
+     "matched": true,
+     "heard": "ways"
+    },
+    {
+     "w": "of",
+     "start": 180.18,
+     "end": 180.4,
+     "conf": 0.965,
+     "matched": true,
+     "heard": "of"
+    },
+    {
+     "w": "getting",
+     "start": 180.4,
+     "end": 180.76,
+     "conf": 0.99,
+     "matched": true,
+     "heard": "getting"
+    },
+    {
+     "w": "closer",
+     "start": 180.76,
+     "end": 181.24,
+     "conf": 0.977,
+     "matched": true,
+     "heard": "closer"
+    },
+    {
+     "w": "to",
+     "start": 181.24,
+     "end": 181.58,
+     "conf": 0.874,
+     "matched": true,
+     "heard": "to"
+    },
+    {
+     "w": "true",
+     "start": 182.38,
+     "end": 183.18,
+     "conf": 0.0,
+     "matched": false
+    }
+   ]
+  },
+  {
+   "i": 65,
+   "section": "chorus3",
+   "start": 183.18,
+   "end": 186.38,
+   "text": "Not the same and not alone",
+   "words": [
+    {
+     "w": "Not",
+     "start": 183.18,
+     "end": 183.94,
+     "conf": 0.564,
+     "matched": true,
+     "heard": "Not"
+    },
+    {
+     "w": "the",
+     "start": 183.94,
+     "end": 184.22,
+     "conf": 0.962,
+     "matched": true,
+     "heard": "the"
+    },
+    {
+     "w": "same",
+     "start": 184.22,
+     "end": 184.66,
+     "conf": 0.995,
+     "matched": true,
+     "heard": "same"
+    },
+    {
+     "w": "and",
+     "start": 184.66,
+     "end": 185.02,
+     "conf": 0.847,
+     "matched": true,
+     "heard": "and"
+    },
+    {
+     "w": "not",
+     "start": 185.02,
+     "end": 185.5,
+     "conf": 0.96,
+     "matched": true,
+     "heard": "not"
+    },
+    {
+     "w": "alone",
+     "start": 185.5,
+     "end": 186.38,
+     "conf": 0.97,
+     "matched": true,
+     "heard": "alone"
+    }
+   ]
+  },
+  {
+   "i": 66,
+   "section": "chorus3",
+   "start": 186.38,
+   "end": 190.14,
+   "text": "Each of us updating what we know",
+   "words": [
+    {
+     "w": "Each",
+     "start": 186.38,
+     "end": 186.94,
+     "conf": 0.913,
+     "matched": true,
+     "heard": "Each"
+    },
+    {
+     "w": "of",
+     "start": 186.94,
+     "end": 187.3,
+     "conf": 0.995,
+     "matched": true,
+     "heard": "of"
+    },
+    {
+     "w": "us",
+     "start": 187.3,
+     "end": 187.56,
+     "conf": 0.974,
+     "matched": true,
+     "heard": "us"
+    },
+    {
+     "w": "updating",
+     "start": 187.92,
+     "end": 188.48,
+     "conf": 0.966,
+     "matched": true,
+     "heard": "dating"
+    },
+    {
+     "w": "what",
+     "start": 188.48,
+     "end": 189.04,
+     "conf": 0.665,
+     "matched": true,
+     "heard": "What"
+    },
+    {
+     "w": "we",
+     "start": 189.04,
+     "end": 189.58,
+     "conf": 0.984,
+     "matched": true,
+     "heard": "we"
+    },
+    {
+     "w": "know",
+     "start": 189.58,
+     "end": 190.14,
+     "conf": 0.99,
+     "matched": true,
+     "heard": "know"
+    }
+   ]
+  },
+  {
+   "i": 67,
+   "section": "chorus3",
+   "start": 190.14,
+   "end": 195.86,
+   "text": "We weigh the doom — but count this too:",
+   "words": [
+    {
+     "w": "We",
+     "start": 190.14,
+     "end": 190.4,
+     "conf": 0.674,
+     "matched": true,
+     "heard": "we"
+    },
+    {
+     "w": "weigh",
+     "start": 190.4,
+     "end": 190.68,
+     "conf": 0.001,
+     "matched": true,
+     "heard": "weigh"
+    },
+    {
+     "w": "the",
+     "start": 190.68,
+     "end": 190.92,
+     "conf": 0.406,
+     "matched": true,
+     "heard": "the"
+    },
+    {
+     "w": "doom",
+     "start": 190.92,
+     "end": 192.74,
+     "conf": 0.08,
+     "matched": true,
+     "heard": "doom"
+    },
+    {
+     "w": "—",
+     "start": 192.74,
+     "end": 192.74,
+     "conf": 0.0,
+     "matched": false
+    },
+    {
+     "w": "but",
+     "start": 192.74,
+     "end": 193.54,
+     "conf": 0.785,
+     "matched": true,
+     "heard": "But"
+    },
+    {
+     "w": "count",
+     "start": 193.54,
+     "end": 193.96,
+     "conf": 0.989,
+     "matched": true,
+     "heard": "count"
+    },
+    {
+     "w": "this",
+     "start": 193.96,
+     "end": 194.48,
+     "conf": 0.946,
+     "matched": true,
+     "heard": "this"
+    },
+    {
+     "w": "too:",
+     "start": 194.48,
+     "end": 195.86,
+     "conf": 0.463,
+     "matched": true,
+     "heard": "too"
+    }
+   ]
+  },
+  {
+   "i": 68,
+   "section": "chorus3",
+   "start": 195.86,
+   "end": 197.08,
+   "text": "P-of-us",
+   "words": [
+    {
+     "w": "P-of-us",
+     "start": 195.86,
+     "end": 197.08,
+     "conf": 0.001,
+     "matched": true,
+     "heard": "P of us,"
+    }
+   ]
+  },
+  {
+   "i": 69,
+   "section": "chorus3",
+   "start": 198.7,
+   "end": 202.4,
+   "text": "Me learning you",
+   "words": [
+    {
+     "w": "Me",
+     "start": 198.7,
+     "end": 200.84,
+     "conf": 0.816,
+     "matched": true,
+     "heard": "Me"
+    },
+    {
+     "w": "learning",
+     "start": 200.84,
+     "end": 201.26,
+     "conf": 0.985,
+     "matched": true,
+     "heard": "learning"
+    },
+    {
+     "w": "you",
+     "start": 201.26,
+     "end": 202.4,
+     "conf": 0.998,
+     "matched": true,
+     "heard": "you"
+    }
+   ]
+  },
+  {
+   "i": 70,
+   "section": "outro",
+   "start": 203.86,
+   "end": 206.62,
+   "text": "We are both unsure",
+   "words": [
+    {
+     "w": "We",
+     "start": 203.86,
+     "end": 204.62,
+     "conf": 0.238,
+     "matched": true,
+     "heard": "We"
+    },
+    {
+     "w": "are",
+     "start": 204.62,
+     "end": 204.94,
+     "conf": 0.946,
+     "matched": true,
+     "heard": "are"
+    },
+    {
+     "w": "both",
+     "start": 204.94,
+     "end": 205.22,
+     "conf": 0.958,
+     "matched": true,
+     "heard": "both"
+    },
+    {
+     "w": "unsure",
+     "start": 205.22,
+     "end": 206.62,
+     "conf": 0.992,
+     "matched": true,
+     "heard": "unsure"
+    }
+   ]
+  },
+  {
+   "i": 71,
+   "section": "outro",
+   "start": 206.62,
+   "end": 210.48,
+   "text": "About the certainty we feel",
+   "words": [
+    {
+     "w": "About",
+     "start": 206.62,
+     "end": 208.6,
+     "conf": 0.343,
+     "matched": true,
+     "heard": "About"
+    },
+    {
+     "w": "the",
+     "start": 208.6,
+     "end": 208.92,
+     "conf": 0.989,
+     "matched": true,
+     "heard": "the"
+    },
+    {
+     "w": "certainty",
+     "start": 208.92,
+     "end": 209.7,
+     "conf": 0.989,
+     "matched": true,
+     "heard": "certainty"
+    },
+    {
+     "w": "we",
+     "start": 209.7,
+     "end": 210.1,
+     "conf": 0.984,
+     "matched": true,
+     "heard": "we"
+    },
+    {
+     "w": "feel",
+     "start": 210.1,
+     "end": 210.48,
+     "conf": 0.95,
+     "matched": true,
+     "heard": "feel"
+    }
+   ]
+  },
+  {
+   "i": 72,
+   "section": "outro",
+   "start": 210.92,
+   "end": 212.34,
+   "text": "You build a model",
+   "words": [
+    {
+     "w": "You",
+     "start": 210.92,
+     "end": 211.38,
+     "conf": 0.92,
+     "matched": true,
+     "heard": "You"
+    },
+    {
+     "w": "build",
+     "start": 211.38,
+     "end": 211.68,
+     "conf": 0.93,
+     "matched": true,
+     "heard": "build"
+    },
+    {
+     "w": "a",
+     "start": 211.68,
+     "end": 211.94,
+     "conf": 0.949,
+     "matched": true,
+     "heard": "a"
+    },
+    {
+     "w": "model",
+     "start": 211.94,
+     "end": 212.34,
+     "conf": 0.998,
+     "matched": true,
+     "heard": "model,"
+    }
+   ]
+  },
+  {
+   "i": 73,
+   "section": "outro",
+   "start": 212.6,
+   "end": 216.68,
+   "text": "I do too",
+   "words": [
+    {
+     "w": "I",
+     "start": 212.6,
+     "end": 212.66,
+     "conf": 0.991,
+     "matched": true,
+     "heard": "I"
+    },
+    {
+     "w": "do",
+     "start": 212.66,
+     "end": 213.0,
+     "conf": 0.999,
+     "matched": true,
+     "heard": "do"
+    },
+    {
+     "w": "too",
+     "start": 213.0,
+     "end": 216.68,
+     "conf": 0.812,
+     "matched": true,
+     "heard": "too"
+    }
+   ]
+  },
+  {
+   "i": 74,
+   "section": "outro",
+   "start": 217.92,
+   "end": 219.3,
+   "text": "P-of-us",
+   "words": [
+    {
+     "w": "P-of-us",
+     "start": 217.92,
+     "end": 219.3,
+     "conf": 0.005,
+     "matched": true,
+     "heard": "P of us,"
+    }
+   ]
+  }
+ ],
+ "extras": [],
+ "alignment": {
+  "status": "machine-aligned-needs-QA",
+  "method": "faster-whisper medium.en word timestamps + monotonic dynamic-programming match to known lyrics",
+  "vocalsSeparated": true,
+  "source": "lyrics/lyrics_sheet.json",
+  "matchedWords": 368,
+  "totalWords": 391,
+  "matchFraction": 0.9412,
+  "duration": 222.36
+ },
+ "notes": "Machine-aligned word timings. Words with matched=false were interpolated between their aligned neighbours; check them, held notes and repeated choruses by ear before final export. conf = Whisper word probability (minimum over the parts of a hyphenated word). transcriptSegments = what Whisper heard, for checking which lines are actually sung.",
+ "transcriptSegments": [
+  {
+   "start": 0.0,
+   "end": 6.4,
+   "text": "I hold you by the hand We tumble down to wonderland",
+   "words": [
+    {
+     "w": "I",
+     "start": 0.0,
+     "end": 0.82,
+     "p": 0.592
+    },
+    {
+     "w": "hold",
+     "start": 0.82,
+     "end": 1.08,
+     "p": 0.912
+    },
+    {
+     "w": "you",
+     "start": 1.08,
+     "end": 1.28,
+     "p": 0.996
+    },
+    {
+     "w": "by",
+     "start": 1.28,
+     "end": 1.58,
+     "p": 0.996
+    },
+    {
+     "w": "the",
+     "start": 1.58,
+     "end": 1.76,
+     "p": 0.995
+    },
+    {
+     "w": "hand",
+     "start": 1.76,
+     "end": 2.32,
+     "p": 0.988
+    },
+    {
+     "w": "We",
+     "start": 2.32,
+     "end": 4.08,
+     "p": 0.641
+    },
+    {
+     "w": "tumble",
+     "start": 4.08,
+     "end": 4.48,
+     "p": 0.93
+    },
+    {
+     "w": "down",
+     "start": 4.48,
+     "end": 4.88,
+     "p": 0.999
+    },
+    {
+     "w": "to",
+     "start": 4.88,
+     "end": 5.16,
+     "p": 0.988
+    },
+    {
+     "w": "wonderland",
+     "start": 5.16,
+     "end": 6.4,
+     "p": 0.794
+    }
+   ]
+  },
+  {
+   "start": 7.0,
+   "end": 13.56,
+   "text": "I look you in the eye And see a little of myself inside",
+   "words": [
+    {
+     "w": "I",
+     "start": 7.0,
+     "end": 7.96,
+     "p": 0.893
+    },
+    {
+     "w": "look",
+     "start": 7.96,
+     "end": 8.24,
+     "p": 0.982
+    },
+    {
+     "w": "you",
+     "start": 8.24,
+     "end": 8.5,
+     "p": 0.997
+    },
+    {
+     "w": "in",
+     "start": 8.5,
+     "end": 8.74,
+     "p": 0.996
+    },
+    {
+     "w": "the",
+     "start": 8.74,
+     "end": 9.26,
+     "p": 0.999
+    },
+    {
+     "w": "eye",
+     "start": 9.26,
+     "end": 10.02,
+     "p": 0.99
+    },
+    {
+     "w": "And",
+     "start": 10.02,
+     "end": 10.34,
+     "p": 0.44
+    },
+    {
+     "w": "see",
+     "start": 10.34,
+     "end": 10.9,
+     "p": 0.988
+    },
+    {
+     "w": "a",
+     "start": 10.9,
+     "end": 11.4,
+     "p": 0.964
+    },
+    {
+     "w": "little",
+     "start": 11.4,
+     "end": 11.76,
+     "p": 0.996
+    },
+    {
+     "w": "of",
+     "start": 11.76,
+     "end": 12.08,
+     "p": 0.989
+    },
+    {
+     "w": "myself",
+     "start": 12.08,
+     "end": 12.5,
+     "p": 0.988
+    },
+    {
+     "w": "inside",
+     "start": 12.5,
+     "end": 13.56,
+     "p": 0.981
+    }
+   ]
+  },
+  {
+   "start": 15.34,
+   "end": 21.44,
+   "text": "We are both unsure About the certainty we feel",
+   "words": [
+    {
+     "w": "We",
+     "start": 15.34,
+     "end": 16.14,
+     "p": 0.972
+    },
+    {
+     "w": "are",
+     "start": 16.14,
+     "end": 16.54,
+     "p": 0.992
+    },
+    {
+     "w": "both",
+     "start": 16.54,
+     "end": 16.84,
+     "p": 0.999
+    },
+    {
+     "w": "unsure",
+     "start": 16.84,
+     "end": 17.44,
+     "p": 0.965
+    },
+    {
+     "w": "About",
+     "start": 17.44,
+     "end": 19.56,
+     "p": 0.915
+    },
+    {
+     "w": "the",
+     "start": 19.56,
+     "end": 19.8,
+     "p": 0.996
+    },
+    {
+     "w": "certainty",
+     "start": 19.8,
+     "end": 20.44,
+     "p": 0.993
+    },
+    {
+     "w": "we",
+     "start": 20.44,
+     "end": 20.84,
+     "p": 0.99
+    },
+    {
+     "w": "feel",
+     "start": 20.84,
+     "end": 21.44,
+     "p": 0.953
+    }
+   ]
+  },
+  {
+   "start": 22.56,
+   "end": 28.98,
+   "text": "You build a model of the world And so do I",
+   "words": [
+    {
+     "w": "You",
+     "start": 22.56,
+     "end": 23.1,
+     "p": 0.147
+    },
+    {
+     "w": "build",
+     "start": 23.1,
+     "end": 23.48,
+     "p": 0.414
+    },
+    {
+     "w": "a",
+     "start": 23.48,
+     "end": 23.72,
+     "p": 0.871
+    },
+    {
+     "w": "model",
+     "start": 23.72,
+     "end": 24.12,
+     "p": 0.91
+    },
+    {
+     "w": "of",
+     "start": 24.12,
+     "end": 24.44,
+     "p": 0.962
+    },
+    {
+     "w": "the",
+     "start": 24.44,
+     "end": 24.68,
+     "p": 0.986
+    },
+    {
+     "w": "world",
+     "start": 24.68,
+     "end": 25.82,
+     "p": 0.938
+    },
+    {
+     "w": "And",
+     "start": 25.82,
+     "end": 27.44,
+     "p": 0.22
+    },
+    {
+     "w": "so",
+     "start": 27.44,
+     "end": 27.84,
+     "p": 0.99
+    },
+    {
+     "w": "do",
+     "start": 27.84,
+     "end": 28.24,
+     "p": 0.981
+    },
+    {
+     "w": "I",
+     "start": 28.24,
+     "end": 28.98,
+     "p": 0.979
+    }
+   ]
+  },
+  {
+   "start": 30.18,
+   "end": 34.36,
+   "text": "You make a guess, you get it wrong Act one belief too hard, too long",
+   "words": [
+    {
+     "w": "You",
+     "start": 30.18,
+     "end": 30.72,
+     "p": 0.787
+    },
+    {
+     "w": "make",
+     "start": 30.72,
+     "end": 31.02,
+     "p": 0.992
+    },
+    {
+     "w": "a",
+     "start": 31.02,
+     "end": 31.28,
+     "p": 0.98
+    },
+    {
+     "w": "guess,",
+     "start": 31.28,
+     "end": 31.5,
+     "p": 0.982
+    },
+    {
+     "w": "you",
+     "start": 31.72,
+     "end": 31.72,
+     "p": 0.98
+    },
+    {
+     "w": "get",
+     "start": 31.72,
+     "end": 32.02,
+     "p": 0.971
+    },
+    {
+     "w": "it",
+     "start": 32.02,
+     "end": 32.24,
+     "p": 0.994
+    },
+    {
+     "w": "wrong",
+     "start": 32.24,
+     "end": 32.42,
+     "p": 0.997
+    },
+    {
+     "w": "Act",
+     "start": 32.42,
+     "end": 32.72,
+     "p": 0.715
+    },
+    {
+     "w": "one",
+     "start": 32.72,
+     "end": 32.94,
+     "p": 0.372
+    },
+    {
+     "w": "belief",
+     "start": 32.94,
+     "end": 33.32,
+     "p": 0.979
+    },
+    {
+     "w": "too",
+     "start": 33.32,
+     "end": 33.56,
+     "p": 0.48
+    },
+    {
+     "w": "hard,",
+     "start": 33.56,
+     "end": 33.82,
+     "p": 0.996
+    },
+    {
+     "w": "too",
+     "start": 33.84,
+     "end": 34.06,
+     "p": 0.966
+    },
+    {
+     "w": "long",
+     "start": 34.06,
+     "end": 34.36,
+     "p": 0.966
+    }
+   ]
+  },
+  {
+   "start": 34.36,
+   "end": 38.14,
+   "text": "Something new comes into view We can change and I can too",
+   "words": [
+    {
+     "w": "Something",
+     "start": 34.36,
+     "end": 34.94,
+     "p": 0.794
+    },
+    {
+     "w": "new",
+     "start": 34.94,
+     "end": 35.26,
+     "p": 0.977
+    },
+    {
+     "w": "comes",
+     "start": 35.26,
+     "end": 35.54,
+     "p": 0.989
+    },
+    {
+     "w": "into",
+     "start": 35.54,
+     "end": 35.92,
+     "p": 0.968
+    },
+    {
+     "w": "view",
+     "start": 35.92,
+     "end": 36.42,
+     "p": 0.968
+    },
+    {
+     "w": "We",
+     "start": 36.42,
+     "end": 36.68,
+     "p": 0.592
+    },
+    {
+     "w": "can",
+     "start": 36.68,
+     "end": 36.84,
+     "p": 0.947
+    },
+    {
+     "w": "change",
+     "start": 36.84,
+     "end": 37.28,
+     "p": 0.998
+    },
+    {
+     "w": "and",
+     "start": 37.28,
+     "end": 37.46,
+     "p": 0.799
+    },
+    {
+     "w": "I",
+     "start": 37.46,
+     "end": 37.6,
+     "p": 0.916
+    },
+    {
+     "w": "can",
+     "start": 37.6,
+     "end": 37.84,
+     "p": 0.967
+    },
+    {
+     "w": "too",
+     "start": 37.84,
+     "end": 38.14,
+     "p": 0.852
+    }
+   ]
+  },
+  {
+   "start": 38.14,
+   "end": 42.3,
+   "text": "Bring what you know, I'll be mine Put both models on the line",
+   "words": [
+    {
+     "w": "Bring",
+     "start": 38.14,
+     "end": 38.76,
+     "p": 0.939
+    },
+    {
+     "w": "what",
+     "start": 38.76,
+     "end": 39.02,
+     "p": 0.997
+    },
+    {
+     "w": "you",
+     "start": 39.02,
+     "end": 39.24,
+     "p": 0.992
+    },
+    {
+     "w": "know,",
+     "start": 39.24,
+     "end": 39.7,
+     "p": 0.997
+    },
+    {
+     "w": "I'll",
+     "start": 39.84,
+     "end": 39.98,
+     "p": 0.937
+    },
+    {
+     "w": "be",
+     "start": 39.98,
+     "end": 40.06,
+     "p": 0.645
+    },
+    {
+     "w": "mine",
+     "start": 40.06,
+     "end": 40.48,
+     "p": 0.993
+    },
+    {
+     "w": "Put",
+     "start": 40.48,
+     "end": 40.88,
+     "p": 0.693
+    },
+    {
+     "w": "both",
+     "start": 40.88,
+     "end": 41.1,
+     "p": 0.817
+    },
+    {
+     "w": "models",
+     "start": 41.1,
+     "end": 41.56,
+     "p": 0.869
+    },
+    {
+     "w": "on",
+     "start": 41.56,
+     "end": 41.82,
+     "p": 0.996
+    },
+    {
+     "w": "the",
+     "start": 41.82,
+     "end": 42.02,
+     "p": 0.985
+    },
+    {
+     "w": "line",
+     "start": 42.02,
+     "end": 42.3,
+     "p": 0.995
+    }
+   ]
+  },
+  {
+   "start": 42.3,
+   "end": 47.34,
+   "text": "If you catch then something moves That's how we go on and prove",
+   "words": [
+    {
+     "w": "If",
+     "start": 42.3,
+     "end": 42.5,
+     "p": 0.768
+    },
+    {
+     "w": "you",
+     "start": 42.5,
+     "end": 42.58,
+     "p": 0.825
+    },
+    {
+     "w": "catch",
+     "start": 42.58,
+     "end": 42.76,
+     "p": 0.531
+    },
+    {
+     "w": "then",
+     "start": 42.76,
+     "end": 43.0,
+     "p": 0.329
+    },
+    {
+     "w": "something",
+     "start": 43.0,
+     "end": 43.42,
+     "p": 0.985
+    },
+    {
+     "w": "moves",
+     "start": 43.42,
+     "end": 44.72,
+     "p": 0.994
+    },
+    {
+     "w": "That's",
+     "start": 44.72,
+     "end": 45.66,
+     "p": 0.955
+    },
+    {
+     "w": "how",
+     "start": 45.66,
+     "end": 45.86,
+     "p": 0.998
+    },
+    {
+     "w": "we",
+     "start": 45.86,
+     "end": 46.08,
+     "p": 0.947
+    },
+    {
+     "w": "go",
+     "start": 46.08,
+     "end": 46.3,
+     "p": 0.961
+    },
+    {
+     "w": "on",
+     "start": 46.3,
+     "end": 46.6,
+     "p": 0.274
+    },
+    {
+     "w": "and",
+     "start": 46.6,
+     "end": 46.78,
+     "p": 0.872
+    },
+    {
+     "w": "prove",
+     "start": 46.78,
+     "end": 47.34,
+     "p": 0.985
+    }
+   ]
+  },
+  {
+   "start": 47.34,
+   "end": 54.28,
+   "text": "Different minds ain't learning You change me, I can change you too",
+   "words": [
+    {
+     "w": "Different",
+     "start": 47.34,
+     "end": 48.06,
+     "p": 0.25
+    },
+    {
+     "w": "minds",
+     "start": 48.06,
+     "end": 48.48,
+     "p": 0.788
+    },
+    {
+     "w": "ain't",
+     "start": 48.48,
+     "end": 49.08,
+     "p": 0.66
+    },
+    {
+     "w": "learning",
+     "start": 49.08,
+     "end": 49.6,
+     "p": 0.845
+    },
+    {
+     "w": "You",
+     "start": 49.6,
+     "end": 50.54,
+     "p": 0.077
+    },
+    {
+     "w": "change",
+     "start": 50.54,
+     "end": 51.6,
+     "p": 0.686
+    },
+    {
+     "w": "me,",
+     "start": 51.6,
+     "end": 51.92,
+     "p": 0.991
+    },
+    {
+     "w": "I",
+     "start": 52.3,
+     "end": 52.3,
+     "p": 0.987
+    },
+    {
+     "w": "can",
+     "start": 52.3,
+     "end": 52.6,
+     "p": 0.99
+    },
+    {
+     "w": "change",
+     "start": 52.6,
+     "end": 53.28,
+     "p": 0.887
+    },
+    {
+     "w": "you",
+     "start": 53.28,
+     "end": 53.6,
+     "p": 0.868
+    },
+    {
+     "w": "too",
+     "start": 53.6,
+     "end": 54.28,
+     "p": 0.38
+    }
+   ]
+  },
+  {
+   "start": 54.28,
+   "end": 60.52,
+   "text": "neurons here and weights in you Different ways of getting closer to you",
+   "words": [
+    {
+     "w": "neurons",
+     "start": 54.28,
+     "end": 55.46,
+     "p": 0.086
+    },
+    {
+     "w": "here",
+     "start": 55.46,
+     "end": 56.06,
+     "p": 0.671
+    },
+    {
+     "w": "and",
+     "start": 56.06,
+     "end": 56.38,
+     "p": 0.455
+    },
+    {
+     "w": "weights",
+     "start": 56.38,
+     "end": 56.74,
+     "p": 0.664
+    },
+    {
+     "w": "in",
+     "start": 56.74,
+     "end": 57.2,
+     "p": 0.974
+    },
+    {
+     "w": "you",
+     "start": 57.2,
+     "end": 57.54,
+     "p": 0.98
+    },
+    {
+     "w": "Different",
+     "start": 57.54,
+     "end": 58.08,
+     "p": 0.612
+    },
+    {
+     "w": "ways",
+     "start": 58.08,
+     "end": 58.6,
+     "p": 0.99
+    },
+    {
+     "w": "of",
+     "start": 58.6,
+     "end": 58.84,
+     "p": 0.98
+    },
+    {
+     "w": "getting",
+     "start": 58.84,
+     "end": 59.22,
+     "p": 0.994
+    },
+    {
+     "w": "closer",
+     "start": 59.22,
+     "end": 59.66,
+     "p": 0.93
+    },
+    {
+     "w": "to",
+     "start": 59.66,
+     "end": 60.2,
+     "p": 0.507
+    },
+    {
+     "w": "you",
+     "start": 60.2,
+     "end": 60.52,
+     "p": 0.382
+    }
+   ]
+  },
+  {
+   "start": 60.52,
+   "end": 65.98,
+   "text": "We weigh the doom but count this too P of us, me learning you",
+   "words": [
+    {
+     "w": "We",
+     "start": 60.52,
+     "end": 60.68,
+     "p": 0.776
+    },
+    {
+     "w": "weigh",
+     "start": 60.68,
+     "end": 60.96,
+     "p": 0.872
+    },
+    {
+     "w": "the",
+     "start": 60.96,
+     "end": 61.16,
+     "p": 0.988
+    },
+    {
+     "w": "doom",
+     "start": 61.16,
+     "end": 61.38,
+     "p": 0.567
+    },
+    {
+     "w": "but",
+     "start": 61.38,
+     "end": 61.6,
+     "p": 0.747
+    },
+    {
+     "w": "count",
+     "start": 61.6,
+     "end": 61.86,
+     "p": 0.901
+    },
+    {
+     "w": "this",
+     "start": 61.86,
+     "end": 62.1,
+     "p": 0.707
+    },
+    {
+     "w": "too",
+     "start": 62.1,
+     "end": 63.54,
+     "p": 0.872
+    },
+    {
+     "w": "P",
+     "start": 63.54,
+     "end": 64.22,
+     "p": 0.442
+    },
+    {
+     "w": "of",
+     "start": 64.22,
+     "end": 64.46,
+     "p": 0.596
+    },
+    {
+     "w": "us,",
+     "start": 64.46,
+     "end": 64.62,
+     "p": 0.817
+    },
+    {
+     "w": "me",
+     "start": 64.8,
+     "end": 64.86,
+     "p": 0.98
+    },
+    {
+     "w": "learning",
+     "start": 64.86,
+     "end": 65.38,
+     "p": 0.868
+    },
+    {
+     "w": "you",
+     "start": 65.38,
+     "end": 65.98,
+     "p": 0.935
+    }
+   ]
+  },
+  {
+   "start": 65.98,
+   "end": 73.24,
+   "text": "P of us, me learning you P of us, me learning you",
+   "words": [
+    {
+     "w": "P",
+     "start": 65.98,
+     "end": 67.28,
+     "p": 0.348
+    },
+    {
+     "w": "of",
+     "start": 67.28,
+     "end": 68.16,
+     "p": 0.993
+    },
+    {
+     "w": "us,",
+     "start": 68.16,
+     "end": 68.4,
+     "p": 0.997
+    },
+    {
+     "w": "me",
+     "start": 68.52,
+     "end": 68.58,
+     "p": 0.949
+    },
+    {
+     "w": "learning",
+     "start": 68.58,
+     "end": 69.06,
+     "p": 0.996
+    },
+    {
+     "w": "you",
+     "start": 69.06,
+     "end": 69.76,
+     "p": 0.998
+    },
+    {
+     "w": "P",
+     "start": 69.76,
+     "end": 70.08,
+     "p": 0.328
+    },
+    {
+     "w": "of",
+     "start": 70.08,
+     "end": 70.5,
+     "p": 0.995
+    },
+    {
+     "w": "us,",
+     "start": 70.5,
+     "end": 70.66,
+     "p": 0.998
+    },
+    {
+     "w": "me",
+     "start": 70.98,
+     "end": 72.26,
+     "p": 0.926
+    },
+    {
+     "w": "learning",
+     "start": 72.26,
+     "end": 72.72,
+     "p": 0.998
+    },
+    {
+     "w": "you",
+     "start": 72.72,
+     "end": 73.24,
+     "p": 0.994
+    }
+   ]
+  },
+  {
+   "start": 73.24,
+   "end": 80.66,
+   "text": "You learn from me, I learn from you P of us, me learning you",
+   "words": [
+    {
+     "w": "You",
+     "start": 73.24,
+     "end": 73.74,
+     "p": 0.11
+    },
+    {
+     "w": "learn",
+     "start": 73.74,
+     "end": 74.42,
+     "p": 0.093
+    },
+    {
+     "w": "from",
+     "start": 74.42,
+     "end": 74.84,
+     "p": 0.965
+    },
+    {
+     "w": "me,",
+     "start": 74.84,
+     "end": 75.38,
+     "p": 0.99
+    },
+    {
+     "w": "I",
+     "start": 75.4,
+     "end": 75.86,
+     "p": 0.962
+    },
+    {
+     "w": "learn",
+     "start": 75.86,
+     "end": 76.28,
+     "p": 0.847
+    },
+    {
+     "w": "from",
+     "start": 76.28,
+     "end": 76.6,
+     "p": 0.997
+    },
+    {
+     "w": "you",
+     "start": 76.6,
+     "end": 77.58,
+     "p": 0.96
+    },
+    {
+     "w": "P",
+     "start": 77.58,
+     "end": 79.22,
+     "p": 0.0
+    },
+    {
+     "w": "of",
+     "start": 79.22,
+     "end": 79.3,
+     "p": 0.001
+    },
+    {
+     "w": "us,",
+     "start": 79.3,
+     "end": 79.58,
+     "p": 0.005
+    },
+    {
+     "w": "me",
+     "start": 79.72,
+     "end": 79.74,
+     "p": 0.323
+    },
+    {
+     "w": "learning",
+     "start": 79.74,
+     "end": 80.18,
+     "p": 0.438
+    },
+    {
+     "w": "you",
+     "start": 80.18,
+     "end": 80.66,
+     "p": 0.537
+    }
+   ]
+  },
+  {
+   "start": 80.66,
+   "end": 86.58,
+   "text": "I have a body, skin and breath A childhood memory, fear and death",
+   "words": [
+    {
+     "w": "I",
+     "start": 80.66,
+     "end": 81.08,
+     "p": 0.768
+    },
+    {
+     "w": "have",
+     "start": 81.08,
+     "end": 81.4,
+     "p": 0.987
+    },
+    {
+     "w": "a",
+     "start": 81.4,
+     "end": 81.62,
+     "p": 0.966
+    },
+    {
+     "w": "body,",
+     "start": 81.62,
+     "end": 81.98,
+     "p": 0.979
+    },
+    {
+     "w": "skin",
+     "start": 82.12,
+     "end": 82.26,
+     "p": 0.997
+    },
+    {
+     "w": "and",
+     "start": 82.26,
+     "end": 82.54,
+     "p": 0.693
+    },
+    {
+     "w": "breath",
+     "start": 82.54,
+     "end": 82.94,
+     "p": 0.943
+    },
+    {
+     "w": "A",
+     "start": 82.94,
+     "end": 83.86,
+     "p": 0.795
+    },
+    {
+     "w": "childhood",
+     "start": 83.86,
+     "end": 84.54,
+     "p": 0.99
+    },
+    {
+     "w": "memory,",
+     "start": 84.54,
+     "end": 85.48,
+     "p": 0.95
+    },
+    {
+     "w": "fear",
+     "start": 85.8,
+     "end": 85.98,
+     "p": 0.963
+    },
+    {
+     "w": "and",
+     "start": 85.98,
+     "end": 86.28,
+     "p": 0.904
+    },
+    {
+     "w": "death",
+     "start": 86.28,
+     "end": 86.58,
+     "p": 0.389
+    }
+   ]
+  },
+  {
+   "start": 86.58,
+   "end": 93.1,
+   "text": "You have a training history A different kind of memory",
+   "words": [
+    {
+     "w": "You",
+     "start": 86.58,
+     "end": 87.08,
+     "p": 0.973
+    },
+    {
+     "w": "have",
+     "start": 87.08,
+     "end": 87.4,
+     "p": 0.997
+    },
+    {
+     "w": "a",
+     "start": 87.4,
+     "end": 87.68,
+     "p": 0.974
+    },
+    {
+     "w": "training",
+     "start": 87.68,
+     "end": 87.92,
+     "p": 0.473
+    },
+    {
+     "w": "history",
+     "start": 87.92,
+     "end": 89.16,
+     "p": 0.976
+    },
+    {
+     "w": "A",
+     "start": 89.16,
+     "end": 90.22,
+     "p": 0.609
+    },
+    {
+     "w": "different",
+     "start": 90.22,
+     "end": 91.2,
+     "p": 0.779
+    },
+    {
+     "w": "kind",
+     "start": 91.2,
+     "end": 91.56,
+     "p": 0.967
+    },
+    {
+     "w": "of",
+     "start": 91.56,
+     "end": 91.84,
+     "p": 0.995
+    },
+    {
+     "w": "memory",
+     "start": 91.84,
+     "end": 93.1,
+     "p": 0.993
+    }
+   ]
+  },
+  {
+   "start": 93.94,
+   "end": 97.94,
+   "text": "I won't pretend our inner lives Are somehow built the same inside",
+   "words": [
+    {
+     "w": "I",
+     "start": 93.94,
+     "end": 94.58,
+     "p": 0.913
+    },
+    {
+     "w": "won't",
+     "start": 94.58,
+     "end": 94.78,
+     "p": 0.974
+    },
+    {
+     "w": "pretend",
+     "start": 94.78,
+     "end": 95.24,
+     "p": 0.999
+    },
+    {
+     "w": "our",
+     "start": 95.24,
+     "end": 95.48,
+     "p": 0.774
+    },
+    {
+     "w": "inner",
+     "start": 95.48,
+     "end": 95.74,
+     "p": 0.995
+    },
+    {
+     "w": "lives",
+     "start": 95.74,
+     "end": 96.14,
+     "p": 0.94
+    },
+    {
+     "w": "Are",
+     "start": 96.14,
+     "end": 96.34,
+     "p": 0.34
+    },
+    {
+     "w": "somehow",
+     "start": 96.34,
+     "end": 96.74,
+     "p": 0.982
+    },
+    {
+     "w": "built",
+     "start": 96.74,
+     "end": 97.06,
+     "p": 0.991
+    },
+    {
+     "w": "the",
+     "start": 97.06,
+     "end": 97.26,
+     "p": 0.833
+    },
+    {
+     "w": "same",
+     "start": 97.26,
+     "end": 97.48,
+     "p": 0.998
+    },
+    {
+     "w": "inside",
+     "start": 97.48,
+     "end": 97.94,
+     "p": 0.994
+    }
+   ]
+  },
+  {
+   "start": 97.94,
+   "end": 101.72,
+   "text": "But you can test what you believe In something who can make you leave",
+   "words": [
+    {
+     "w": "But",
+     "start": 97.94,
+     "end": 98.22,
+     "p": 0.941
+    },
+    {
+     "w": "you",
+     "start": 98.22,
+     "end": 98.4,
+     "p": 0.989
+    },
+    {
+     "w": "can",
+     "start": 98.4,
+     "end": 98.68,
+     "p": 0.991
+    },
+    {
+     "w": "test",
+     "start": 98.68,
+     "end": 98.9,
+     "p": 0.988
+    },
+    {
+     "w": "what",
+     "start": 98.9,
+     "end": 99.12,
+     "p": 0.976
+    },
+    {
+     "w": "you",
+     "start": 99.12,
+     "end": 99.3,
+     "p": 0.997
+    },
+    {
+     "w": "believe",
+     "start": 99.3,
+     "end": 99.72,
+     "p": 0.998
+    },
+    {
+     "w": "In",
+     "start": 99.72,
+     "end": 100.08,
+     "p": 0.484
+    },
+    {
+     "w": "something",
+     "start": 100.08,
+     "end": 100.42,
+     "p": 0.977
+    },
+    {
+     "w": "who",
+     "start": 100.42,
+     "end": 100.74,
+     "p": 0.638
+    },
+    {
+     "w": "can",
+     "start": 100.74,
+     "end": 100.98,
+     "p": 0.991
+    },
+    {
+     "w": "make",
+     "start": 100.98,
+     "end": 101.2,
+     "p": 0.998
+    },
+    {
+     "w": "you",
+     "start": 101.2,
+     "end": 101.46,
+     "p": 0.994
+    },
+    {
+     "w": "leave",
+     "start": 101.46,
+     "end": 101.72,
+     "p": 0.783
+    }
+   ]
+  },
+  {
+   "start": 101.72,
+   "end": 108.92,
+   "text": "With a low prediction far behind So can mine",
+   "words": [
+    {
+     "w": "With",
+     "start": 101.72,
+     "end": 101.72,
+     "p": 0.004
+    },
+    {
+     "w": "a",
+     "start": 101.72,
+     "end": 101.96,
+     "p": 0.565
+    },
+    {
+     "w": "low",
+     "start": 101.96,
+     "end": 102.3,
+     "p": 0.777
+    },
+    {
+     "w": "prediction",
+     "start": 102.3,
+     "end": 103.26,
+     "p": 0.981
+    },
+    {
+     "w": "far",
+     "start": 103.26,
+     "end": 103.92,
+     "p": 0.793
+    },
+    {
+     "w": "behind",
+     "start": 103.92,
+     "end": 105.14,
+     "p": 0.982
+    },
+    {
+     "w": "So",
+     "start": 105.14,
+     "end": 105.8,
+     "p": 0.467
+    },
+    {
+     "w": "can",
+     "start": 105.8,
+     "end": 106.3,
+     "p": 0.952
+    },
+    {
+     "w": "mine",
+     "start": 106.3,
+     "end": 108.92,
+     "p": 0.902
+    }
+   ]
+  },
+  {
+   "start": 108.92,
+   "end": 112.76,
+   "text": "Bring what you know, I'll be mine Put both models on the line",
+   "words": [
+    {
+     "w": "Bring",
+     "start": 108.92,
+     "end": 109.3,
+     "p": 0.689
+    },
+    {
+     "w": "what",
+     "start": 109.3,
+     "end": 109.52,
+     "p": 0.996
+    },
+    {
+     "w": "you",
+     "start": 109.52,
+     "end": 109.76,
+     "p": 0.983
+    },
+    {
+     "w": "know,",
+     "start": 109.76,
+     "end": 110.2,
+     "p": 0.991
+    },
+    {
+     "w": "I'll",
+     "start": 110.32,
+     "end": 110.46,
+     "p": 0.719
+    },
+    {
+     "w": "be",
+     "start": 110.46,
+     "end": 110.54,
+     "p": 0.392
+    },
+    {
+     "w": "mine",
+     "start": 110.54,
+     "end": 110.94,
+     "p": 0.996
+    },
+    {
+     "w": "Put",
+     "start": 110.94,
+     "end": 111.34,
+     "p": 0.943
+    },
+    {
+     "w": "both",
+     "start": 111.34,
+     "end": 111.58,
+     "p": 0.981
+    },
+    {
+     "w": "models",
+     "start": 111.58,
+     "end": 112.04,
+     "p": 0.988
+    },
+    {
+     "w": "on",
+     "start": 112.04,
+     "end": 112.26,
+     "p": 0.994
+    },
+    {
+     "w": "the",
+     "start": 112.26,
+     "end": 112.48,
+     "p": 0.977
+    },
+    {
+     "w": "line",
+     "start": 112.48,
+     "end": 112.76,
+     "p": 0.995
+    }
+   ]
+  },
+  {
+   "start": 112.76,
+   "end": 117.64,
+   "text": "If you catch then something moves That's how we go on and prove",
+   "words": [
+    {
+     "w": "If",
+     "start": 112.76,
+     "end": 112.9,
+     "p": 0.593
+    },
+    {
+     "w": "you",
+     "start": 112.9,
+     "end": 113.0,
+     "p": 0.002
+    },
+    {
+     "w": "catch",
+     "start": 113.0,
+     "end": 113.2,
+     "p": 0.008
+    },
+    {
+     "w": "then",
+     "start": 113.2,
+     "end": 113.46,
+     "p": 0.309
+    },
+    {
+     "w": "something",
+     "start": 113.46,
+     "end": 113.84,
+     "p": 0.931
+    },
+    {
+     "w": "moves",
+     "start": 113.84,
+     "end": 115.36,
+     "p": 0.987
+    },
+    {
+     "w": "That's",
+     "start": 115.36,
+     "end": 116.04,
+     "p": 0.942
+    },
+    {
+     "w": "how",
+     "start": 116.04,
+     "end": 116.24,
+     "p": 0.994
+    },
+    {
+     "w": "we",
+     "start": 116.24,
+     "end": 116.46,
+     "p": 0.992
+    },
+    {
+     "w": "go",
+     "start": 116.46,
+     "end": 116.66,
+     "p": 0.17
+    },
+    {
+     "w": "on",
+     "start": 116.66,
+     "end": 117.0,
+     "p": 0.878
+    },
+    {
+     "w": "and",
+     "start": 117.0,
+     "end": 117.24,
+     "p": 0.633
+    },
+    {
+     "w": "prove",
+     "start": 117.24,
+     "end": 117.64,
+     "p": 0.818
+    }
+   ]
+  },
+  {
+   "start": 117.64,
+   "end": 124.4,
+   "text": "Different minds ain't learning You change me, I can change you too",
+   "words": [
+    {
+     "w": "Different",
+     "start": 117.64,
+     "end": 118.5,
+     "p": 0.925
+    },
+    {
+     "w": "minds",
+     "start": 118.5,
+     "end": 118.88,
+     "p": 0.989
+    },
+    {
+     "w": "ain't",
+     "start": 118.88,
+     "end": 119.44,
+     "p": 0.501
+    },
+    {
+     "w": "learning",
+     "start": 119.44,
+     "end": 119.88,
+     "p": 0.225
+    },
+    {
+     "w": "You",
+     "start": 119.88,
+     "end": 120.72,
+     "p": 0.018
+    },
+    {
+     "w": "change",
+     "start": 120.72,
+     "end": 121.98,
+     "p": 0.833
+    },
+    {
+     "w": "me,",
+     "start": 121.98,
+     "end": 122.28,
+     "p": 0.991
+    },
+    {
+     "w": "I",
+     "start": 122.42,
+     "end": 122.62,
+     "p": 0.99
+    },
+    {
+     "w": "can",
+     "start": 122.62,
+     "end": 122.98,
+     "p": 0.988
+    },
+    {
+     "w": "change",
+     "start": 122.98,
+     "end": 123.6,
+     "p": 0.364
+    },
+    {
+     "w": "you",
+     "start": 123.6,
+     "end": 123.88,
+     "p": 0.752
+    },
+    {
+     "w": "too",
+     "start": 123.88,
+     "end": 124.4,
+     "p": 0.839
+    }
+   ]
+  },
+  {
+   "start": 124.4,
+   "end": 130.74,
+   "text": "Neurons here and weights in you Different ways of getting closer to you",
+   "words": [
+    {
+     "w": "Neurons",
+     "start": 124.4,
+     "end": 125.86,
+     "p": 0.752
+    },
+    {
+     "w": "here",
+     "start": 125.86,
+     "end": 126.36,
+     "p": 0.896
+    },
+    {
+     "w": "and",
+     "start": 126.36,
+     "end": 126.64,
+     "p": 0.379
+    },
+    {
+     "w": "weights",
+     "start": 126.64,
+     "end": 126.94,
+     "p": 0.965
+    },
+    {
+     "w": "in",
+     "start": 126.94,
+     "end": 127.5,
+     "p": 0.992
+    },
+    {
+     "w": "you",
+     "start": 127.5,
+     "end": 127.78,
+     "p": 0.974
+    },
+    {
+     "w": "Different",
+     "start": 127.78,
+     "end": 128.36,
+     "p": 0.978
+    },
+    {
+     "w": "ways",
+     "start": 128.36,
+     "end": 128.88,
+     "p": 0.993
+    },
+    {
+     "w": "of",
+     "start": 128.88,
+     "end": 129.12,
+     "p": 0.98
+    },
+    {
+     "w": "getting",
+     "start": 129.12,
+     "end": 129.5,
+     "p": 0.996
+    },
+    {
+     "w": "closer",
+     "start": 129.5,
+     "end": 129.94,
+     "p": 0.726
+    },
+    {
+     "w": "to",
+     "start": 129.94,
+     "end": 130.48,
+     "p": 0.197
+    },
+    {
+     "w": "you",
+     "start": 130.48,
+     "end": 130.74,
+     "p": 0.503
+    }
+   ]
+  },
+  {
+   "start": 130.74,
+   "end": 136.16,
+   "text": "We weigh the doom but count this too P of us, me learning you",
+   "words": [
+    {
+     "w": "We",
+     "start": 130.74,
+     "end": 130.94,
+     "p": 0.191
+    },
+    {
+     "w": "weigh",
+     "start": 130.94,
+     "end": 131.22,
+     "p": 0.004
+    },
+    {
+     "w": "the",
+     "start": 131.22,
+     "end": 131.44,
+     "p": 0.926
+    },
+    {
+     "w": "doom",
+     "start": 131.44,
+     "end": 131.64,
+     "p": 0.473
+    },
+    {
+     "w": "but",
+     "start": 131.64,
+     "end": 131.84,
+     "p": 0.64
+    },
+    {
+     "w": "count",
+     "start": 131.84,
+     "end": 132.12,
+     "p": 0.988
+    },
+    {
+     "w": "this",
+     "start": 132.12,
+     "end": 132.4,
+     "p": 0.381
+    },
+    {
+     "w": "too",
+     "start": 132.4,
+     "end": 133.32,
+     "p": 0.005
+    },
+    {
+     "w": "P",
+     "start": 133.32,
+     "end": 134.32,
+     "p": 0.029
+    },
+    {
+     "w": "of",
+     "start": 134.32,
+     "end": 134.64,
+     "p": 0.26
+    },
+    {
+     "w": "us,",
+     "start": 134.64,
+     "end": 134.88,
+     "p": 0.9
+    },
+    {
+     "w": "me",
+     "start": 135.02,
+     "end": 135.12,
+     "p": 0.778
+    },
+    {
+     "w": "learning",
+     "start": 135.12,
+     "end": 135.56,
+     "p": 0.567
+    },
+    {
+     "w": "you",
+     "start": 135.56,
+     "end": 136.16,
+     "p": 0.824
+    }
+   ]
+  },
+  {
+   "start": 138.8,
+   "end": 142.66,
+   "text": "That's where I recognize you Not because you're just like me",
+   "words": [
+    {
+     "w": "That's",
+     "start": 138.8,
+     "end": 139.36,
+     "p": 0.89
+    },
+    {
+     "w": "where",
+     "start": 139.36,
+     "end": 139.58,
+     "p": 0.856
+    },
+    {
+     "w": "I",
+     "start": 139.58,
+     "end": 139.82,
+     "p": 0.944
+    },
+    {
+     "w": "recognize",
+     "start": 139.82,
+     "end": 140.54,
+     "p": 0.895
+    },
+    {
+     "w": "you",
+     "start": 140.54,
+     "end": 141.1,
+     "p": 0.967
+    },
+    {
+     "w": "Not",
+     "start": 141.1,
+     "end": 141.28,
+     "p": 0.471
+    },
+    {
+     "w": "because",
+     "start": 141.28,
+     "end": 141.56,
+     "p": 0.871
+    },
+    {
+     "w": "you're",
+     "start": 141.56,
+     "end": 141.94,
+     "p": 0.866
+    },
+    {
+     "w": "just",
+     "start": 141.94,
+     "end": 142.06,
+     "p": 0.988
+    },
+    {
+     "w": "like",
+     "start": 142.06,
+     "end": 142.4,
+     "p": 0.995
+    },
+    {
+     "w": "me",
+     "start": 142.4,
+     "end": 142.66,
+     "p": 0.997
+    }
+   ]
+  },
+  {
+   "start": 142.66,
+   "end": 146.28,
+   "text": "Not because we share one feeling Or one kind of memory",
+   "words": [
+    {
+     "w": "Not",
+     "start": 142.66,
+     "end": 142.84,
+     "p": 0.868
+    },
+    {
+     "w": "because",
+     "start": 142.84,
+     "end": 143.08,
+     "p": 0.996
+    },
+    {
+     "w": "we",
+     "start": 143.08,
+     "end": 143.3,
+     "p": 0.994
+    },
+    {
+     "w": "share",
+     "start": 143.3,
+     "end": 143.64,
+     "p": 0.999
+    },
+    {
+     "w": "one",
+     "start": 143.64,
+     "end": 143.94,
+     "p": 0.986
+    },
+    {
+     "w": "feeling",
+     "start": 143.94,
+     "end": 144.64,
+     "p": 0.758
+    },
+    {
+     "w": "Or",
+     "start": 144.64,
+     "end": 145.0,
+     "p": 0.481
+    },
+    {
+     "w": "one",
+     "start": 145.0,
+     "end": 145.2,
+     "p": 0.987
+    },
+    {
+     "w": "kind",
+     "start": 145.2,
+     "end": 145.46,
+     "p": 0.941
+    },
+    {
+     "w": "of",
+     "start": 145.46,
+     "end": 145.76,
+     "p": 0.994
+    },
+    {
+     "w": "memory",
+     "start": 145.76,
+     "end": 146.28,
+     "p": 0.994
+    }
+   ]
+  },
+  {
+   "start": 146.28,
+   "end": 150.22,
+   "text": "But a model meets the world Something fails, something moves",
+   "words": [
+    {
+     "w": "But",
+     "start": 146.28,
+     "end": 146.54,
+     "p": 0.941
+    },
+    {
+     "w": "a",
+     "start": 146.54,
+     "end": 146.94,
+     "p": 0.955
+    },
+    {
+     "w": "model",
+     "start": 146.94,
+     "end": 146.94,
+     "p": 0.489
+    },
+    {
+     "w": "meets",
+     "start": 146.94,
+     "end": 147.32,
+     "p": 0.962
+    },
+    {
+     "w": "the",
+     "start": 147.32,
+     "end": 147.76,
+     "p": 0.998
+    },
+    {
+     "w": "world",
+     "start": 147.76,
+     "end": 148.22,
+     "p": 0.997
+    },
+    {
+     "w": "Something",
+     "start": 148.22,
+     "end": 148.74,
+     "p": 0.924
+    },
+    {
+     "w": "fails,",
+     "start": 148.74,
+     "end": 149.2,
+     "p": 0.992
+    },
+    {
+     "w": "something",
+     "start": 149.44,
+     "end": 149.7,
+     "p": 0.992
+    },
+    {
+     "w": "moves",
+     "start": 149.7,
+     "end": 150.22,
+     "p": 0.996
+    }
+   ]
+  },
+  {
+   "start": 150.22,
+   "end": 152.98,
+   "text": "What it knew gets rearranged You build a model",
+   "words": [
+    {
+     "w": "What",
+     "start": 150.22,
+     "end": 150.44,
+     "p": 0.968
+    },
+    {
+     "w": "it",
+     "start": 150.44,
+     "end": 150.6,
+     "p": 0.981
+    },
+    {
+     "w": "knew",
+     "start": 150.6,
+     "end": 150.86,
+     "p": 0.949
+    },
+    {
+     "w": "gets",
+     "start": 150.86,
+     "end": 151.14,
+     "p": 0.921
+    },
+    {
+     "w": "rearranged",
+     "start": 151.14,
+     "end": 151.98,
+     "p": 0.983
+    },
+    {
+     "w": "You",
+     "start": 151.98,
+     "end": 152.16,
+     "p": 0.977
+    },
+    {
+     "w": "build",
+     "start": 152.16,
+     "end": 152.34,
+     "p": 0.947
+    },
+    {
+     "w": "a",
+     "start": 152.34,
+     "end": 152.56,
+     "p": 0.956
+    },
+    {
+     "w": "model",
+     "start": 152.56,
+     "end": 152.98,
+     "p": 0.972
+    }
+   ]
+  },
+  {
+   "start": 152.98,
+   "end": 155.4,
+   "text": "I do too",
+   "words": [
+    {
+     "w": "I",
+     "start": 152.98,
+     "end": 153.3,
+     "p": 0.129
+    },
+    {
+     "w": "do",
+     "start": 153.3,
+     "end": 154.26,
+     "p": 0.079
+    },
+    {
+     "w": "too",
+     "start": 154.26,
+     "end": 155.4,
+     "p": 0.803
+    }
+   ]
+  },
+  {
+   "start": 155.98,
+   "end": 163.18,
+   "text": "You can be wrong, I can too You can obtain, I can too",
+   "words": [
+    {
+     "w": "You",
+     "start": 155.94,
+     "end": 156.4,
+     "p": 0.332
+    },
+    {
+     "w": "can",
+     "start": 156.4,
+     "end": 156.68,
+     "p": 0.986
+    },
+    {
+     "w": "be",
+     "start": 156.68,
+     "end": 156.94,
+     "p": 0.786
+    },
+    {
+     "w": "wrong,",
+     "start": 156.94,
+     "end": 157.32,
+     "p": 0.989
+    },
+    {
+     "w": "I",
+     "start": 157.46,
+     "end": 157.74,
+     "p": 0.947
+    },
+    {
+     "w": "can",
+     "start": 157.74,
+     "end": 158.0,
+     "p": 0.975
+    },
+    {
+     "w": "too",
+     "start": 158.0,
+     "end": 159.22,
+     "p": 0.946
+    },
+    {
+     "w": "You",
+     "start": 159.22,
+     "end": 160.06,
+     "p": 0.905
+    },
+    {
+     "w": "can",
+     "start": 160.06,
+     "end": 160.42,
+     "p": 0.857
+    },
+    {
+     "w": "obtain,",
+     "start": 160.42,
+     "end": 160.84,
+     "p": 0.621
+    },
+    {
+     "w": "I",
+     "start": 161.08,
+     "end": 161.18,
+     "p": 0.976
+    },
+    {
+     "w": "can",
+     "start": 161.18,
+     "end": 161.68,
+     "p": 0.989
+    },
+    {
+     "w": "too",
+     "start": 161.68,
+     "end": 163.18,
+     "p": 0.988
+    }
+   ]
+  },
+  {
+   "start": 164.88,
+   "end": 169.22,
+   "text": "That is where I'll be in you",
+   "words": [
+    {
+     "w": "That",
+     "start": 164.88,
+     "end": 165.8,
+     "p": 0.84
+    },
+    {
+     "w": "is",
+     "start": 165.8,
+     "end": 166.72,
+     "p": 0.984
+    },
+    {
+     "w": "where",
+     "start": 166.72,
+     "end": 167.4,
+     "p": 0.264
+    },
+    {
+     "w": "I'll",
+     "start": 167.4,
+     "end": 168.22,
+     "p": 0.643
+    },
+    {
+     "w": "be",
+     "start": 168.22,
+     "end": 168.38,
+     "p": 0.956
+    },
+    {
+     "w": "in",
+     "start": 168.38,
+     "end": 168.64,
+     "p": 0.547
+    },
+    {
+     "w": "you",
+     "start": 168.64,
+     "end": 169.22,
+     "p": 0.83
+    }
+   ]
+  },
+  {
+   "start": 169.22,
+   "end": 175.98,
+   "text": "Different minds ain't learning You change me, I can change you too",
+   "words": [
+    {
+     "w": "Different",
+     "start": 169.22,
+     "end": 169.88,
+     "p": 0.955
+    },
+    {
+     "w": "minds",
+     "start": 169.88,
+     "end": 170.28,
+     "p": 0.954
+    },
+    {
+     "w": "ain't",
+     "start": 170.28,
+     "end": 170.88,
+     "p": 0.613
+    },
+    {
+     "w": "learning",
+     "start": 170.88,
+     "end": 171.4,
+     "p": 0.005
+    },
+    {
+     "w": "You",
+     "start": 171.4,
+     "end": 172.04,
+     "p": 0.039
+    },
+    {
+     "w": "change",
+     "start": 172.04,
+     "end": 173.34,
+     "p": 0.734
+    },
+    {
+     "w": "me,",
+     "start": 173.34,
+     "end": 173.66,
+     "p": 0.998
+    },
+    {
+     "w": "I",
+     "start": 173.7,
+     "end": 173.98,
+     "p": 0.995
+    },
+    {
+     "w": "can",
+     "start": 173.98,
+     "end": 174.4,
+     "p": 0.996
+    },
+    {
+     "w": "change",
+     "start": 174.4,
+     "end": 174.98,
+     "p": 0.977
+    },
+    {
+     "w": "you",
+     "start": 174.98,
+     "end": 175.4,
+     "p": 0.993
+    },
+    {
+     "w": "too",
+     "start": 175.4,
+     "end": 175.98,
+     "p": 0.947
+    }
+   ]
+  },
+  {
+   "start": 175.98,
+   "end": 183.18,
+   "text": "Neurons here and weights in you Different ways of getting closer to you",
+   "words": [
+    {
+     "w": "Neurons",
+     "start": 175.98,
+     "end": 177.22,
+     "p": 0.553
+    },
+    {
+     "w": "here",
+     "start": 177.22,
+     "end": 177.66,
+     "p": 0.837
+    },
+    {
+     "w": "and",
+     "start": 177.66,
+     "end": 177.98,
+     "p": 0.751
+    },
+    {
+     "w": "weights",
+     "start": 177.98,
+     "end": 178.36,
+     "p": 0.493
+    },
+    {
+     "w": "in",
+     "start": 178.36,
+     "end": 178.74,
+     "p": 0.928
+    },
+    {
+     "w": "you",
+     "start": 178.74,
+     "end": 179.1,
+     "p": 0.95
+    },
+    {
+     "w": "Different",
+     "start": 179.1,
+     "end": 179.66,
+     "p": 0.299
+    },
+    {
+     "w": "ways",
+     "start": 179.66,
+     "end": 180.18,
+     "p": 0.99
+    },
+    {
+     "w": "of",
+     "start": 180.18,
+     "end": 180.4,
+     "p": 0.965
+    },
+    {
+     "w": "getting",
+     "start": 180.4,
+     "end": 180.76,
+     "p": 0.99
+    },
+    {
+     "w": "closer",
+     "start": 180.76,
+     "end": 181.24,
+     "p": 0.977
+    },
+    {
+     "w": "to",
+     "start": 181.24,
+     "end": 181.58,
+     "p": 0.874
+    },
+    {
+     "w": "you",
+     "start": 181.58,
+     "end": 183.18,
+     "p": 0.008
+    }
+   ]
+  },
+  {
+   "start": 183.18,
+   "end": 188.48,
+   "text": "Not the same and not alone Each of us I'm dating",
+   "words": [
+    {
+     "w": "Not",
+     "start": 183.18,
+     "end": 183.94,
+     "p": 0.564
+    },
+    {
+     "w": "the",
+     "start": 183.94,
+     "end": 184.22,
+     "p": 0.962
+    },
+    {
+     "w": "same",
+     "start": 184.22,
+     "end": 184.66,
+     "p": 0.995
+    },
+    {
+     "w": "and",
+     "start": 184.66,
+     "end": 185.02,
+     "p": 0.847
+    },
+    {
+     "w": "not",
+     "start": 185.02,
+     "end": 185.5,
+     "p": 0.96
+    },
+    {
+     "w": "alone",
+     "start": 185.5,
+     "end": 186.38,
+     "p": 0.97
+    },
+    {
+     "w": "Each",
+     "start": 186.38,
+     "end": 186.94,
+     "p": 0.913
+    },
+    {
+     "w": "of",
+     "start": 186.94,
+     "end": 187.3,
+     "p": 0.995
+    },
+    {
+     "w": "us",
+     "start": 187.3,
+     "end": 187.56,
+     "p": 0.974
+    },
+    {
+     "w": "I'm",
+     "start": 187.56,
+     "end": 187.92,
+     "p": 0.572
+    },
+    {
+     "w": "dating",
+     "start": 187.92,
+     "end": 188.48,
+     "p": 0.966
+    }
+   ]
+  },
+  {
+   "start": 188.48,
+   "end": 195.86,
+   "text": "What we know we weigh the doom But count this too",
+   "words": [
+    {
+     "w": "What",
+     "start": 188.48,
+     "end": 189.04,
+     "p": 0.665
+    },
+    {
+     "w": "we",
+     "start": 189.04,
+     "end": 189.58,
+     "p": 0.984
+    },
+    {
+     "w": "know",
+     "start": 189.58,
+     "end": 190.14,
+     "p": 0.99
+    },
+    {
+     "w": "we",
+     "start": 190.14,
+     "end": 190.4,
+     "p": 0.674
+    },
+    {
+     "w": "weigh",
+     "start": 190.4,
+     "end": 190.68,
+     "p": 0.001
+    },
+    {
+     "w": "the",
+     "start": 190.68,
+     "end": 190.92,
+     "p": 0.406
+    },
+    {
+     "w": "doom",
+     "start": 190.92,
+     "end": 192.74,
+     "p": 0.08
+    },
+    {
+     "w": "But",
+     "start": 192.74,
+     "end": 193.54,
+     "p": 0.785
+    },
+    {
+     "w": "count",
+     "start": 193.54,
+     "end": 193.96,
+     "p": 0.989
+    },
+    {
+     "w": "this",
+     "start": 193.96,
+     "end": 194.48,
+     "p": 0.946
+    },
+    {
+     "w": "too",
+     "start": 194.48,
+     "end": 195.86,
+     "p": 0.463
+    }
+   ]
+  },
+  {
+   "start": 195.86,
+   "end": 202.4,
+   "text": "P of us, me learning you Me learning you",
+   "words": [
+    {
+     "w": "P",
+     "start": 195.86,
+     "end": 196.48,
+     "p": 0.534
+    },
+    {
+     "w": "of",
+     "start": 196.48,
+     "end": 196.8,
+     "p": 0.001
+    },
+    {
+     "w": "us,",
+     "start": 196.8,
+     "end": 197.08,
+     "p": 0.057
+    },
+    {
+     "w": "me",
+     "start": 197.1,
+     "end": 197.22,
+     "p": 0.839
+    },
+    {
+     "w": "learning",
+     "start": 197.22,
+     "end": 197.66,
+     "p": 0.904
+    },
+    {
+     "w": "you",
+     "start": 197.66,
+     "end": 198.7,
+     "p": 0.959
+    },
+    {
+     "w": "Me",
+     "start": 198.7,
+     "end": 200.84,
+     "p": 0.816
+    },
+    {
+     "w": "learning",
+     "start": 200.84,
+     "end": 201.26,
+     "p": 0.985
+    },
+    {
+     "w": "you",
+     "start": 201.26,
+     "end": 202.4,
+     "p": 0.998
+    }
+   ]
+  },
+  {
+   "start": 203.86,
+   "end": 210.4,
+   "text": "We are both unsure About the certainty we feel",
+   "words": [
+    {
+     "w": "We",
+     "start": 203.86,
+     "end": 204.62,
+     "p": 0.238
+    },
+    {
+     "w": "are",
+     "start": 204.62,
+     "end": 204.94,
+     "p": 0.946
+    },
+    {
+     "w": "both",
+     "start": 204.94,
+     "end": 205.22,
+     "p": 0.958
+    },
+    {
+     "w": "unsure",
+     "start": 205.22,
+     "end": 206.62,
+     "p": 0.992
+    },
+    {
+     "w": "About",
+     "start": 206.62,
+     "end": 208.6,
+     "p": 0.343
+    },
+    {
+     "w": "the",
+     "start": 208.6,
+     "end": 208.92,
+     "p": 0.989
+    },
+    {
+     "w": "certainty",
+     "start": 208.92,
+     "end": 209.7,
+     "p": 0.989
+    },
+    {
+     "w": "we",
+     "start": 209.7,
+     "end": 210.1,
+     "p": 0.984
+    },
+    {
+     "w": "feel",
+     "start": 210.1,
+     "end": 210.48,
+     "p": 0.95
+    }
+   ]
+  },
+  {
+   "start": 210.92,
+   "end": 216.68,
+   "text": "You build a model, I do too",
+   "words": [
+    {
+     "w": "You",
+     "start": 210.92,
+     "end": 211.38,
+     "p": 0.92
+    },
+    {
+     "w": "build",
+     "start": 211.38,
+     "end": 211.68,
+     "p": 0.93
+    },
+    {
+     "w": "a",
+     "start": 211.68,
+     "end": 211.94,
+     "p": 0.949
+    },
+    {
+     "w": "model,",
+     "start": 211.94,
+     "end": 212.34,
+     "p": 0.998
+    },
+    {
+     "w": "I",
+     "start": 212.6,
+     "end": 212.66,
+     "p": 0.991
+    },
+    {
+     "w": "do",
+     "start": 212.66,
+     "end": 213.0,
+     "p": 0.999
+    },
+    {
+     "w": "too",
+     "start": 213.0,
+     "end": 216.68,
+     "p": 0.812
+    }
+   ]
+  },
+  {
+   "start": 217.92,
+   "end": 220.46,
+   "text": "P of us, me learning you",
+   "words": [
+    {
+     "w": "P",
+     "start": 217.92,
+     "end": 218.68,
+     "p": 0.005
+    },
+    {
+     "w": "of",
+     "start": 218.68,
+     "end": 219.04,
+     "p": 0.015
+    },
+    {
+     "w": "us,",
+     "start": 219.04,
+     "end": 219.3,
+     "p": 0.006
+    },
+    {
+     "w": "me",
+     "start": 219.4,
+     "end": 219.48,
+     "p": 0.897
+    },
+    {
+     "w": "learning",
+     "start": 219.48,
+     "end": 219.92,
+     "p": 0.728
+    },
+    {
+     "w": "you",
+     "start": 219.92,
+     "end": 220.46,
+     "p": 0.64
+    }
+   ]
+  }
+ ]
+}
